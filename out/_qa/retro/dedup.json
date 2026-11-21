@@ -1,0 +1,404 @@
+{
+  "survivors": [
+    "retro_1000",
+    "retro_1001",
+    "retro_1002",
+    "retro_1003",
+    "retro_1004",
+    "retro_1005",
+    "retro_1006",
+    "retro_1007",
+    "retro_1008",
+    "retro_1009",
+    "retro_1010",
+    "retro_1011",
+    "retro_1012",
+    "retro_1014",
+    "retro_1015",
+    "retro_1016",
+    "retro_1017",
+    "retro_1018",
+    "retro_1019",
+    "retro_1020",
+    "retro_1021",
+    "retro_1022",
+    "retro_1023",
+    "retro_1024",
+    "retro_1025",
+    "retro_1026",
+    "retro_1027",
+    "retro_1028",
+    "retro_1029",
+    "retro_1030",
+    "retro_1031",
+    "retro_1032",
+    "retro_1034",
+    "retro_1036",
+    "retro_1037",
+    "retro_1038",
+    "retro_1039",
+    "retro_1040",
+    "retro_1041",
+    "retro_1042",
+    "retro_1045",
+    "retro_1046",
+    "retro_1047",
+    "retro_1048",
+    "retro_1049",
+    "retro_1050",
+    "retro_1051",
+    "retro_1052",
+    "retro_1053",
+    "retro_1054",
+    "retro_1055",
+    "retro_1056",
+    "retro_1057",
+    "retro_1058",
+    "retro_1059",
+    "retro_1060",
+    "retro_1062",
+    "retro_1063",
+    "retro_1064",
+    "retro_1066",
+    "retro_1067",
+    "retro_1068",
+    "retro_1070",
+    "retro_1071",
+    "retro_1072",
+    "retro_1073",
+    "retro_1074",
+    "retro_1075",
+    "retro_1078",
+    "retro_1079",
+    "retro_1082",
+    "retro_1083",
+    "retro_1084",
+    "retro_1085",
+    "retro_1086",
+    "retro_1087",
+    "retro_1088",
+    "retro_1089"
+  ],
+  "clusters": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2,
+      33,
+      35,
+      44,
+      77,
+      80
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5,
+      13
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10,
+      69
+    ],
+    [
+      11,
+      61
+    ],
+    [
+      12
+    ],
+    [
+      14
+    ],
+    [
+      15,
+      43,
+      81
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ],
+    [
+      18
+    ],
+    [
+      19
+    ],
+    [
+      20
+    ],
+    [
+      21
+    ],
+    [
+      22
+    ],
+    [
+      23
+    ],
+    [
+      24
+    ],
+    [
+      25
+    ],
+    [
+      26
+    ],
+    [
+      27
+    ],
+    [
+      28
+    ],
+    [
+      29
+    ],
+    [
+      30
+    ],
+    [
+      31
+    ],
+    [
+      32
+    ],
+    [
+      34
+    ],
+    [
+      36
+    ],
+    [
+      37
+    ],
+    [
+      38
+    ],
+    [
+      39
+    ],
+    [
+      40
+    ],
+    [
+      41
+    ],
+    [
+      42
+    ],
+    [
+      45
+    ],
+    [
+      46
+    ],
+    [
+      47
+    ],
+    [
+      48
+    ],
+    [
+      49
+    ],
+    [
+      50
+    ],
+    [
+      51
+    ],
+    [
+      52
+    ],
+    [
+      53
+    ],
+    [
+      54
+    ],
+    [
+      55
+    ],
+    [
+      56,
+      76
+    ],
+    [
+      57
+    ],
+    [
+      58,
+      65
+    ],
+    [
+      59
+    ],
+    [
+      60
+    ],
+    [
+      62
+    ],
+    [
+      63
+    ],
+    [
+      64
+    ],
+    [
+      66
+    ],
+    [
+      67
+    ],
+    [
+      68
+    ],
+    [
+      70
+    ],
+    [
+      71
+    ],
+    [
+      72
+    ],
+    [
+      73
+    ],
+    [
+      74
+    ],
+    [
+      75
+    ],
+    [
+      78
+    ],
+    [
+      79
+    ],
+    [
+      82
+    ],
+    [
+      83
+    ],
+    [
+      84
+    ],
+    [
+      85
+    ],
+    [
+      86
+    ],
+    [
+      87
+    ],
+    [
+      88
+    ],
+    [
+      89
+    ]
+  ],
+  "duplicates": [
+    {
+      "id": "retro_1033",
+      "duplicate_of": "retro_1002",
+      "sim": 0.9491,
+      "exact": false
+    },
+    {
+      "id": "retro_1035",
+      "duplicate_of": "retro_1002",
+      "sim": 0.9304,
+      "exact": false
+    },
+    {
+      "id": "retro_1044",
+      "duplicate_of": "retro_1002",
+      "sim": 0.9407,
+      "exact": false
+    },
+    {
+      "id": "retro_1077",
+      "duplicate_of": "retro_1002",
+      "sim": 0.9671,
+      "exact": false
+    },
+    {
+      "id": "retro_1080",
+      "duplicate_of": "retro_1002",
+      "sim": 0.9838,
+      "exact": true
+    },
+    {
+      "id": "retro_1013",
+      "duplicate_of": "retro_1005",
+      "sim": 0.9533,
+      "exact": false
+    },
+    {
+      "id": "retro_1069",
+      "duplicate_of": "retro_1010",
+      "sim": 0.9475,
+      "exact": false
+    },
+    {
+      "id": "retro_1061",
+      "duplicate_of": "retro_1011",
+      "sim": 0.9324,
+      "exact": false
+    },
+    {
+      "id": "retro_1043",
+      "duplicate_of": "retro_1015",
+      "sim": 0.9415,
+      "exact": false
+    },
+    {
+      "id": "retro_1081",
+      "duplicate_of": "retro_1015",
+      "sim": 0.9946,
+      "exact": true
+    },
+    {
+      "id": "retro_1076",
+      "duplicate_of": "retro_1056",
+      "sim": 0.9771,
+      "exact": true
+    },
+    {
+      "id": "retro_1065",
+      "duplicate_of": "retro_1058",
+      "sim": 0.9705,
+      "exact": true
+    }
+  ]
+}

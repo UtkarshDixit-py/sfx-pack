@@ -1,0 +1,458 @@
+{
+  "survivors": [
+    "impact_1000",
+    "impact_1001",
+    "impact_1002",
+    "impact_1003",
+    "impact_1004",
+    "impact_1005",
+    "impact_1006",
+    "impact_1007",
+    "impact_1008",
+    "impact_1009",
+    "impact_1010",
+    "impact_1011",
+    "impact_1012",
+    "impact_1013",
+    "impact_1014",
+    "impact_1015",
+    "impact_1018",
+    "impact_1019",
+    "impact_1020",
+    "impact_1022",
+    "impact_1023",
+    "impact_1024",
+    "impact_1025",
+    "impact_1026",
+    "impact_1027",
+    "impact_1028",
+    "impact_1031",
+    "impact_1032",
+    "impact_1036",
+    "impact_1038",
+    "impact_1039",
+    "impact_1040",
+    "impact_1041",
+    "impact_1042",
+    "impact_1045",
+    "impact_1048",
+    "impact_1049",
+    "impact_1050",
+    "impact_1052",
+    "impact_1053",
+    "impact_1054",
+    "impact_1055",
+    "impact_1059",
+    "impact_1060",
+    "impact_1063",
+    "impact_1067",
+    "impact_1069",
+    "impact_1070",
+    "impact_1071",
+    "impact_1072",
+    "impact_1073",
+    "impact_1074",
+    "impact_1075",
+    "impact_1078",
+    "impact_1079",
+    "impact_1080",
+    "impact_1082",
+    "impact_1083",
+    "impact_1087",
+    "impact_1089"
+  ],
+  "clusters": [
+    [
+      0
+    ],
+    [
+      1,
+      17,
+      30,
+      34,
+      47,
+      58,
+      84
+    ],
+    [
+      2,
+      33
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5,
+      29,
+      37,
+      77
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8,
+      21,
+      68
+    ],
+    [
+      9,
+      16
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13,
+      35,
+      43,
+      44,
+      61,
+      62,
+      81
+    ],
+    [
+      14
+    ],
+    [
+      15,
+      56
+    ],
+    [
+      18
+    ],
+    [
+      19,
+      46,
+      86
+    ],
+    [
+      20
+    ],
+    [
+      22,
+      64
+    ],
+    [
+      23
+    ],
+    [
+      24
+    ],
+    [
+      25
+    ],
+    [
+      26
+    ],
+    [
+      27,
+      51,
+      66,
+      76,
+      88
+    ],
+    [
+      28
+    ],
+    [
+      31
+    ],
+    [
+      32
+    ],
+    [
+      36
+    ],
+    [
+      38
+    ],
+    [
+      39
+    ],
+    [
+      40
+    ],
+    [
+      41
+    ],
+    [
+      42
+    ],
+    [
+      45
+    ],
+    [
+      48
+    ],
+    [
+      49,
+      65
+    ],
+    [
+      50
+    ],
+    [
+      52,
+      57
+    ],
+    [
+      53
+    ],
+    [
+      54
+    ],
+    [
+      55
+    ],
+    [
+      59
+    ],
+    [
+      60
+    ],
+    [
+      63
+    ],
+    [
+      67
+    ],
+    [
+      69
+    ],
+    [
+      70,
+      85
+    ],
+    [
+      71
+    ],
+    [
+      72
+    ],
+    [
+      73
+    ],
+    [
+      74
+    ],
+    [
+      75
+    ],
+    [
+      78
+    ],
+    [
+      79
+    ],
+    [
+      80
+    ],
+    [
+      82
+    ],
+    [
+      83
+    ],
+    [
+      87
+    ],
+    [
+      89
+    ]
+  ],
+  "duplicates": [
+    {
+      "id": "impact_1017",
+      "duplicate_of": "impact_1001",
+      "sim": 0.962,
+      "exact": false
+    },
+    {
+      "id": "impact_1030",
+      "duplicate_of": "impact_1001",
+      "sim": 0.9679,
+      "exact": false
+    },
+    {
+      "id": "impact_1034",
+      "duplicate_of": "impact_1001",
+      "sim": 0.9669,
+      "exact": false
+    },
+    {
+      "id": "impact_1047",
+      "duplicate_of": "impact_1001",
+      "sim": 0.9263,
+      "exact": false
+    },
+    {
+      "id": "impact_1058",
+      "duplicate_of": "impact_1001",
+      "sim": 0.9415,
+      "exact": false
+    },
+    {
+      "id": "impact_1084",
+      "duplicate_of": "impact_1001",
+      "sim": 0.9413,
+      "exact": false
+    },
+    {
+      "id": "impact_1033",
+      "duplicate_of": "impact_1002",
+      "sim": 0.9495,
+      "exact": false
+    },
+    {
+      "id": "impact_1029",
+      "duplicate_of": "impact_1005",
+      "sim": 0.9744,
+      "exact": true
+    },
+    {
+      "id": "impact_1037",
+      "duplicate_of": "impact_1005",
+      "sim": 0.9497,
+      "exact": false
+    },
+    {
+      "id": "impact_1077",
+      "duplicate_of": "impact_1005",
+      "sim": 0.9607,
+      "exact": false
+    },
+    {
+      "id": "impact_1021",
+      "duplicate_of": "impact_1008",
+      "sim": 0.9666,
+      "exact": false
+    },
+    {
+      "id": "impact_1068",
+      "duplicate_of": "impact_1008",
+      "sim": 0.9291,
+      "exact": false
+    },
+    {
+      "id": "impact_1016",
+      "duplicate_of": "impact_1009",
+      "sim": 0.9375,
+      "exact": false
+    },
+    {
+      "id": "impact_1035",
+      "duplicate_of": "impact_1013",
+      "sim": 0.9762,
+      "exact": true
+    },
+    {
+      "id": "impact_1043",
+      "duplicate_of": "impact_1013",
+      "sim": 0.9586,
+      "exact": false
+    },
+    {
+      "id": "impact_1044",
+      "duplicate_of": "impact_1013",
+      "sim": 0.9719,
+      "exact": true
+    },
+    {
+      "id": "impact_1061",
+      "duplicate_of": "impact_1013",
+      "sim": 0.9801,
+      "exact": true
+    },
+    {
+      "id": "impact_1062",
+      "duplicate_of": "impact_1013",
+      "sim": 0.978,
+      "exact": true
+    },
+    {
+      "id": "impact_1081",
+      "duplicate_of": "impact_1013",
+      "sim": 0.9929,
+      "exact": true
+    },
+    {
+      "id": "impact_1056",
+      "duplicate_of": "impact_1015",
+      "sim": 0.9636,
+      "exact": false
+    },
+    {
+      "id": "impact_1046",
+      "duplicate_of": "impact_1019",
+      "sim": 0.9789,
+      "exact": true
+    },
+    {
+      "id": "impact_1086",
+      "duplicate_of": "impact_1019",
+      "sim": 0.9478,
+      "exact": false
+    },
+    {
+      "id": "impact_1064",
+      "duplicate_of": "impact_1022",
+      "sim": 0.9739,
+      "exact": true
+    },
+    {
+      "id": "impact_1051",
+      "duplicate_of": "impact_1027",
+      "sim": 0.9485,
+      "exact": false
+    },
+    {
+      "id": "impact_1066",
+      "duplicate_of": "impact_1027",
+      "sim": 0.9575,
+      "exact": false
+    },
+    {
+      "id": "impact_1076",
+      "duplicate_of": "impact_1027",
+      "sim": 0.9488,
+      "exact": false
+    },
+    {
+      "id": "impact_1088",
+      "duplicate_of": "impact_1027",
+      "sim": 0.9636,
+      "exact": false
+    },
+    {
+      "id": "impact_1065",
+      "duplicate_of": "impact_1049",
+      "sim": 0.968,
+      "exact": false
+    },
+    {
+      "id": "impact_1057",
+      "duplicate_of": "impact_1052",
+      "sim": 0.9507,
+      "exact": false
+    },
+    {
+      "id": "impact_1085",
+      "duplicate_of": "impact_1070",
+      "sim": 0.9769,
+      "exact": true
+    }
+  ]
+}

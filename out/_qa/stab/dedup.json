@@ -1,0 +1,503 @@
+{
+  "survivors": [
+    "stab_1000",
+    "stab_1001",
+    "stab_1002",
+    "stab_1003",
+    "stab_1004",
+    "stab_1006",
+    "stab_1007",
+    "stab_1008",
+    "stab_1009",
+    "stab_1010",
+    "stab_1012",
+    "stab_1013",
+    "stab_1016",
+    "stab_1018",
+    "stab_1019",
+    "stab_1023",
+    "stab_1024",
+    "stab_1025",
+    "stab_1026",
+    "stab_1027",
+    "stab_1028",
+    "stab_1029",
+    "stab_1030",
+    "stab_1031",
+    "stab_1034",
+    "stab_1036",
+    "stab_1037",
+    "stab_1038",
+    "stab_1039",
+    "stab_1040",
+    "stab_1043",
+    "stab_1045",
+    "stab_1046",
+    "stab_1050",
+    "stab_1053",
+    "stab_1058",
+    "stab_1059",
+    "stab_1060",
+    "stab_1061",
+    "stab_1067",
+    "stab_1068",
+    "stab_1069",
+    "stab_1082",
+    "stab_1086",
+    "stab_1088"
+  ],
+  "clusters": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2,
+      5,
+      22,
+      52,
+      75,
+      76,
+      84
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      6,
+      14,
+      17,
+      41,
+      85,
+      87
+    ],
+    [
+      7,
+      11,
+      21,
+      35,
+      44,
+      51,
+      54,
+      56,
+      64,
+      77,
+      81
+    ],
+    [
+      8,
+      33,
+      57
+    ],
+    [
+      9
+    ],
+    [
+      10,
+      70
+    ],
+    [
+      12
+    ],
+    [
+      13,
+      15,
+      42
+    ],
+    [
+      16
+    ],
+    [
+      18,
+      20,
+      32,
+      78
+    ],
+    [
+      19,
+      79
+    ],
+    [
+      23,
+      71
+    ],
+    [
+      24,
+      48,
+      62,
+      73,
+      83
+    ],
+    [
+      25
+    ],
+    [
+      26
+    ],
+    [
+      27
+    ],
+    [
+      28
+    ],
+    [
+      29,
+      55,
+      63
+    ],
+    [
+      30
+    ],
+    [
+      31
+    ],
+    [
+      34
+    ],
+    [
+      36,
+      74
+    ],
+    [
+      37
+    ],
+    [
+      38,
+      66
+    ],
+    [
+      39
+    ],
+    [
+      40
+    ],
+    [
+      43,
+      80
+    ],
+    [
+      45,
+      47,
+      49
+    ],
+    [
+      46
+    ],
+    [
+      50
+    ],
+    [
+      53
+    ],
+    [
+      58,
+      65
+    ],
+    [
+      59
+    ],
+    [
+      60,
+      72
+    ],
+    [
+      61
+    ],
+    [
+      67
+    ],
+    [
+      68
+    ],
+    [
+      69
+    ],
+    [
+      82
+    ],
+    [
+      86
+    ],
+    [
+      88,
+      89
+    ]
+  ],
+  "duplicates": [
+    {
+      "id": "stab_1005",
+      "duplicate_of": "stab_1002",
+      "sim": 0.9537,
+      "exact": false
+    },
+    {
+      "id": "stab_1022",
+      "duplicate_of": "stab_1002",
+      "sim": 0.966,
+      "exact": false
+    },
+    {
+      "id": "stab_1052",
+      "duplicate_of": "stab_1002",
+      "sim": 0.9249,
+      "exact": false
+    },
+    {
+      "id": "stab_1075",
+      "duplicate_of": "stab_1002",
+      "sim": 0.9658,
+      "exact": false
+    },
+    {
+      "id": "stab_1076",
+      "duplicate_of": "stab_1002",
+      "sim": 0.9344,
+      "exact": false
+    },
+    {
+      "id": "stab_1084",
+      "duplicate_of": "stab_1002",
+      "sim": 0.9357,
+      "exact": false
+    },
+    {
+      "id": "stab_1014",
+      "duplicate_of": "stab_1006",
+      "sim": 0.9104,
+      "exact": false
+    },
+    {
+      "id": "stab_1017",
+      "duplicate_of": "stab_1006",
+      "sim": 0.9562,
+      "exact": false
+    },
+    {
+      "id": "stab_1041",
+      "duplicate_of": "stab_1006",
+      "sim": 0.9592,
+      "exact": false
+    },
+    {
+      "id": "stab_1085",
+      "duplicate_of": "stab_1006",
+      "sim": 0.9237,
+      "exact": false
+    },
+    {
+      "id": "stab_1087",
+      "duplicate_of": "stab_1006",
+      "sim": 0.9205,
+      "exact": false
+    },
+    {
+      "id": "stab_1011",
+      "duplicate_of": "stab_1007",
+      "sim": 0.9464,
+      "exact": false
+    },
+    {
+      "id": "stab_1021",
+      "duplicate_of": "stab_1007",
+      "sim": 0.9865,
+      "exact": true
+    },
+    {
+      "id": "stab_1035",
+      "duplicate_of": "stab_1007",
+      "sim": 0.9472,
+      "exact": false
+    },
+    {
+      "id": "stab_1044",
+      "duplicate_of": "stab_1007",
+      "sim": 0.9933,
+      "exact": true
+    },
+    {
+      "id": "stab_1051",
+      "duplicate_of": "stab_1007",
+      "sim": 0.9697,
+      "exact": false
+    },
+    {
+      "id": "stab_1054",
+      "duplicate_of": "stab_1007",
+      "sim": 0.9254,
+      "exact": false
+    },
+    {
+      "id": "stab_1056",
+      "duplicate_of": "stab_1007",
+      "sim": 0.9472,
+      "exact": false
+    },
+    {
+      "id": "stab_1064",
+      "duplicate_of": "stab_1007",
+      "sim": 0.9831,
+      "exact": true
+    },
+    {
+      "id": "stab_1077",
+      "duplicate_of": "stab_1007",
+      "sim": 0.9785,
+      "exact": true
+    },
+    {
+      "id": "stab_1081",
+      "duplicate_of": "stab_1007",
+      "sim": 0.9847,
+      "exact": true
+    },
+    {
+      "id": "stab_1033",
+      "duplicate_of": "stab_1008",
+      "sim": 0.9554,
+      "exact": false
+    },
+    {
+      "id": "stab_1057",
+      "duplicate_of": "stab_1008",
+      "sim": 0.9574,
+      "exact": false
+    },
+    {
+      "id": "stab_1070",
+      "duplicate_of": "stab_1010",
+      "sim": 0.9616,
+      "exact": false
+    },
+    {
+      "id": "stab_1015",
+      "duplicate_of": "stab_1013",
+      "sim": 0.9679,
+      "exact": false
+    },
+    {
+      "id": "stab_1042",
+      "duplicate_of": "stab_1013",
+      "sim": 0.9344,
+      "exact": false
+    },
+    {
+      "id": "stab_1020",
+      "duplicate_of": "stab_1018",
+      "sim": 0.9398,
+      "exact": false
+    },
+    {
+      "id": "stab_1032",
+      "duplicate_of": "stab_1018",
+      "sim": 0.9405,
+      "exact": false
+    },
+    {
+      "id": "stab_1078",
+      "duplicate_of": "stab_1018",
+      "sim": 0.9832,
+      "exact": true
+    },
+    {
+      "id": "stab_1079",
+      "duplicate_of": "stab_1019",
+      "sim": 0.9711,
+      "exact": true
+    },
+    {
+      "id": "stab_1071",
+      "duplicate_of": "stab_1023",
+      "sim": 0.9474,
+      "exact": false
+    },
+    {
+      "id": "stab_1048",
+      "duplicate_of": "stab_1024",
+      "sim": 0.9566,
+      "exact": false
+    },
+    {
+      "id": "stab_1062",
+      "duplicate_of": "stab_1024",
+      "sim": 0.955,
+      "exact": false
+    },
+    {
+      "id": "stab_1073",
+      "duplicate_of": "stab_1024",
+      "sim": 0.9751,
+      "exact": true
+    },
+    {
+      "id": "stab_1083",
+      "duplicate_of": "stab_1024",
+      "sim": 0.9785,
+      "exact": true
+    },
+    {
+      "id": "stab_1055",
+      "duplicate_of": "stab_1029",
+      "sim": 0.9586,
+      "exact": false
+    },
+    {
+      "id": "stab_1063",
+      "duplicate_of": "stab_1029",
+      "sim": 0.9344,
+      "exact": false
+    },
+    {
+      "id": "stab_1074",
+      "duplicate_of": "stab_1036",
+      "sim": 0.9567,
+      "exact": false
+    },
+    {
+      "id": "stab_1066",
+      "duplicate_of": "stab_1038",
+      "sim": 0.9421,
+      "exact": false
+    },
+    {
+      "id": "stab_1080",
+      "duplicate_of": "stab_1043",
+      "sim": 0.9472,
+      "exact": false
+    },
+    {
+      "id": "stab_1047",
+      "duplicate_of": "stab_1045",
+      "sim": 0.9541,
+      "exact": false
+    },
+    {
+      "id": "stab_1049",
+      "duplicate_of": "stab_1045",
+      "sim": 0.9098,
+      "exact": false
+    },
+    {
+      "id": "stab_1065",
+      "duplicate_of": "stab_1058",
+      "sim": 0.9596,
+      "exact": false
+    },
+    {
+      "id": "stab_1072",
+      "duplicate_of": "stab_1060",
+      "sim": 0.9377,
+      "exact": false
+    },
+    {
+      "id": "stab_1089",
+      "duplicate_of": "stab_1088",
+      "sim": 0.9903,
+      "exact": true
+    }
+  ]
+}

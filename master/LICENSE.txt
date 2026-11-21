@@ -1,0 +1,32 @@
+SFX BOX — ROYALTY-FREE SOUND EFFECTS LIBRARY
+===========================================
+
+WHAT YOU MAY DO
+  Use every sound in this pack in unlimited commercial and non-commercial
+  productions: games, apps, film, broadcast, YouTube, podcasts, music releases,
+  live performance, installations. No further payment, no attribution required.
+
+WHAT YOU MAY NOT DO
+  Redistribute, resell, sublicense or share the sounds as sounds — on their own,
+  in a bundle, as a sample pack, or as part of another sound library. You may not
+  present them as your own library. One purchaser, unlimited seats within one
+  organisation; separate teams or studios need their own licence.
+
+HOW THESE WERE MADE
+  Every file is synthesised from source code written for this pack — physical
+  modelling, granular and statistical synthesis, and the processing chains
+  documented with each family. No recording, no third-party sample, no neural
+  generative model was used in the production of any audio in this library.
+  There is nothing here to clear.
+
+FORMAT
+  24-bit / 48 kHz WAV, mono unless the filename says otherwise. Loops are
+  seamless and marked in manifest.csv. Loudness: one-shots peak-normalised to
+  about -6 dBFS; beds and loops integrated to roughly -24 LKFS; true peak
+  ceiling -1 dBTP.
+
+FILENAMES
+  Universal Category System (UCS) convention: CatID_FXName_SFXPACK_ORIG_vNNN.wav
+  CatID is also embedded in each file's bext chunk, so it survives a rename.
+
+Version 1.0

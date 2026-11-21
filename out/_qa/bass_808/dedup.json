@@ -1,0 +1,497 @@
+{
+  "survivors": [
+    "bass_808_1000",
+    "bass_808_1001",
+    "bass_808_1002",
+    "bass_808_1003",
+    "bass_808_1005",
+    "bass_808_1006",
+    "bass_808_1009",
+    "bass_808_1010",
+    "bass_808_1012",
+    "bass_808_1013",
+    "bass_808_1014",
+    "bass_808_1016",
+    "bass_808_1017",
+    "bass_808_1018",
+    "bass_808_1020",
+    "bass_808_1023",
+    "bass_808_1024",
+    "bass_808_1025",
+    "bass_808_1026",
+    "bass_808_1028",
+    "bass_808_1031",
+    "bass_808_1032",
+    "bass_808_1034",
+    "bass_808_1036",
+    "bass_808_1039",
+    "bass_808_1040",
+    "bass_808_1041",
+    "bass_808_1046",
+    "bass_808_1050",
+    "bass_808_1051",
+    "bass_808_1052",
+    "bass_808_1055",
+    "bass_808_1059",
+    "bass_808_1062",
+    "bass_808_1063",
+    "bass_808_1066",
+    "bass_808_1067",
+    "bass_808_1069",
+    "bass_808_1070",
+    "bass_808_1071",
+    "bass_808_1072",
+    "bass_808_1073",
+    "bass_808_1076",
+    "bass_808_1078",
+    "bass_808_1079",
+    "bass_808_1082",
+    "bass_808_1085"
+  ],
+  "clusters": [
+    [
+      0
+    ],
+    [
+      1,
+      11,
+      19,
+      27,
+      33,
+      42,
+      53,
+      57,
+      61,
+      74,
+      77,
+      87
+    ],
+    [
+      2
+    ],
+    [
+      3,
+      4,
+      7,
+      30,
+      37,
+      38,
+      43,
+      48,
+      49,
+      54,
+      60,
+      64,
+      65,
+      68,
+      75,
+      84,
+      89
+    ],
+    [
+      5,
+      29
+    ],
+    [
+      6,
+      8,
+      15,
+      21,
+      22,
+      35,
+      44,
+      45,
+      58,
+      80,
+      81,
+      83,
+      88
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ],
+    [
+      18
+    ],
+    [
+      20
+    ],
+    [
+      23
+    ],
+    [
+      24
+    ],
+    [
+      25
+    ],
+    [
+      26
+    ],
+    [
+      28
+    ],
+    [
+      31
+    ],
+    [
+      32,
+      47,
+      56
+    ],
+    [
+      34
+    ],
+    [
+      36
+    ],
+    [
+      39
+    ],
+    [
+      40
+    ],
+    [
+      41,
+      86
+    ],
+    [
+      46
+    ],
+    [
+      50
+    ],
+    [
+      51
+    ],
+    [
+      52
+    ],
+    [
+      55
+    ],
+    [
+      59
+    ],
+    [
+      62
+    ],
+    [
+      63
+    ],
+    [
+      66
+    ],
+    [
+      67
+    ],
+    [
+      69
+    ],
+    [
+      70
+    ],
+    [
+      71
+    ],
+    [
+      72
+    ],
+    [
+      73
+    ],
+    [
+      76
+    ],
+    [
+      78
+    ],
+    [
+      79
+    ],
+    [
+      82
+    ],
+    [
+      85
+    ]
+  ],
+  "duplicates": [
+    {
+      "id": "bass_808_1011",
+      "duplicate_of": "bass_808_1001",
+      "sim": 0.9495,
+      "exact": false
+    },
+    {
+      "id": "bass_808_1019",
+      "duplicate_of": "bass_808_1001",
+      "sim": 0.9626,
+      "exact": false
+    },
+    {
+      "id": "bass_808_1027",
+      "duplicate_of": "bass_808_1001",
+      "sim": 0.9527,
+      "exact": false
+    },
+    {
+      "id": "bass_808_1033",
+      "duplicate_of": "bass_808_1001",
+      "sim": 0.9684,
+      "exact": false
+    },
+    {
+      "id": "bass_808_1042",
+      "duplicate_of": "bass_808_1001",
+      "sim": 0.9586,
+      "exact": false
+    },
+    {
+      "id": "bass_808_1053",
+      "duplicate_of": "bass_808_1001",
+      "sim": 0.9646,
+      "exact": false
+    },
+    {
+      "id": "bass_808_1057",
+      "duplicate_of": "bass_808_1001",
+      "sim": 0.9644,
+      "exact": false
+    },
+    {
+      "id": "bass_808_1061",
+      "duplicate_of": "bass_808_1001",
+      "sim": 0.9626,
+      "exact": false
+    },
+    {
+      "id": "bass_808_1074",
+      "duplicate_of": "bass_808_1001",
+      "sim": 0.9412,
+      "exact": false
+    },
+    {
+      "id": "bass_808_1077",
+      "duplicate_of": "bass_808_1001",
+      "sim": 0.9552,
+      "exact": false
+    },
+    {
+      "id": "bass_808_1087",
+      "duplicate_of": "bass_808_1001",
+      "sim": 0.9265,
+      "exact": false
+    },
+    {
+      "id": "bass_808_1004",
+      "duplicate_of": "bass_808_1003",
+      "sim": 0.9911,
+      "exact": true
+    },
+    {
+      "id": "bass_808_1007",
+      "duplicate_of": "bass_808_1003",
+      "sim": 0.9905,
+      "exact": true
+    },
+    {
+      "id": "bass_808_1030",
+      "duplicate_of": "bass_808_1003",
+      "sim": 0.9544,
+      "exact": false
+    },
+    {
+      "id": "bass_808_1037",
+      "duplicate_of": "bass_808_1003",
+      "sim": 0.9767,
+      "exact": true
+    },
+    {
+      "id": "bass_808_1038",
+      "duplicate_of": "bass_808_1003",
+      "sim": 0.9756,
+      "exact": true
+    },
+    {
+      "id": "bass_808_1043",
+      "duplicate_of": "bass_808_1003",
+      "sim": 0.9674,
+      "exact": false
+    },
+    {
+      "id": "bass_808_1048",
+      "duplicate_of": "bass_808_1003",
+      "sim": 0.9856,
+      "exact": true
+    },
+    {
+      "id": "bass_808_1049",
+      "duplicate_of": "bass_808_1003",
+      "sim": 0.9577,
+      "exact": false
+    },
+    {
+      "id": "bass_808_1054",
+      "duplicate_of": "bass_808_1003",
+      "sim": 0.9517,
+      "exact": false
+    },
+    {
+      "id": "bass_808_1060",
+      "duplicate_of": "bass_808_1003",
+      "sim": 0.9778,
+      "exact": true
+    },
+    {
+      "id": "bass_808_1064",
+      "duplicate_of": "bass_808_1003",
+      "sim": 0.9982,
+      "exact": true
+    },
+    {
+      "id": "bass_808_1065",
+      "duplicate_of": "bass_808_1003",
+      "sim": 0.9844,
+      "exact": true
+    },
+    {
+      "id": "bass_808_1068",
+      "duplicate_of": "bass_808_1003",
+      "sim": 0.9801,
+      "exact": true
+    },
+    {
+      "id": "bass_808_1075",
+      "duplicate_of": "bass_808_1003",
+      "sim": 0.9828,
+      "exact": true
+    },
+    {
+      "id": "bass_808_1084",
+      "duplicate_of": "bass_808_1003",
+      "sim": 0.9585,
+      "exact": false
+    },
+    {
+      "id": "bass_808_1089",
+      "duplicate_of": "bass_808_1003",
+      "sim": 0.9763,
+      "exact": true
+    },
+    {
+      "id": "bass_808_1029",
+      "duplicate_of": "bass_808_1005",
+      "sim": 0.9393,
+      "exact": false
+    },
+    {
+      "id": "bass_808_1008",
+      "duplicate_of": "bass_808_1006",
+      "sim": 0.9503,
+      "exact": false
+    },
+    {
+      "id": "bass_808_1015",
+      "duplicate_of": "bass_808_1006",
+      "sim": 0.9451,
+      "exact": false
+    },
+    {
+      "id": "bass_808_1021",
+      "duplicate_of": "bass_808_1006",
+      "sim": 0.9631,
+      "exact": false
+    },
+    {
+      "id": "bass_808_1022",
+      "duplicate_of": "bass_808_1006",
+      "sim": 0.9746,
+      "exact": true
+    },
+    {
+      "id": "bass_808_1035",
+      "duplicate_of": "bass_808_1006",
+      "sim": 0.9597,
+      "exact": false
+    },
+    {
+      "id": "bass_808_1044",
+      "duplicate_of": "bass_808_1006",
+      "sim": 0.9856,
+      "exact": true
+    },
+    {
+      "id": "bass_808_1045",
+      "duplicate_of": "bass_808_1006",
+      "sim": 0.9867,
+      "exact": true
+    },
+    {
+      "id": "bass_808_1058",
+      "duplicate_of": "bass_808_1006",
+      "sim": 0.9772,
+      "exact": true
+    },
+    {
+      "id": "bass_808_1080",
+      "duplicate_of": "bass_808_1006",
+      "sim": 0.9561,
+      "exact": false
+    },
+    {
+      "id": "bass_808_1081",
+      "duplicate_of": "bass_808_1006",
+      "sim": 0.9601,
+      "exact": false
+    },
+    {
+      "id": "bass_808_1083",
+      "duplicate_of": "bass_808_1006",
+      "sim": 0.9817,
+      "exact": true
+    },
+    {
+      "id": "bass_808_1088",
+      "duplicate_of": "bass_808_1006",
+      "sim": 0.9389,
+      "exact": false
+    },
+    {
+      "id": "bass_808_1047",
+      "duplicate_of": "bass_808_1032",
+      "sim": 0.9632,
+      "exact": false
+    },
+    {
+      "id": "bass_808_1056",
+      "duplicate_of": "bass_808_1032",
+      "sim": 0.939,
+      "exact": false
+    },
+    {
+      "id": "bass_808_1086",
+      "duplicate_of": "bass_808_1041",
+      "sim": 0.9488,
+      "exact": false
+    }
+  ]
+}

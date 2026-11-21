@@ -1,0 +1,506 @@
+{
+  "survivors": [
+    "boom_1000",
+    "boom_1001",
+    "boom_1002",
+    "boom_1003",
+    "boom_1005",
+    "boom_1006",
+    "boom_1008",
+    "boom_1009",
+    "boom_1011",
+    "boom_1013",
+    "boom_1014",
+    "boom_1015",
+    "boom_1017",
+    "boom_1018",
+    "boom_1019",
+    "boom_1020",
+    "boom_1021",
+    "boom_1022",
+    "boom_1024",
+    "boom_1025",
+    "boom_1030",
+    "boom_1031",
+    "boom_1032",
+    "boom_1033",
+    "boom_1036",
+    "boom_1039",
+    "boom_1040",
+    "boom_1041",
+    "boom_1043",
+    "boom_1044",
+    "boom_1053",
+    "boom_1056",
+    "boom_1057",
+    "boom_1059",
+    "boom_1062",
+    "boom_1063",
+    "boom_1065",
+    "boom_1066",
+    "boom_1069",
+    "boom_1070",
+    "boom_1072",
+    "boom_1076",
+    "boom_1086",
+    "boom_1087"
+  ],
+  "clusters": [
+    [
+      0,
+      48,
+      49
+    ],
+    [
+      1,
+      7
+    ],
+    [
+      2
+    ],
+    [
+      3,
+      4,
+      10,
+      12,
+      16,
+      23,
+      28,
+      37,
+      38,
+      42,
+      46,
+      54,
+      67,
+      73,
+      74,
+      75,
+      80,
+      85
+    ],
+    [
+      5,
+      81
+    ],
+    [
+      6,
+      34,
+      45
+    ],
+    [
+      8,
+      26
+    ],
+    [
+      9
+    ],
+    [
+      11,
+      50
+    ],
+    [
+      13,
+      77
+    ],
+    [
+      14,
+      27
+    ],
+    [
+      15
+    ],
+    [
+      17,
+      47
+    ],
+    [
+      18
+    ],
+    [
+      19,
+      89
+    ],
+    [
+      20
+    ],
+    [
+      21,
+      29,
+      35
+    ],
+    [
+      22
+    ],
+    [
+      24,
+      88
+    ],
+    [
+      25
+    ],
+    [
+      30
+    ],
+    [
+      31,
+      55,
+      61,
+      64,
+      68,
+      84
+    ],
+    [
+      32
+    ],
+    [
+      33
+    ],
+    [
+      36
+    ],
+    [
+      39,
+      52
+    ],
+    [
+      40,
+      51
+    ],
+    [
+      41
+    ],
+    [
+      43,
+      60
+    ],
+    [
+      44
+    ],
+    [
+      53
+    ],
+    [
+      56,
+      79
+    ],
+    [
+      57,
+      58,
+      82
+    ],
+    [
+      59,
+      83
+    ],
+    [
+      62,
+      78
+    ],
+    [
+      63
+    ],
+    [
+      65
+    ],
+    [
+      66,
+      71
+    ],
+    [
+      69
+    ],
+    [
+      70
+    ],
+    [
+      72
+    ],
+    [
+      76
+    ],
+    [
+      86
+    ],
+    [
+      87
+    ]
+  ],
+  "duplicates": [
+    {
+      "id": "boom_1048",
+      "duplicate_of": "boom_1000",
+      "sim": 0.9533,
+      "exact": false
+    },
+    {
+      "id": "boom_1049",
+      "duplicate_of": "boom_1000",
+      "sim": 0.9373,
+      "exact": false
+    },
+    {
+      "id": "boom_1007",
+      "duplicate_of": "boom_1001",
+      "sim": 0.9642,
+      "exact": false
+    },
+    {
+      "id": "boom_1004",
+      "duplicate_of": "boom_1003",
+      "sim": 0.9741,
+      "exact": true
+    },
+    {
+      "id": "boom_1010",
+      "duplicate_of": "boom_1003",
+      "sim": 0.9846,
+      "exact": true
+    },
+    {
+      "id": "boom_1012",
+      "duplicate_of": "boom_1003",
+      "sim": 0.9596,
+      "exact": false
+    },
+    {
+      "id": "boom_1016",
+      "duplicate_of": "boom_1003",
+      "sim": 0.9792,
+      "exact": true
+    },
+    {
+      "id": "boom_1023",
+      "duplicate_of": "boom_1003",
+      "sim": 0.9744,
+      "exact": true
+    },
+    {
+      "id": "boom_1028",
+      "duplicate_of": "boom_1003",
+      "sim": 0.9886,
+      "exact": true
+    },
+    {
+      "id": "boom_1037",
+      "duplicate_of": "boom_1003",
+      "sim": 0.9865,
+      "exact": true
+    },
+    {
+      "id": "boom_1038",
+      "duplicate_of": "boom_1003",
+      "sim": 0.9841,
+      "exact": true
+    },
+    {
+      "id": "boom_1042",
+      "duplicate_of": "boom_1003",
+      "sim": 0.9856,
+      "exact": true
+    },
+    {
+      "id": "boom_1046",
+      "duplicate_of": "boom_1003",
+      "sim": 0.9774,
+      "exact": true
+    },
+    {
+      "id": "boom_1054",
+      "duplicate_of": "boom_1003",
+      "sim": 0.9889,
+      "exact": true
+    },
+    {
+      "id": "boom_1067",
+      "duplicate_of": "boom_1003",
+      "sim": 0.9494,
+      "exact": false
+    },
+    {
+      "id": "boom_1073",
+      "duplicate_of": "boom_1003",
+      "sim": 0.9838,
+      "exact": true
+    },
+    {
+      "id": "boom_1074",
+      "duplicate_of": "boom_1003",
+      "sim": 0.9827,
+      "exact": true
+    },
+    {
+      "id": "boom_1075",
+      "duplicate_of": "boom_1003",
+      "sim": 0.978,
+      "exact": true
+    },
+    {
+      "id": "boom_1080",
+      "duplicate_of": "boom_1003",
+      "sim": 0.9751,
+      "exact": true
+    },
+    {
+      "id": "boom_1085",
+      "duplicate_of": "boom_1003",
+      "sim": 0.9641,
+      "exact": false
+    },
+    {
+      "id": "boom_1081",
+      "duplicate_of": "boom_1005",
+      "sim": 0.9539,
+      "exact": false
+    },
+    {
+      "id": "boom_1034",
+      "duplicate_of": "boom_1006",
+      "sim": 0.9573,
+      "exact": false
+    },
+    {
+      "id": "boom_1045",
+      "duplicate_of": "boom_1006",
+      "sim": 0.9424,
+      "exact": false
+    },
+    {
+      "id": "boom_1026",
+      "duplicate_of": "boom_1008",
+      "sim": 0.936,
+      "exact": false
+    },
+    {
+      "id": "boom_1050",
+      "duplicate_of": "boom_1011",
+      "sim": 0.9447,
+      "exact": false
+    },
+    {
+      "id": "boom_1077",
+      "duplicate_of": "boom_1013",
+      "sim": 0.9556,
+      "exact": false
+    },
+    {
+      "id": "boom_1027",
+      "duplicate_of": "boom_1014",
+      "sim": 0.9438,
+      "exact": false
+    },
+    {
+      "id": "boom_1047",
+      "duplicate_of": "boom_1017",
+      "sim": 0.9329,
+      "exact": false
+    },
+    {
+      "id": "boom_1089",
+      "duplicate_of": "boom_1019",
+      "sim": 0.9326,
+      "exact": false
+    },
+    {
+      "id": "boom_1029",
+      "duplicate_of": "boom_1021",
+      "sim": 0.9714,
+      "exact": true
+    },
+    {
+      "id": "boom_1035",
+      "duplicate_of": "boom_1021",
+      "sim": 0.9428,
+      "exact": false
+    },
+    {
+      "id": "boom_1088",
+      "duplicate_of": "boom_1024",
+      "sim": 0.9537,
+      "exact": false
+    },
+    {
+      "id": "boom_1055",
+      "duplicate_of": "boom_1031",
+      "sim": 0.9245,
+      "exact": false
+    },
+    {
+      "id": "boom_1061",
+      "duplicate_of": "boom_1031",
+      "sim": 0.9869,
+      "exact": true
+    },
+    {
+      "id": "boom_1064",
+      "duplicate_of": "boom_1031",
+      "sim": 0.8967,
+      "exact": false
+    },
+    {
+      "id": "boom_1068",
+      "duplicate_of": "boom_1031",
+      "sim": 0.9446,
+      "exact": false
+    },
+    {
+      "id": "boom_1084",
+      "duplicate_of": "boom_1031",
+      "sim": 0.9618,
+      "exact": false
+    },
+    {
+      "id": "boom_1052",
+      "duplicate_of": "boom_1039",
+      "sim": 0.9476,
+      "exact": false
+    },
+    {
+      "id": "boom_1051",
+      "duplicate_of": "boom_1040",
+      "sim": 0.9598,
+      "exact": false
+    },
+    {
+      "id": "boom_1060",
+      "duplicate_of": "boom_1043",
+      "sim": 0.9787,
+      "exact": true
+    },
+    {
+      "id": "boom_1079",
+      "duplicate_of": "boom_1056",
+      "sim": 0.9353,
+      "exact": false
+    },
+    {
+      "id": "boom_1058",
+      "duplicate_of": "boom_1057",
+      "sim": 0.9322,
+      "exact": false
+    },
+    {
+      "id": "boom_1082",
+      "duplicate_of": "boom_1057",
+      "sim": 0.9648,
+      "exact": false
+    },
+    {
+      "id": "boom_1083",
+      "duplicate_of": "boom_1059",
+      "sim": 0.938,
+      "exact": false
+    },
+    {
+      "id": "boom_1078",
+      "duplicate_of": "boom_1062",
+      "sim": 0.9544,
+      "exact": false
+    },
+    {
+      "id": "boom_1071",
+      "duplicate_of": "boom_1066",
+      "sim": 0.9358,
+      "exact": false
+    }
+  ]
+}

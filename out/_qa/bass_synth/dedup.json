@@ -1,0 +1,488 @@
+{
+  "survivors": [
+    "bass_synth_1000",
+    "bass_synth_1001",
+    "bass_synth_1002",
+    "bass_synth_1003",
+    "bass_synth_1004",
+    "bass_synth_1005",
+    "bass_synth_1006",
+    "bass_synth_1007",
+    "bass_synth_1008",
+    "bass_synth_1009",
+    "bass_synth_1011",
+    "bass_synth_1012",
+    "bass_synth_1013",
+    "bass_synth_1014",
+    "bass_synth_1016",
+    "bass_synth_1017",
+    "bass_synth_1018",
+    "bass_synth_1020",
+    "bass_synth_1022",
+    "bass_synth_1024",
+    "bass_synth_1025",
+    "bass_synth_1027",
+    "bass_synth_1028",
+    "bass_synth_1029",
+    "bass_synth_1031",
+    "bass_synth_1035",
+    "bass_synth_1036",
+    "bass_synth_1038",
+    "bass_synth_1039",
+    "bass_synth_1040",
+    "bass_synth_1041",
+    "bass_synth_1044",
+    "bass_synth_1046",
+    "bass_synth_1051",
+    "bass_synth_1055",
+    "bass_synth_1059",
+    "bass_synth_1060",
+    "bass_synth_1062",
+    "bass_synth_1064",
+    "bass_synth_1065",
+    "bass_synth_1066",
+    "bass_synth_1068",
+    "bass_synth_1070",
+    "bass_synth_1073",
+    "bass_synth_1075",
+    "bass_synth_1077",
+    "bass_synth_1079",
+    "bass_synth_1081",
+    "bass_synth_1084",
+    "bass_synth_1088"
+  ],
+  "clusters": [
+    [
+      0,
+      15,
+      26,
+      30,
+      34,
+      48,
+      52,
+      56,
+      74,
+      78,
+      82
+    ],
+    [
+      1
+    ],
+    [
+      2,
+      10,
+      33,
+      43,
+      47,
+      80
+    ],
+    [
+      3
+    ],
+    [
+      4,
+      37,
+      89
+    ],
+    [
+      5
+    ],
+    [
+      6,
+      21,
+      32,
+      50,
+      61,
+      76,
+      87
+    ],
+    [
+      7
+    ],
+    [
+      8,
+      19,
+      23,
+      45,
+      49,
+      57,
+      63,
+      71,
+      83,
+      85,
+      86
+    ],
+    [
+      9
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ],
+    [
+      18
+    ],
+    [
+      20,
+      67
+    ],
+    [
+      22
+    ],
+    [
+      24,
+      69
+    ],
+    [
+      25
+    ],
+    [
+      27,
+      53
+    ],
+    [
+      28,
+      58
+    ],
+    [
+      29
+    ],
+    [
+      31
+    ],
+    [
+      35,
+      42
+    ],
+    [
+      36
+    ],
+    [
+      38
+    ],
+    [
+      39,
+      54,
+      72
+    ],
+    [
+      40
+    ],
+    [
+      41
+    ],
+    [
+      44
+    ],
+    [
+      46
+    ],
+    [
+      51
+    ],
+    [
+      55
+    ],
+    [
+      59
+    ],
+    [
+      60
+    ],
+    [
+      62
+    ],
+    [
+      64
+    ],
+    [
+      65
+    ],
+    [
+      66
+    ],
+    [
+      68
+    ],
+    [
+      70
+    ],
+    [
+      73
+    ],
+    [
+      75
+    ],
+    [
+      77
+    ],
+    [
+      79
+    ],
+    [
+      81
+    ],
+    [
+      84
+    ],
+    [
+      88
+    ]
+  ],
+  "duplicates": [
+    {
+      "id": "bass_synth_1015",
+      "duplicate_of": "bass_synth_1000",
+      "sim": 0.9926,
+      "exact": true
+    },
+    {
+      "id": "bass_synth_1026",
+      "duplicate_of": "bass_synth_1000",
+      "sim": 0.9441,
+      "exact": false
+    },
+    {
+      "id": "bass_synth_1030",
+      "duplicate_of": "bass_synth_1000",
+      "sim": 0.978,
+      "exact": true
+    },
+    {
+      "id": "bass_synth_1034",
+      "duplicate_of": "bass_synth_1000",
+      "sim": 0.9887,
+      "exact": true
+    },
+    {
+      "id": "bass_synth_1048",
+      "duplicate_of": "bass_synth_1000",
+      "sim": 0.981,
+      "exact": true
+    },
+    {
+      "id": "bass_synth_1052",
+      "duplicate_of": "bass_synth_1000",
+      "sim": 0.989,
+      "exact": true
+    },
+    {
+      "id": "bass_synth_1056",
+      "duplicate_of": "bass_synth_1000",
+      "sim": 0.9665,
+      "exact": false
+    },
+    {
+      "id": "bass_synth_1074",
+      "duplicate_of": "bass_synth_1000",
+      "sim": 0.9726,
+      "exact": true
+    },
+    {
+      "id": "bass_synth_1078",
+      "duplicate_of": "bass_synth_1000",
+      "sim": 0.9948,
+      "exact": true
+    },
+    {
+      "id": "bass_synth_1082",
+      "duplicate_of": "bass_synth_1000",
+      "sim": 0.9718,
+      "exact": true
+    },
+    {
+      "id": "bass_synth_1010",
+      "duplicate_of": "bass_synth_1002",
+      "sim": 0.9767,
+      "exact": true
+    },
+    {
+      "id": "bass_synth_1033",
+      "duplicate_of": "bass_synth_1002",
+      "sim": 0.9635,
+      "exact": false
+    },
+    {
+      "id": "bass_synth_1043",
+      "duplicate_of": "bass_synth_1002",
+      "sim": 0.9807,
+      "exact": true
+    },
+    {
+      "id": "bass_synth_1047",
+      "duplicate_of": "bass_synth_1002",
+      "sim": 0.9852,
+      "exact": true
+    },
+    {
+      "id": "bass_synth_1080",
+      "duplicate_of": "bass_synth_1002",
+      "sim": 0.9554,
+      "exact": false
+    },
+    {
+      "id": "bass_synth_1037",
+      "duplicate_of": "bass_synth_1004",
+      "sim": 0.9898,
+      "exact": true
+    },
+    {
+      "id": "bass_synth_1089",
+      "duplicate_of": "bass_synth_1004",
+      "sim": 0.9529,
+      "exact": false
+    },
+    {
+      "id": "bass_synth_1021",
+      "duplicate_of": "bass_synth_1006",
+      "sim": 0.9581,
+      "exact": false
+    },
+    {
+      "id": "bass_synth_1032",
+      "duplicate_of": "bass_synth_1006",
+      "sim": 0.9798,
+      "exact": true
+    },
+    {
+      "id": "bass_synth_1050",
+      "duplicate_of": "bass_synth_1006",
+      "sim": 0.9818,
+      "exact": true
+    },
+    {
+      "id": "bass_synth_1061",
+      "duplicate_of": "bass_synth_1006",
+      "sim": 0.9575,
+      "exact": false
+    },
+    {
+      "id": "bass_synth_1076",
+      "duplicate_of": "bass_synth_1006",
+      "sim": 0.9484,
+      "exact": false
+    },
+    {
+      "id": "bass_synth_1087",
+      "duplicate_of": "bass_synth_1006",
+      "sim": 0.9805,
+      "exact": true
+    },
+    {
+      "id": "bass_synth_1019",
+      "duplicate_of": "bass_synth_1008",
+      "sim": 0.9899,
+      "exact": true
+    },
+    {
+      "id": "bass_synth_1023",
+      "duplicate_of": "bass_synth_1008",
+      "sim": 0.9678,
+      "exact": false
+    },
+    {
+      "id": "bass_synth_1045",
+      "duplicate_of": "bass_synth_1008",
+      "sim": 0.9887,
+      "exact": true
+    },
+    {
+      "id": "bass_synth_1049",
+      "duplicate_of": "bass_synth_1008",
+      "sim": 0.9467,
+      "exact": false
+    },
+    {
+      "id": "bass_synth_1057",
+      "duplicate_of": "bass_synth_1008",
+      "sim": 0.9722,
+      "exact": true
+    },
+    {
+      "id": "bass_synth_1063",
+      "duplicate_of": "bass_synth_1008",
+      "sim": 0.9633,
+      "exact": false
+    },
+    {
+      "id": "bass_synth_1071",
+      "duplicate_of": "bass_synth_1008",
+      "sim": 0.9726,
+      "exact": true
+    },
+    {
+      "id": "bass_synth_1083",
+      "duplicate_of": "bass_synth_1008",
+      "sim": 0.9076,
+      "exact": false
+    },
+    {
+      "id": "bass_synth_1085",
+      "duplicate_of": "bass_synth_1008",
+      "sim": 0.9786,
+      "exact": true
+    },
+    {
+      "id": "bass_synth_1086",
+      "duplicate_of": "bass_synth_1008",
+      "sim": 0.9318,
+      "exact": false
+    },
+    {
+      "id": "bass_synth_1067",
+      "duplicate_of": "bass_synth_1020",
+      "sim": 0.9782,
+      "exact": true
+    },
+    {
+      "id": "bass_synth_1069",
+      "duplicate_of": "bass_synth_1024",
+      "sim": 0.9366,
+      "exact": false
+    },
+    {
+      "id": "bass_synth_1053",
+      "duplicate_of": "bass_synth_1027",
+      "sim": 0.9588,
+      "exact": false
+    },
+    {
+      "id": "bass_synth_1058",
+      "duplicate_of": "bass_synth_1028",
+      "sim": 0.9739,
+      "exact": true
+    },
+    {
+      "id": "bass_synth_1042",
+      "duplicate_of": "bass_synth_1035",
+      "sim": 0.9515,
+      "exact": false
+    },
+    {
+      "id": "bass_synth_1054",
+      "duplicate_of": "bass_synth_1039",
+      "sim": 0.9541,
+      "exact": false
+    },
+    {
+      "id": "bass_synth_1072",
+      "duplicate_of": "bass_synth_1039",
+      "sim": 0.9642,
+      "exact": false
+    }
+  ]
+}

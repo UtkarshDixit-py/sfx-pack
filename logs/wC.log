@@ -1,0 +1,23 @@
+queued: 19:29:56 worker wC booting
+19:30:49 start — read CONTRACT.md, wC.md, families/laser.py
+19:32:47 riser first render — 12 candidates audited
+19:32:55 riser 12-candidate audit (first real run)
+19:33:50 riser 12-candidate audit with tilt/colour/presence axes
+19:37:53 riser 12-candidate audit v3 (voices + RMS-flattened band)
+19:40:21 riser 12-candidate audit v5 (hpf/pump/hi-partial)
+19:42:49 riser 12 pass-rate + 60 set rendered (v6 chords/env)
+19:45:20 riser v7 (5 structures) — 12 + 60 rendered
+19:48:33 riser v8 (wider hpf, DC fix) — 12 + 60 rendered
+19:50:34 riser v9 (soft-clip DC fix) — 12 + 60 rendered
+19:51:50 riser ACCEPTED: 12/12 pass audit, 60/60 pass (dedup 25-29/60 — MFCC metric limitation, see riser.md)
+19:57:36 swell first render — 12 candidates
+19:58:21 riser re-audited on upgraded dedup (blocked features)
+19:58:30 riser ACCEPTED (new tool): 12/12 pass, 0 dups, 12/12 unique; 60/60 pass, 14 dups, 46 unique (target 27)
+19:58:35 swell 60-candidate run done
+20:01:55 CORE ISSUE: core.dsp.fade_asym cannot handle 2-D input (y[:mi] *= ramp broadcasts (mi,2)*(mi,)) — every stereo render crashes in master(). Shim installed in families/texture.py, core files untouched.
+20:11:22 texture first render — 12 candidates
+20:17:22 post-core-change re-run: riser/swell/texture 12 each (brown-noise fix)
+20:20:21 full 60-candidate sets rendered for riser / swell / texture
+20:23:39 FINAL 60-sets: riser 60/60, swell 60/60, texture 60/60 pass audit
+20:24:01 done — riser/swell/texture delivered; docs written; logs complete
+20:24:05 note: fade_asym stereo bug fixed in core (ri[:,None]); texture shim removed, family is now non-invasive

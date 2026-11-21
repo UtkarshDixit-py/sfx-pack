@@ -1,0 +1,9 @@
+queued: 19:29:56 worker wE booting
+19:32:41 start: read CONTRACT/wE/laser + core dsp/fx/render/qa; building drum, ui_tech, alarm
+19:33:12 drum: first render 12/12 pass audit, 5 near-dups
+19:37:51 drum: 12 -> 12/12 pass, 2 near-dups; 60 -> 54/60 pass, 38 near-dups (v3 diversity pass)
+19:40:48 drum ACCEPT: 12/12 pass audit (3 near-dups), 60/60 pass audit (41 dups/19 unique)
+19:44:52 ui_tech: first render 12/12 pass audit, 3 near-dups
+19:45:52 ui_tech ACCEPT: 12/12, 60/60 pass audit (33 dups/27 unique)
+19:47:22 alarm: first render 12/12 pass; 60/60 pass (39 dups)
+19:54:24 done: drum 60/60, ui_tech 60/60, alarm 60/60 pass audit; docs written

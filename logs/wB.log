@@ -1,0 +1,8 @@
+queued: 19:29:56 worker wB booting
+19:30:47 wB start: read CONTRACT.md, wB.md, laser.py, core dsp/fx/render/qa, gen_candidates
+19:32:52 glitch: first render + first acceptance run (12)
+19:34:01 glitch: acceptance 12 -> 12/12 pass, 3 near-dups (sim 0.95-0.96)
+19:34:28 stutter: first render + acceptance run (12)
+19:38:58 perc: first render + acceptance run (12)
+19:39:44 ran --count 60 for glitch, stutter, perc
+19:55:37 glitch/stutter/perc: acceptance 12 all 100%, 0-1 near-dups; final --count 60 complete

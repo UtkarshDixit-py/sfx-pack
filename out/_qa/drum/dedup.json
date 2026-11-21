@@ -1,0 +1,533 @@
+{
+  "survivors": [
+    "drum_1000",
+    "drum_1001",
+    "drum_1002",
+    "drum_1003",
+    "drum_1005",
+    "drum_1006",
+    "drum_1007",
+    "drum_1009",
+    "drum_1013",
+    "drum_1019",
+    "drum_1020",
+    "drum_1021",
+    "drum_1022",
+    "drum_1023",
+    "drum_1024",
+    "drum_1025",
+    "drum_1029",
+    "drum_1031",
+    "drum_1033",
+    "drum_1036",
+    "drum_1037",
+    "drum_1044",
+    "drum_1045",
+    "drum_1050",
+    "drum_1053",
+    "drum_1054",
+    "drum_1059",
+    "drum_1060",
+    "drum_1062",
+    "drum_1067",
+    "drum_1074",
+    "drum_1075",
+    "drum_1078",
+    "drum_1079",
+    "drum_1083"
+  ],
+  "clusters": [
+    [
+      0,
+      10,
+      14,
+      18,
+      32,
+      39,
+      40,
+      41,
+      48,
+      55,
+      69,
+      72,
+      73,
+      85
+    ],
+    [
+      1,
+      4,
+      8,
+      11,
+      15,
+      16,
+      27,
+      30,
+      43,
+      47,
+      49,
+      51,
+      52,
+      56,
+      57,
+      61,
+      65,
+      66,
+      68,
+      76,
+      81,
+      84,
+      88
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      5,
+      12,
+      77,
+      80
+    ],
+    [
+      6,
+      35
+    ],
+    [
+      7,
+      17
+    ],
+    [
+      9,
+      34,
+      42,
+      46,
+      58,
+      86
+    ],
+    [
+      13
+    ],
+    [
+      19
+    ],
+    [
+      20
+    ],
+    [
+      21
+    ],
+    [
+      22,
+      38,
+      64
+    ],
+    [
+      23,
+      28,
+      70,
+      87
+    ],
+    [
+      24
+    ],
+    [
+      25,
+      26,
+      63,
+      82
+    ],
+    [
+      29
+    ],
+    [
+      31
+    ],
+    [
+      33
+    ],
+    [
+      36
+    ],
+    [
+      37
+    ],
+    [
+      44
+    ],
+    [
+      45
+    ],
+    [
+      50
+    ],
+    [
+      53
+    ],
+    [
+      54
+    ],
+    [
+      59
+    ],
+    [
+      60,
+      71
+    ],
+    [
+      62
+    ],
+    [
+      67
+    ],
+    [
+      74
+    ],
+    [
+      75
+    ],
+    [
+      78
+    ],
+    [
+      79,
+      89
+    ],
+    [
+      83
+    ]
+  ],
+  "duplicates": [
+    {
+      "id": "drum_1010",
+      "duplicate_of": "drum_1000",
+      "sim": 0.9886,
+      "exact": true
+    },
+    {
+      "id": "drum_1014",
+      "duplicate_of": "drum_1000",
+      "sim": 0.9849,
+      "exact": true
+    },
+    {
+      "id": "drum_1018",
+      "duplicate_of": "drum_1000",
+      "sim": 0.9759,
+      "exact": true
+    },
+    {
+      "id": "drum_1032",
+      "duplicate_of": "drum_1000",
+      "sim": 0.9862,
+      "exact": true
+    },
+    {
+      "id": "drum_1039",
+      "duplicate_of": "drum_1000",
+      "sim": 0.9749,
+      "exact": true
+    },
+    {
+      "id": "drum_1040",
+      "duplicate_of": "drum_1000",
+      "sim": 0.9583,
+      "exact": false
+    },
+    {
+      "id": "drum_1041",
+      "duplicate_of": "drum_1000",
+      "sim": 0.97,
+      "exact": false
+    },
+    {
+      "id": "drum_1048",
+      "duplicate_of": "drum_1000",
+      "sim": 0.9909,
+      "exact": true
+    },
+    {
+      "id": "drum_1055",
+      "duplicate_of": "drum_1000",
+      "sim": 0.9775,
+      "exact": true
+    },
+    {
+      "id": "drum_1069",
+      "duplicate_of": "drum_1000",
+      "sim": 0.9855,
+      "exact": true
+    },
+    {
+      "id": "drum_1072",
+      "duplicate_of": "drum_1000",
+      "sim": 0.9703,
+      "exact": true
+    },
+    {
+      "id": "drum_1073",
+      "duplicate_of": "drum_1000",
+      "sim": 0.9769,
+      "exact": true
+    },
+    {
+      "id": "drum_1085",
+      "duplicate_of": "drum_1000",
+      "sim": 0.9231,
+      "exact": false
+    },
+    {
+      "id": "drum_1004",
+      "duplicate_of": "drum_1001",
+      "sim": 0.8859,
+      "exact": false
+    },
+    {
+      "id": "drum_1008",
+      "duplicate_of": "drum_1001",
+      "sim": 0.9413,
+      "exact": false
+    },
+    {
+      "id": "drum_1011",
+      "duplicate_of": "drum_1001",
+      "sim": 0.9527,
+      "exact": false
+    },
+    {
+      "id": "drum_1015",
+      "duplicate_of": "drum_1001",
+      "sim": 0.9445,
+      "exact": false
+    },
+    {
+      "id": "drum_1016",
+      "duplicate_of": "drum_1001",
+      "sim": 0.9672,
+      "exact": false
+    },
+    {
+      "id": "drum_1027",
+      "duplicate_of": "drum_1001",
+      "sim": 0.9653,
+      "exact": false
+    },
+    {
+      "id": "drum_1030",
+      "duplicate_of": "drum_1001",
+      "sim": 0.9672,
+      "exact": false
+    },
+    {
+      "id": "drum_1043",
+      "duplicate_of": "drum_1001",
+      "sim": 0.9119,
+      "exact": false
+    },
+    {
+      "id": "drum_1047",
+      "duplicate_of": "drum_1001",
+      "sim": 0.9193,
+      "exact": false
+    },
+    {
+      "id": "drum_1049",
+      "duplicate_of": "drum_1001",
+      "sim": 0.9698,
+      "exact": false
+    },
+    {
+      "id": "drum_1051",
+      "duplicate_of": "drum_1001",
+      "sim": 0.9718,
+      "exact": true
+    },
+    {
+      "id": "drum_1052",
+      "duplicate_of": "drum_1001",
+      "sim": 0.92,
+      "exact": false
+    },
+    {
+      "id": "drum_1056",
+      "duplicate_of": "drum_1001",
+      "sim": 0.9855,
+      "exact": true
+    },
+    {
+      "id": "drum_1057",
+      "duplicate_of": "drum_1001",
+      "sim": 0.9248,
+      "exact": false
+    },
+    {
+      "id": "drum_1061",
+      "duplicate_of": "drum_1001",
+      "sim": 0.9462,
+      "exact": false
+    },
+    {
+      "id": "drum_1065",
+      "duplicate_of": "drum_1001",
+      "sim": 0.9763,
+      "exact": true
+    },
+    {
+      "id": "drum_1066",
+      "duplicate_of": "drum_1001",
+      "sim": 0.9735,
+      "exact": true
+    },
+    {
+      "id": "drum_1068",
+      "duplicate_of": "drum_1001",
+      "sim": 0.9395,
+      "exact": false
+    },
+    {
+      "id": "drum_1076",
+      "duplicate_of": "drum_1001",
+      "sim": 0.9615,
+      "exact": false
+    },
+    {
+      "id": "drum_1081",
+      "duplicate_of": "drum_1001",
+      "sim": 0.8861,
+      "exact": false
+    },
+    {
+      "id": "drum_1084",
+      "duplicate_of": "drum_1001",
+      "sim": 0.9867,
+      "exact": true
+    },
+    {
+      "id": "drum_1088",
+      "duplicate_of": "drum_1001",
+      "sim": 0.9279,
+      "exact": false
+    },
+    {
+      "id": "drum_1012",
+      "duplicate_of": "drum_1005",
+      "sim": 0.949,
+      "exact": false
+    },
+    {
+      "id": "drum_1077",
+      "duplicate_of": "drum_1005",
+      "sim": 0.9842,
+      "exact": true
+    },
+    {
+      "id": "drum_1080",
+      "duplicate_of": "drum_1005",
+      "sim": 0.9612,
+      "exact": false
+    },
+    {
+      "id": "drum_1035",
+      "duplicate_of": "drum_1006",
+      "sim": 0.9476,
+      "exact": false
+    },
+    {
+      "id": "drum_1017",
+      "duplicate_of": "drum_1007",
+      "sim": 0.953,
+      "exact": false
+    },
+    {
+      "id": "drum_1034",
+      "duplicate_of": "drum_1009",
+      "sim": 0.9496,
+      "exact": false
+    },
+    {
+      "id": "drum_1042",
+      "duplicate_of": "drum_1009",
+      "sim": 0.9611,
+      "exact": false
+    },
+    {
+      "id": "drum_1046",
+      "duplicate_of": "drum_1009",
+      "sim": 0.9768,
+      "exact": true
+    },
+    {
+      "id": "drum_1058",
+      "duplicate_of": "drum_1009",
+      "sim": 0.9798,
+      "exact": true
+    },
+    {
+      "id": "drum_1086",
+      "duplicate_of": "drum_1009",
+      "sim": 0.9461,
+      "exact": false
+    },
+    {
+      "id": "drum_1038",
+      "duplicate_of": "drum_1022",
+      "sim": 0.9755,
+      "exact": true
+    },
+    {
+      "id": "drum_1064",
+      "duplicate_of": "drum_1022",
+      "sim": 0.9525,
+      "exact": false
+    },
+    {
+      "id": "drum_1028",
+      "duplicate_of": "drum_1023",
+      "sim": 0.9817,
+      "exact": true
+    },
+    {
+      "id": "drum_1070",
+      "duplicate_of": "drum_1023",
+      "sim": 0.9746,
+      "exact": true
+    },
+    {
+      "id": "drum_1087",
+      "duplicate_of": "drum_1023",
+      "sim": 0.9599,
+      "exact": false
+    },
+    {
+      "id": "drum_1026",
+      "duplicate_of": "drum_1025",
+      "sim": 0.9258,
+      "exact": false
+    },
+    {
+      "id": "drum_1063",
+      "duplicate_of": "drum_1025",
+      "sim": 0.9398,
+      "exact": false
+    },
+    {
+      "id": "drum_1082",
+      "duplicate_of": "drum_1025",
+      "sim": 0.9346,
+      "exact": false
+    },
+    {
+      "id": "drum_1071",
+      "duplicate_of": "drum_1060",
+      "sim": 0.9933,
+      "exact": true
+    },
+    {
+      "id": "drum_1089",
+      "duplicate_of": "drum_1079",
+      "sim": 0.968,
+      "exact": false
+    }
+  ]
+}

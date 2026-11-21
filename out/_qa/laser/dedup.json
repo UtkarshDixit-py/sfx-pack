@@ -1,0 +1,413 @@
+{
+  "survivors": [
+    "laser_1000",
+    "laser_1001",
+    "laser_1002",
+    "laser_1003",
+    "laser_1004",
+    "laser_1005",
+    "laser_1006",
+    "laser_1007",
+    "laser_1008",
+    "laser_1009",
+    "laser_1010",
+    "laser_1011",
+    "laser_1012",
+    "laser_1013",
+    "laser_1014",
+    "laser_1015",
+    "laser_1016",
+    "laser_1017",
+    "laser_1018",
+    "laser_1020",
+    "laser_1021",
+    "laser_1022",
+    "laser_1023",
+    "laser_1025",
+    "laser_1026",
+    "laser_1028",
+    "laser_1029",
+    "laser_1030",
+    "laser_1031",
+    "laser_1032",
+    "laser_1033",
+    "laser_1034",
+    "laser_1035",
+    "laser_1036",
+    "laser_1037",
+    "laser_1038",
+    "laser_1039",
+    "laser_1040",
+    "laser_1041",
+    "laser_1042",
+    "laser_1043",
+    "laser_1044",
+    "laser_1045",
+    "laser_1046",
+    "laser_1048",
+    "laser_1049",
+    "laser_1050",
+    "laser_1051",
+    "laser_1053",
+    "laser_1055",
+    "laser_1056",
+    "laser_1057",
+    "laser_1059",
+    "laser_1060",
+    "laser_1061",
+    "laser_1062",
+    "laser_1064",
+    "laser_1066",
+    "laser_1067",
+    "laser_1068",
+    "laser_1070",
+    "laser_1071",
+    "laser_1074",
+    "laser_1075",
+    "laser_1076",
+    "laser_1077",
+    "laser_1078",
+    "laser_1079",
+    "laser_1080",
+    "laser_1081",
+    "laser_1082",
+    "laser_1083",
+    "laser_1085",
+    "laser_1087",
+    "laser_1089"
+  ],
+  "clusters": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4,
+      52,
+      65,
+      84
+    ],
+    [
+      5
+    ],
+    [
+      6,
+      27
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9,
+      47,
+      54,
+      86,
+      88
+    ],
+    [
+      10,
+      63
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14,
+      72
+    ],
+    [
+      15
+    ],
+    [
+      16,
+      19
+    ],
+    [
+      17
+    ],
+    [
+      18,
+      24,
+      69
+    ],
+    [
+      20
+    ],
+    [
+      21
+    ],
+    [
+      22
+    ],
+    [
+      23
+    ],
+    [
+      25
+    ],
+    [
+      26
+    ],
+    [
+      28
+    ],
+    [
+      29
+    ],
+    [
+      30
+    ],
+    [
+      31,
+      73
+    ],
+    [
+      32
+    ],
+    [
+      33
+    ],
+    [
+      34
+    ],
+    [
+      35
+    ],
+    [
+      36
+    ],
+    [
+      37
+    ],
+    [
+      38
+    ],
+    [
+      39
+    ],
+    [
+      40
+    ],
+    [
+      41
+    ],
+    [
+      42
+    ],
+    [
+      43
+    ],
+    [
+      44
+    ],
+    [
+      45
+    ],
+    [
+      46
+    ],
+    [
+      48,
+      58
+    ],
+    [
+      49
+    ],
+    [
+      50
+    ],
+    [
+      51
+    ],
+    [
+      53
+    ],
+    [
+      55
+    ],
+    [
+      56
+    ],
+    [
+      57
+    ],
+    [
+      59
+    ],
+    [
+      60
+    ],
+    [
+      61
+    ],
+    [
+      62
+    ],
+    [
+      64
+    ],
+    [
+      66
+    ],
+    [
+      67
+    ],
+    [
+      68
+    ],
+    [
+      70
+    ],
+    [
+      71
+    ],
+    [
+      74
+    ],
+    [
+      75
+    ],
+    [
+      76
+    ],
+    [
+      77
+    ],
+    [
+      78
+    ],
+    [
+      79
+    ],
+    [
+      80
+    ],
+    [
+      81
+    ],
+    [
+      82
+    ],
+    [
+      83
+    ],
+    [
+      85
+    ],
+    [
+      87
+    ],
+    [
+      89
+    ]
+  ],
+  "duplicates": [
+    {
+      "id": "laser_1052",
+      "duplicate_of": "laser_1004",
+      "sim": 0.9255,
+      "exact": false
+    },
+    {
+      "id": "laser_1065",
+      "duplicate_of": "laser_1004",
+      "sim": 0.9854,
+      "exact": true
+    },
+    {
+      "id": "laser_1084",
+      "duplicate_of": "laser_1004",
+      "sim": 0.9806,
+      "exact": true
+    },
+    {
+      "id": "laser_1027",
+      "duplicate_of": "laser_1006",
+      "sim": 0.9356,
+      "exact": false
+    },
+    {
+      "id": "laser_1047",
+      "duplicate_of": "laser_1009",
+      "sim": 0.9774,
+      "exact": true
+    },
+    {
+      "id": "laser_1054",
+      "duplicate_of": "laser_1009",
+      "sim": 0.9689,
+      "exact": false
+    },
+    {
+      "id": "laser_1086",
+      "duplicate_of": "laser_1009",
+      "sim": 0.9818,
+      "exact": true
+    },
+    {
+      "id": "laser_1088",
+      "duplicate_of": "laser_1009",
+      "sim": 0.9797,
+      "exact": true
+    },
+    {
+      "id": "laser_1063",
+      "duplicate_of": "laser_1010",
+      "sim": 0.9545,
+      "exact": false
+    },
+    {
+      "id": "laser_1072",
+      "duplicate_of": "laser_1014",
+      "sim": 0.9527,
+      "exact": false
+    },
+    {
+      "id": "laser_1019",
+      "duplicate_of": "laser_1016",
+      "sim": 0.9526,
+      "exact": false
+    },
+    {
+      "id": "laser_1024",
+      "duplicate_of": "laser_1018",
+      "sim": 0.9694,
+      "exact": false
+    },
+    {
+      "id": "laser_1069",
+      "duplicate_of": "laser_1018",
+      "sim": 0.9567,
+      "exact": false
+    },
+    {
+      "id": "laser_1073",
+      "duplicate_of": "laser_1031",
+      "sim": 0.9618,
+      "exact": false
+    },
+    {
+      "id": "laser_1058",
+      "duplicate_of": "laser_1048",
+      "sim": 0.9837,
+      "exact": true
+    }
+  ]
+}
