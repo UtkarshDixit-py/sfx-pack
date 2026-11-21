@@ -1,0 +1,7 @@
+queued: 19:29:56 worker wD booting
+19:33:26 wD start: read CONTRACT, wD brief, laser.py, core dsp/fx/render/qa, gen_candidates
+19:34:09 wD bass_808 first render OK (12 notes C..B, mono, deterministic)
+19:52:03 wD bass_808 12/12 pass audit (11 dedup, low-register MFCC blind spot); bass_synth 12/12 pass after 0.9-peak DC fix (10 dedup); stab 12/12 pass (4 dedup)
+20:01:17 wD adopted coordinator diversity gate; bass_808 redesigned (length bands, pitch-settle 15-120ms, depth 1.5-2.5x, drive 1.5-6, click hardness, sub on/off)
+20:17:47 wD diversity gate: bass_808 60 -> 33 unique [OK], bass_synth 60 -> 35 unique [OK], stab 60 -> 35 unique [OK]; all 60/60 pass audit; all 12-note coverage confirmed
+20:18:58 wD DONE: bass_808 12/12 & 60/60 audit, 33u/60 [OK]; bass_synth 12/12 & 60/60, 35u/60 [OK]; stab 12/12 & 60/60, 35u/60 [OK]; 12-note coverage verified (5x each in 60); .md written

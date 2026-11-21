@@ -1,0 +1,13 @@
+queued: 19:29:56 worker wF booting
+19:31:39 wF start: read CONTRACT, wF brief, laser.py, core dsp/fx/render/qa
+19:35:05 sci_fi: first render of all 6 archetypes done (smoke ok)
+19:39:51 sci_fi: acceptance --count 12 -> 12/12 pass audit, 3 near-dups
+19:39:57 sci_fi: --count 60 rendered
+19:41:45 sci_fi: --count 60 -> 60/60 pass audit, 31 near-dup pairs (peer families: 21-44)
+19:43:22 retro: first render of all 10 archetypes done (smoke ok)
+19:43:36 retro: acceptance --count 12 -> 12/12 pass audit, 2 near-dups
+19:45:47 retro: --count 60 rendered
+19:51:00 tape_vinyl: first render of all 10 archetypes done (smoke ok; found stereo dsp.fade core bug)
+19:51:06 tape_vinyl: acceptance --count 12 -> 12/12 pass audit, 5 near-dups
+20:03:08 done: sci_fi 60/60 (2 dups), retro 60/60 (6), tape_vinyl 60/60 (1); docs written
+20:05:00 done: final staged sets 60/60 each; sci_fi 2 dups / retro 6 / tape_vinyl 1

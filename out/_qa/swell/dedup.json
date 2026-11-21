@@ -1,0 +1,491 @@
+{
+  "survivors": [
+    "swell_1000",
+    "swell_1001",
+    "swell_1002",
+    "swell_1003",
+    "swell_1004",
+    "swell_1006",
+    "swell_1008",
+    "swell_1009",
+    "swell_1010",
+    "swell_1012",
+    "swell_1013",
+    "swell_1014",
+    "swell_1015",
+    "swell_1016",
+    "swell_1017",
+    "swell_1018",
+    "swell_1019",
+    "swell_1021",
+    "swell_1025",
+    "swell_1026",
+    "swell_1027",
+    "swell_1028",
+    "swell_1029",
+    "swell_1030",
+    "swell_1031",
+    "swell_1032",
+    "swell_1034",
+    "swell_1035",
+    "swell_1036",
+    "swell_1037",
+    "swell_1038",
+    "swell_1040",
+    "swell_1042",
+    "swell_1043",
+    "swell_1045",
+    "swell_1047",
+    "swell_1048",
+    "swell_1050",
+    "swell_1051",
+    "swell_1052",
+    "swell_1058",
+    "swell_1060",
+    "swell_1061",
+    "swell_1063",
+    "swell_1065",
+    "swell_1066",
+    "swell_1072",
+    "swell_1082",
+    "swell_1084"
+  ],
+  "clusters": [
+    [
+      0,
+      23
+    ],
+    [
+      1,
+      49
+    ],
+    [
+      2,
+      5,
+      7,
+      20,
+      24,
+      33,
+      44,
+      74,
+      83
+    ],
+    [
+      3
+    ],
+    [
+      4,
+      46
+    ],
+    [
+      6
+    ],
+    [
+      8
+    ],
+    [
+      9,
+      11,
+      75,
+      86
+    ],
+    [
+      10,
+      39
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14,
+      41,
+      53,
+      55,
+      69,
+      70,
+      71,
+      78,
+      80,
+      85,
+      87
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17,
+      67
+    ],
+    [
+      18
+    ],
+    [
+      19,
+      22,
+      64,
+      68
+    ],
+    [
+      21
+    ],
+    [
+      25
+    ],
+    [
+      26
+    ],
+    [
+      27
+    ],
+    [
+      28,
+      59
+    ],
+    [
+      29
+    ],
+    [
+      30
+    ],
+    [
+      31,
+      62
+    ],
+    [
+      32,
+      73
+    ],
+    [
+      34,
+      81
+    ],
+    [
+      35,
+      77
+    ],
+    [
+      36
+    ],
+    [
+      37
+    ],
+    [
+      38,
+      54
+    ],
+    [
+      40
+    ],
+    [
+      42
+    ],
+    [
+      43
+    ],
+    [
+      45
+    ],
+    [
+      47,
+      57
+    ],
+    [
+      48
+    ],
+    [
+      50
+    ],
+    [
+      51,
+      76,
+      88
+    ],
+    [
+      52,
+      56
+    ],
+    [
+      58
+    ],
+    [
+      60
+    ],
+    [
+      61,
+      79,
+      89
+    ],
+    [
+      63
+    ],
+    [
+      65
+    ],
+    [
+      66
+    ],
+    [
+      72
+    ],
+    [
+      82
+    ],
+    [
+      84
+    ]
+  ],
+  "duplicates": [
+    {
+      "id": "swell_1023",
+      "duplicate_of": "swell_1000",
+      "sim": 0.9468,
+      "exact": false
+    },
+    {
+      "id": "swell_1049",
+      "duplicate_of": "swell_1001",
+      "sim": 0.9546,
+      "exact": false
+    },
+    {
+      "id": "swell_1005",
+      "duplicate_of": "swell_1002",
+      "sim": 0.9586,
+      "exact": false
+    },
+    {
+      "id": "swell_1007",
+      "duplicate_of": "swell_1002",
+      "sim": 0.9584,
+      "exact": false
+    },
+    {
+      "id": "swell_1020",
+      "duplicate_of": "swell_1002",
+      "sim": 0.9627,
+      "exact": false
+    },
+    {
+      "id": "swell_1024",
+      "duplicate_of": "swell_1002",
+      "sim": 0.9658,
+      "exact": false
+    },
+    {
+      "id": "swell_1033",
+      "duplicate_of": "swell_1002",
+      "sim": 0.9489,
+      "exact": false
+    },
+    {
+      "id": "swell_1044",
+      "duplicate_of": "swell_1002",
+      "sim": 0.9744,
+      "exact": true
+    },
+    {
+      "id": "swell_1074",
+      "duplicate_of": "swell_1002",
+      "sim": 0.9674,
+      "exact": false
+    },
+    {
+      "id": "swell_1083",
+      "duplicate_of": "swell_1002",
+      "sim": 0.942,
+      "exact": false
+    },
+    {
+      "id": "swell_1046",
+      "duplicate_of": "swell_1004",
+      "sim": 0.9352,
+      "exact": false
+    },
+    {
+      "id": "swell_1011",
+      "duplicate_of": "swell_1009",
+      "sim": 0.946,
+      "exact": false
+    },
+    {
+      "id": "swell_1075",
+      "duplicate_of": "swell_1009",
+      "sim": 0.9492,
+      "exact": false
+    },
+    {
+      "id": "swell_1086",
+      "duplicate_of": "swell_1009",
+      "sim": 0.9592,
+      "exact": false
+    },
+    {
+      "id": "swell_1039",
+      "duplicate_of": "swell_1010",
+      "sim": 0.9426,
+      "exact": false
+    },
+    {
+      "id": "swell_1041",
+      "duplicate_of": "swell_1014",
+      "sim": 0.9412,
+      "exact": false
+    },
+    {
+      "id": "swell_1053",
+      "duplicate_of": "swell_1014",
+      "sim": 0.9133,
+      "exact": false
+    },
+    {
+      "id": "swell_1055",
+      "duplicate_of": "swell_1014",
+      "sim": 0.939,
+      "exact": false
+    },
+    {
+      "id": "swell_1069",
+      "duplicate_of": "swell_1014",
+      "sim": 0.9681,
+      "exact": false
+    },
+    {
+      "id": "swell_1070",
+      "duplicate_of": "swell_1014",
+      "sim": 0.9182,
+      "exact": false
+    },
+    {
+      "id": "swell_1071",
+      "duplicate_of": "swell_1014",
+      "sim": 0.9283,
+      "exact": false
+    },
+    {
+      "id": "swell_1078",
+      "duplicate_of": "swell_1014",
+      "sim": 0.9024,
+      "exact": false
+    },
+    {
+      "id": "swell_1080",
+      "duplicate_of": "swell_1014",
+      "sim": 0.9372,
+      "exact": false
+    },
+    {
+      "id": "swell_1085",
+      "duplicate_of": "swell_1014",
+      "sim": 0.9464,
+      "exact": false
+    },
+    {
+      "id": "swell_1087",
+      "duplicate_of": "swell_1014",
+      "sim": 0.937,
+      "exact": false
+    },
+    {
+      "id": "swell_1067",
+      "duplicate_of": "swell_1017",
+      "sim": 0.9508,
+      "exact": false
+    },
+    {
+      "id": "swell_1022",
+      "duplicate_of": "swell_1019",
+      "sim": 0.9572,
+      "exact": false
+    },
+    {
+      "id": "swell_1064",
+      "duplicate_of": "swell_1019",
+      "sim": 0.9668,
+      "exact": false
+    },
+    {
+      "id": "swell_1068",
+      "duplicate_of": "swell_1019",
+      "sim": 0.9521,
+      "exact": false
+    },
+    {
+      "id": "swell_1059",
+      "duplicate_of": "swell_1028",
+      "sim": 0.9461,
+      "exact": false
+    },
+    {
+      "id": "swell_1062",
+      "duplicate_of": "swell_1031",
+      "sim": 0.9418,
+      "exact": false
+    },
+    {
+      "id": "swell_1073",
+      "duplicate_of": "swell_1032",
+      "sim": 0.9422,
+      "exact": false
+    },
+    {
+      "id": "swell_1081",
+      "duplicate_of": "swell_1034",
+      "sim": 0.9371,
+      "exact": false
+    },
+    {
+      "id": "swell_1077",
+      "duplicate_of": "swell_1035",
+      "sim": 0.9481,
+      "exact": false
+    },
+    {
+      "id": "swell_1054",
+      "duplicate_of": "swell_1038",
+      "sim": 0.9707,
+      "exact": true
+    },
+    {
+      "id": "swell_1057",
+      "duplicate_of": "swell_1047",
+      "sim": 0.9823,
+      "exact": true
+    },
+    {
+      "id": "swell_1076",
+      "duplicate_of": "swell_1051",
+      "sim": 0.9293,
+      "exact": false
+    },
+    {
+      "id": "swell_1088",
+      "duplicate_of": "swell_1051",
+      "sim": 0.9442,
+      "exact": false
+    },
+    {
+      "id": "swell_1056",
+      "duplicate_of": "swell_1052",
+      "sim": 0.9605,
+      "exact": false
+    },
+    {
+      "id": "swell_1079",
+      "duplicate_of": "swell_1061",
+      "sim": 0.9499,
+      "exact": false
+    },
+    {
+      "id": "swell_1089",
+      "duplicate_of": "swell_1061",
+      "sim": 0.9291,
+      "exact": false
+    }
+  ]
+}

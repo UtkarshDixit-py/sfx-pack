@@ -1,0 +1,419 @@
+{
+  "survivors": [
+    "ui_tech_1000",
+    "ui_tech_1001",
+    "ui_tech_1002",
+    "ui_tech_1003",
+    "ui_tech_1004",
+    "ui_tech_1005",
+    "ui_tech_1006",
+    "ui_tech_1007",
+    "ui_tech_1008",
+    "ui_tech_1009",
+    "ui_tech_1010",
+    "ui_tech_1011",
+    "ui_tech_1012",
+    "ui_tech_1013",
+    "ui_tech_1014",
+    "ui_tech_1015",
+    "ui_tech_1016",
+    "ui_tech_1017",
+    "ui_tech_1018",
+    "ui_tech_1019",
+    "ui_tech_1020",
+    "ui_tech_1021",
+    "ui_tech_1022",
+    "ui_tech_1023",
+    "ui_tech_1024",
+    "ui_tech_1025",
+    "ui_tech_1026",
+    "ui_tech_1028",
+    "ui_tech_1029",
+    "ui_tech_1030",
+    "ui_tech_1031",
+    "ui_tech_1032",
+    "ui_tech_1033",
+    "ui_tech_1034",
+    "ui_tech_1038",
+    "ui_tech_1039",
+    "ui_tech_1040",
+    "ui_tech_1041",
+    "ui_tech_1042",
+    "ui_tech_1043",
+    "ui_tech_1045",
+    "ui_tech_1046",
+    "ui_tech_1047",
+    "ui_tech_1048",
+    "ui_tech_1050",
+    "ui_tech_1051",
+    "ui_tech_1052",
+    "ui_tech_1054",
+    "ui_tech_1055",
+    "ui_tech_1056",
+    "ui_tech_1057",
+    "ui_tech_1059",
+    "ui_tech_1060",
+    "ui_tech_1061",
+    "ui_tech_1062",
+    "ui_tech_1063",
+    "ui_tech_1064",
+    "ui_tech_1066",
+    "ui_tech_1067",
+    "ui_tech_1069",
+    "ui_tech_1070",
+    "ui_tech_1071",
+    "ui_tech_1072",
+    "ui_tech_1074",
+    "ui_tech_1075",
+    "ui_tech_1076",
+    "ui_tech_1077",
+    "ui_tech_1079",
+    "ui_tech_1080",
+    "ui_tech_1081",
+    "ui_tech_1083",
+    "ui_tech_1086",
+    "ui_tech_1087"
+  ],
+  "clusters": [
+    [
+      0,
+      85
+    ],
+    [
+      1,
+      27,
+      58
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4,
+      37,
+      65,
+      68
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10
+    ],
+    [
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17,
+      35
+    ],
+    [
+      18
+    ],
+    [
+      19,
+      49,
+      84
+    ],
+    [
+      20
+    ],
+    [
+      21,
+      44
+    ],
+    [
+      22,
+      53
+    ],
+    [
+      23,
+      73
+    ],
+    [
+      24
+    ],
+    [
+      25
+    ],
+    [
+      26
+    ],
+    [
+      28,
+      36
+    ],
+    [
+      29
+    ],
+    [
+      30
+    ],
+    [
+      31
+    ],
+    [
+      32
+    ],
+    [
+      33
+    ],
+    [
+      34
+    ],
+    [
+      38
+    ],
+    [
+      39
+    ],
+    [
+      40
+    ],
+    [
+      41
+    ],
+    [
+      42
+    ],
+    [
+      43
+    ],
+    [
+      45,
+      89
+    ],
+    [
+      46
+    ],
+    [
+      47,
+      88
+    ],
+    [
+      48,
+      82
+    ],
+    [
+      50
+    ],
+    [
+      51
+    ],
+    [
+      52
+    ],
+    [
+      54
+    ],
+    [
+      55
+    ],
+    [
+      56
+    ],
+    [
+      57
+    ],
+    [
+      59
+    ],
+    [
+      60
+    ],
+    [
+      61
+    ],
+    [
+      62
+    ],
+    [
+      63,
+      78
+    ],
+    [
+      64
+    ],
+    [
+      66
+    ],
+    [
+      67
+    ],
+    [
+      69
+    ],
+    [
+      70
+    ],
+    [
+      71
+    ],
+    [
+      72
+    ],
+    [
+      74
+    ],
+    [
+      75
+    ],
+    [
+      76
+    ],
+    [
+      77
+    ],
+    [
+      79
+    ],
+    [
+      80
+    ],
+    [
+      81
+    ],
+    [
+      83
+    ],
+    [
+      86
+    ],
+    [
+      87
+    ]
+  ],
+  "duplicates": [
+    {
+      "id": "ui_tech_1085",
+      "duplicate_of": "ui_tech_1000",
+      "sim": 0.9329,
+      "exact": false
+    },
+    {
+      "id": "ui_tech_1027",
+      "duplicate_of": "ui_tech_1001",
+      "sim": 0.9586,
+      "exact": false
+    },
+    {
+      "id": "ui_tech_1058",
+      "duplicate_of": "ui_tech_1001",
+      "sim": 0.9619,
+      "exact": false
+    },
+    {
+      "id": "ui_tech_1037",
+      "duplicate_of": "ui_tech_1004",
+      "sim": 0.9827,
+      "exact": true
+    },
+    {
+      "id": "ui_tech_1065",
+      "duplicate_of": "ui_tech_1004",
+      "sim": 0.9592,
+      "exact": false
+    },
+    {
+      "id": "ui_tech_1068",
+      "duplicate_of": "ui_tech_1004",
+      "sim": 0.9841,
+      "exact": true
+    },
+    {
+      "id": "ui_tech_1035",
+      "duplicate_of": "ui_tech_1017",
+      "sim": 0.958,
+      "exact": false
+    },
+    {
+      "id": "ui_tech_1049",
+      "duplicate_of": "ui_tech_1019",
+      "sim": 0.9935,
+      "exact": true
+    },
+    {
+      "id": "ui_tech_1084",
+      "duplicate_of": "ui_tech_1019",
+      "sim": 0.9652,
+      "exact": false
+    },
+    {
+      "id": "ui_tech_1044",
+      "duplicate_of": "ui_tech_1021",
+      "sim": 0.9754,
+      "exact": true
+    },
+    {
+      "id": "ui_tech_1053",
+      "duplicate_of": "ui_tech_1022",
+      "sim": 0.9953,
+      "exact": true
+    },
+    {
+      "id": "ui_tech_1073",
+      "duplicate_of": "ui_tech_1023",
+      "sim": 0.9405,
+      "exact": false
+    },
+    {
+      "id": "ui_tech_1036",
+      "duplicate_of": "ui_tech_1028",
+      "sim": 0.9359,
+      "exact": false
+    },
+    {
+      "id": "ui_tech_1089",
+      "duplicate_of": "ui_tech_1045",
+      "sim": 0.9514,
+      "exact": false
+    },
+    {
+      "id": "ui_tech_1088",
+      "duplicate_of": "ui_tech_1047",
+      "sim": 0.9828,
+      "exact": true
+    },
+    {
+      "id": "ui_tech_1082",
+      "duplicate_of": "ui_tech_1048",
+      "sim": 0.9486,
+      "exact": false
+    },
+    {
+      "id": "ui_tech_1078",
+      "duplicate_of": "ui_tech_1063",
+      "sim": 0.9497,
+      "exact": false
+    }
+  ]
+}

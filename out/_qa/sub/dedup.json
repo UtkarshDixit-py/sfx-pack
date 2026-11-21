@@ -1,0 +1,470 @@
+{
+  "survivors": [
+    "sub_1000",
+    "sub_1001",
+    "sub_1002",
+    "sub_1003",
+    "sub_1004",
+    "sub_1006",
+    "sub_1007",
+    "sub_1008",
+    "sub_1009",
+    "sub_1010",
+    "sub_1012",
+    "sub_1013",
+    "sub_1014",
+    "sub_1015",
+    "sub_1016",
+    "sub_1017",
+    "sub_1018",
+    "sub_1019",
+    "sub_1021",
+    "sub_1024",
+    "sub_1026",
+    "sub_1027",
+    "sub_1028",
+    "sub_1029",
+    "sub_1033",
+    "sub_1034",
+    "sub_1035",
+    "sub_1038",
+    "sub_1039",
+    "sub_1041",
+    "sub_1042",
+    "sub_1044",
+    "sub_1045",
+    "sub_1049",
+    "sub_1050",
+    "sub_1051",
+    "sub_1052",
+    "sub_1053",
+    "sub_1054",
+    "sub_1057",
+    "sub_1060",
+    "sub_1064",
+    "sub_1067",
+    "sub_1068",
+    "sub_1070",
+    "sub_1071",
+    "sub_1074",
+    "sub_1076",
+    "sub_1079",
+    "sub_1081",
+    "sub_1082",
+    "sub_1084",
+    "sub_1086",
+    "sub_1087",
+    "sub_1088",
+    "sub_1089"
+  ],
+  "clusters": [
+    [
+      0
+    ],
+    [
+      1,
+      5,
+      11,
+      20,
+      30,
+      40,
+      48,
+      56,
+      58,
+      69,
+      77,
+      80
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    [
+      6
+    ],
+    [
+      7,
+      22,
+      32,
+      37,
+      85
+    ],
+    [
+      8
+    ],
+    [
+      9,
+      47
+    ],
+    [
+      10
+    ],
+    [
+      12,
+      36
+    ],
+    [
+      13,
+      23,
+      31,
+      43,
+      55,
+      61,
+      62,
+      72,
+      73,
+      78,
+      83
+    ],
+    [
+      14,
+      25
+    ],
+    [
+      15,
+      46
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ],
+    [
+      18
+    ],
+    [
+      19
+    ],
+    [
+      21
+    ],
+    [
+      24,
+      66
+    ],
+    [
+      26
+    ],
+    [
+      27
+    ],
+    [
+      28
+    ],
+    [
+      29
+    ],
+    [
+      33
+    ],
+    [
+      34
+    ],
+    [
+      35
+    ],
+    [
+      38,
+      59
+    ],
+    [
+      39
+    ],
+    [
+      41
+    ],
+    [
+      42,
+      65
+    ],
+    [
+      44
+    ],
+    [
+      45
+    ],
+    [
+      49
+    ],
+    [
+      50
+    ],
+    [
+      51
+    ],
+    [
+      52
+    ],
+    [
+      53
+    ],
+    [
+      54
+    ],
+    [
+      57
+    ],
+    [
+      60,
+      63
+    ],
+    [
+      64
+    ],
+    [
+      67
+    ],
+    [
+      68,
+      75
+    ],
+    [
+      70
+    ],
+    [
+      71
+    ],
+    [
+      74
+    ],
+    [
+      76
+    ],
+    [
+      79
+    ],
+    [
+      81
+    ],
+    [
+      82
+    ],
+    [
+      84
+    ],
+    [
+      86
+    ],
+    [
+      87
+    ],
+    [
+      88
+    ],
+    [
+      89
+    ]
+  ],
+  "duplicates": [
+    {
+      "id": "sub_1005",
+      "duplicate_of": "sub_1001",
+      "sim": 0.9637,
+      "exact": false
+    },
+    {
+      "id": "sub_1011",
+      "duplicate_of": "sub_1001",
+      "sim": 0.9474,
+      "exact": false
+    },
+    {
+      "id": "sub_1020",
+      "duplicate_of": "sub_1001",
+      "sim": 0.9466,
+      "exact": false
+    },
+    {
+      "id": "sub_1030",
+      "duplicate_of": "sub_1001",
+      "sim": 0.9351,
+      "exact": false
+    },
+    {
+      "id": "sub_1040",
+      "duplicate_of": "sub_1001",
+      "sim": 0.9152,
+      "exact": false
+    },
+    {
+      "id": "sub_1048",
+      "duplicate_of": "sub_1001",
+      "sim": 0.8934,
+      "exact": false
+    },
+    {
+      "id": "sub_1056",
+      "duplicate_of": "sub_1001",
+      "sim": 0.9424,
+      "exact": false
+    },
+    {
+      "id": "sub_1058",
+      "duplicate_of": "sub_1001",
+      "sim": 0.9707,
+      "exact": true
+    },
+    {
+      "id": "sub_1069",
+      "duplicate_of": "sub_1001",
+      "sim": 0.9179,
+      "exact": false
+    },
+    {
+      "id": "sub_1077",
+      "duplicate_of": "sub_1001",
+      "sim": 0.946,
+      "exact": false
+    },
+    {
+      "id": "sub_1080",
+      "duplicate_of": "sub_1001",
+      "sim": 0.9152,
+      "exact": false
+    },
+    {
+      "id": "sub_1022",
+      "duplicate_of": "sub_1007",
+      "sim": 0.9618,
+      "exact": false
+    },
+    {
+      "id": "sub_1032",
+      "duplicate_of": "sub_1007",
+      "sim": 0.9431,
+      "exact": false
+    },
+    {
+      "id": "sub_1037",
+      "duplicate_of": "sub_1007",
+      "sim": 0.9674,
+      "exact": false
+    },
+    {
+      "id": "sub_1085",
+      "duplicate_of": "sub_1007",
+      "sim": 0.952,
+      "exact": false
+    },
+    {
+      "id": "sub_1047",
+      "duplicate_of": "sub_1009",
+      "sim": 0.9474,
+      "exact": false
+    },
+    {
+      "id": "sub_1036",
+      "duplicate_of": "sub_1012",
+      "sim": 0.9649,
+      "exact": false
+    },
+    {
+      "id": "sub_1023",
+      "duplicate_of": "sub_1013",
+      "sim": 0.9706,
+      "exact": true
+    },
+    {
+      "id": "sub_1031",
+      "duplicate_of": "sub_1013",
+      "sim": 0.9269,
+      "exact": false
+    },
+    {
+      "id": "sub_1043",
+      "duplicate_of": "sub_1013",
+      "sim": 0.945,
+      "exact": false
+    },
+    {
+      "id": "sub_1055",
+      "duplicate_of": "sub_1013",
+      "sim": 0.9459,
+      "exact": false
+    },
+    {
+      "id": "sub_1061",
+      "duplicate_of": "sub_1013",
+      "sim": 0.9854,
+      "exact": true
+    },
+    {
+      "id": "sub_1062",
+      "duplicate_of": "sub_1013",
+      "sim": 0.9815,
+      "exact": true
+    },
+    {
+      "id": "sub_1072",
+      "duplicate_of": "sub_1013",
+      "sim": 0.969,
+      "exact": false
+    },
+    {
+      "id": "sub_1073",
+      "duplicate_of": "sub_1013",
+      "sim": 0.9493,
+      "exact": false
+    },
+    {
+      "id": "sub_1078",
+      "duplicate_of": "sub_1013",
+      "sim": 0.9546,
+      "exact": false
+    },
+    {
+      "id": "sub_1083",
+      "duplicate_of": "sub_1013",
+      "sim": 0.9446,
+      "exact": false
+    },
+    {
+      "id": "sub_1025",
+      "duplicate_of": "sub_1014",
+      "sim": 0.9551,
+      "exact": false
+    },
+    {
+      "id": "sub_1046",
+      "duplicate_of": "sub_1015",
+      "sim": 0.9502,
+      "exact": false
+    },
+    {
+      "id": "sub_1066",
+      "duplicate_of": "sub_1024",
+      "sim": 0.9781,
+      "exact": true
+    },
+    {
+      "id": "sub_1059",
+      "duplicate_of": "sub_1038",
+      "sim": 0.9493,
+      "exact": false
+    },
+    {
+      "id": "sub_1065",
+      "duplicate_of": "sub_1042",
+      "sim": 0.9376,
+      "exact": false
+    },
+    {
+      "id": "sub_1063",
+      "duplicate_of": "sub_1060",
+      "sim": 0.9526,
+      "exact": false
+    },
+    {
+      "id": "sub_1075",
+      "duplicate_of": "sub_1068",
+      "sim": 0.9392,
+      "exact": false
+    }
+  ]
+}

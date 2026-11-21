@@ -1,0 +1,7022 @@
+[
+  {
+    "id": "sub_1000",
+    "family": "sub",
+    "params": {
+      "archetype": "steady",
+      "root": 34.6606771622732,
+      "dur": 0.43949750185919123,
+      "pitch_mul": 1.1272618126737517,
+      "settle_s": 0.029647069197117324,
+      "attack": 0.002381486353122527,
+      "tau": 0.0924432059226145,
+      "pulse_hz": 0.0,
+      "drive": 2.306520152451886,
+      "body_K": 16,
+      "body_mix": 0.29068377349742947,
+      "print_hz": [
+        4932.6803615182935,
+        1506.2268827646933,
+        3876.3440521346038,
+        1949.9479638142882
+      ],
+      "print_tau": [
+        0.2,
+        0.02,
+        0.02,
+        0.08
+      ],
+      "print_gain": [
+        0.07107212972145027,
+        0.08859383049390014,
+        0.0679019071698259,
+        0.08955586668048907
+      ],
+      "click": 0.12954363005302863,
+      "curve": 1.7530355292501572
+    },
+    "meta": {
+      "family": "sub",
+      "archetype": "steady",
+      "loop": false,
+      "descriptor": "steady35",
+      "print_hz": [
+        4932.7,
+        1506.2,
+        3876.3,
+        1949.9
+      ],
+      "body_K": 16,
+      "root": 34.66,
+      "drive": 2.307,
+      "seed": 1000,
+      "seconds": 0.4395,
+      "peak_dbfs": -6.0,
+      "true_peak_dbtp": -5.99,
+      "lufs": -24.372204070524766,
+      "channels": 1
+    },
+    "wav": "out/_qa/sub/sub_1000.wav",
+    "png": "",
+    "audit": {
+      "file": "/Users/utkarshdixit/sfx-pack/out/_qa/sub/sub_1000.wav",
+      "seconds": 0.4395,
+      "channels": 1,
+      "peak_dbfs": -6.0,
+      "true_peak_dbtp": -5.99,
+      "lufs": -24.372204164092725,
+      "dc": -0.0,
+      "lf_share": 0.906,
+      "clipped_pct": 0.0,
+      "crest_db": 12.56,
+      "edge": 1.4901161193847656e-05,
+      "holes": 0,
+      "flatness": 0.0,
+      "alias_db": -99.0,
+      "fails": [],
+      "ok": true
+    }
+  },
+  {
+    "id": "sub_1001",
+    "family": "sub",
+    "params": {
+      "archetype": "tail",
+      "root": 27.99463095532767,
+      "dur": 1.3802816269321252,
+      "pitch_mul": 1.0188713606368098,
+      "settle_s": 0.03498799258057138,
+      "attack": 0.0070647816164284465,
+      "tau": 0.3777770242206,
+      "pulse_hz": 0.0,
+      "drive": 1.9547271206967218,
+      "body_K": 16,
+      "body_mix": 0.44013182073003104,
+      "print_hz": [
+        662.4341125349573,
+        1129.9498114805099,
+        2162.291672446445,
+        1427.5318874255106
+      ],
+      "print_tau": [
+        0.02,
+        0.2,
+        0.08,
+        0.08
+      ],
+      "print_gain": [
+        0.08470715931154403,
+        0.06363241674022085,
+        0.07813598977115598,
+        0.08067504505300849
+      ],
+      "click": 0.13323346084460333,
+      "curve": 1.6865598839622804
+    },
+    "meta": {
+      "family": "sub",
+      "archetype": "tail",
+      "loop": false,
+      "descriptor": "tail28",
+      "print_hz": [
+        662.4,
+        1129.9,
+        2162.3,
+        1427.5
+      ],
+      "body_K": 16,
+      "root": 27.99,
+      "drive": 1.955,
+      "seed": 1001,
+      "seconds": 1.3803,
+      "peak_dbfs": -6.0,
+      "true_peak_dbtp": -5.99,
+      "lufs": -23.82635806940727,
+      "channels": 1
+    },
+    "wav": "out/_qa/sub/sub_1001.wav",
+    "png": "",
+    "audit": {
+      "file": "/Users/utkarshdixit/sfx-pack/out/_qa/sub/sub_1001.wav",
+      "seconds": 1.3803,
+      "channels": 1,
+      "peak_dbfs": -6.0,
+      "true_peak_dbtp": -5.99,
+      "lufs": -23.826358073555813,
+      "dc": -0.0,
+      "lf_share": 0.899,
+      "clipped_pct": 0.0,
+      "crest_db": 9.93,
+      "edge": 6.318092346191406e-05,
+      "holes": 0,
+      "flatness": 0.0,
+      "alias_db": -99.0,
+      "fails": [],
+      "ok": true
+    }
+  },
+  {
+    "id": "sub_1002",
+    "family": "sub",
+    "params": {
+      "archetype": "drop",
+      "root": 38.05019177614014,
+      "dur": 1.1824348535328502,
+      "pitch_mul": 2.816634682935705,
+      "settle_s": 0.42976558613410326,
+      "attack": 0.006661985174627618,
+      "tau": 0.3044731866726034,
+      "pulse_hz": 0.0,
+      "drive": 1.7873072238445993,
+      "body_K": 2,
+      "body_mix": 0.5806675009621065,
+      "print_hz": [
+        311.8704086235549,
+        651.6515786269978,
+        3056.881289279889,
+        3485.401458623074
+      ],
+      "print_tau": [
+        0.02,
+        0.2,
+        0.02,
+        0.08
+      ],
+      "print_gain": [
+        0.06010589267860792,
+        0.08610221556770226,
+        0.0545184145770593,
+        0.04715776036784639
+      ],
+      "click": 0.042757174721701624,
+      "curve": 0.8816284686418568
+    },
+    "meta": {
+      "family": "sub",
+      "archetype": "drop",
+      "loop": false,
+      "descriptor": "drop38",
+      "print_hz": [
+        311.9,
+        651.7,
+        3056.9,
+        3485.4
+      ],
+      "body_K": 2,
+      "root": 38.05,
+      "drive": 1.787,
+      "seed": 1002,
+      "seconds": 1.1824,
+      "peak_dbfs": -6.0,
+      "true_peak_dbtp": -5.99,
+      "lufs": -19.928525769045443,
+      "channels": 1
+    },
+    "wav": "out/_qa/sub/sub_1002.wav",
+    "png": "",
+    "audit": {
+      "file": "/Users/utkarshdixit/sfx-pack/out/_qa/sub/sub_1002.wav",
+      "seconds": 1.1824,
+      "channels": 1,
+      "peak_dbfs": -6.0,
+      "true_peak_dbtp": -5.99,
+      "lufs": -19.92852577016861,
+      "dc": -0.0,
+      "lf_share": 0.145,
+      "clipped_pct": 0.0,
+      "crest_db": 10.84,
+      "edge": 4.4465065002441406e-05,
+      "holes": 0,
+      "flatness": 0.0,
+      "alias_db": -99.0,
+      "fails": [],
+      "ok": true
+    }
+  },
+  {
+    "id": "sub_1003",
+    "family": "sub",
+    "params": {
+      "archetype": "tail",
+      "root": 31.73890310406602,
+      "dur": 1.086912191514657,
+      "pitch_mul": 1.0714474297384136,
+      "settle_s": 0.0370826204463635,
+      "attack": 0.015604273462466001,
+      "tau": 0.3233938385677611,
+      "pulse_hz": 0.0,
+      "drive": 1.7222155594170834,
+      "body_K": 32,
+      "body_mix": 0.3253223410458619,
+      "print_hz": [
+        362.62311204398696,
+        2395.347307744131,
+        4594.234331508483,
+        567.1032010445412
+      ],
+      "print_tau": [
+        0.08,
+        0.02,
+        0.2,
+        0.02
+      ],
+      "print_gain": [
+        0.06073205618350338,
+        0.0784480487968581,
+        0.06205479079461633,
+        0.05572469491394913
+      ],
+      "click": 0.07518834926691174,
+      "curve": 0.8900640018061629
+    },
+    "meta": {
+      "family": "sub",
+      "archetype": "tail",
+      "loop": false,
+      "descriptor": "tail32",
+      "print_hz": [
+        362.6,
+        2395.3,
+        4594.2,
+        567.1
+      ],
+      "body_K": 32,
+      "root": 31.74,
+      "drive": 1.722,
+      "seed": 1003,
+      "seconds": 1.0869,
+      "peak_dbfs": -6.0,
+      "true_peak_dbtp": -5.99,
+      "lufs": -24.235523243595946,
+      "channels": 1
+    },
+    "wav": "out/_qa/sub/sub_1003.wav",
+    "png": "",
+    "audit": {
+      "file": "/Users/utkarshdixit/sfx-pack/out/_qa/sub/sub_1003.wav",
+      "seconds": 1.0869,
+      "channels": 1,
+      "peak_dbfs": -6.0,
+      "true_peak_dbtp": -5.99,
+      "lufs": -24.23552322302045,
+      "dc": -0.0,
+      "lf_share": 0.946,
+      "clipped_pct": 0.0,
+      "crest_db": 10.06,
+      "edge": 3.731250762939453e-05,
+      "holes": 0,
+      "flatness": 0.0,
+      "alias_db": -99.0,
+      "fails": [],
+      "ok": true
+    }
+  },
+  {
+    "id": "sub_1004",
+    "family": "sub",
+    "params": {
+      "archetype": "tail",
+      "root": 34.01356477130361,
+      "dur": 1.0133359209532162,
+      "pitch_mul": 1.0742563489421886,
+      "settle_s": 0.09417385367026722,
+      "attack": 0.012708175197933652,
+      "tau": 0.25576951548732785,
+      "pulse_hz": 0.0,
+      "drive": 1.4843613163814444,
+      "body_K": 8,
+      "body_mix": 0.4002680631194994,
+      "print_hz": [
+        359.5192009932767,
+        1597.27764044093,
+        2768.1106090036924,
+        339.4873176809483
+      ],
+      "print_tau": [
+        0.08,
+        0.2,
+        0.08,
+        0.02
+      ],
+      "print_gain": [
+        0.07162243501306322,
+        0.05797262517654377,
+        0.06796208032639438,
+        0.08226121173529627
+      ],
+      "click": 0.023436672290716953,
+      "curve": 1.4780196674764217
+    },
+    "meta": {
+      "family": "sub",
+      "archetype": "tail",
+      "loop": false,
+      "descriptor": "tail34",
+      "print_hz": [
+        359.5,
+        1597.3,
+        2768.1,
+        339.5
+      ],
+      "body_K": 8,
+      "root": 34.01,
+      "drive": 1.484,
+      "seed": 1004,
+      "seconds": 1.0133,
+      "peak_dbfs": -6.0,
+      "true_peak_dbtp": -5.99,
+      "lufs": -23.90008012347495,
+      "channels": 1
+    },
+    "wav": "out/_qa/sub/sub_1004.wav",
+    "png": "",
+    "audit": {
+      "file": "/Users/utkarshdixit/sfx-pack/out/_qa/sub/sub_1004.wav",
+      "seconds": 1.0133,
+      "channels": 1,
+      "peak_dbfs": -6.0,
+      "true_peak_dbtp": -5.99,
+      "lufs": -23.900080141292452,
+      "dc": -0.0,
+      "lf_share": 0.934,
+      "clipped_pct": 0.0,
+      "crest_db": 10.77,
+      "edge": 1.2516975402832031e-05,
+      "holes": 0,
+      "flatness": 0.0,
+      "alias_db": -99.0,
+      "fails": [],
+      "ok": true
+    }
+  },
+  {
+    "id": "sub_1005",
+    "family": "sub",
+    "params": {
+      "archetype": "drop",
+      "root": 37.89470314889221,
+      "dur": 1.0164029465387503,
+      "pitch_mul": 2.993840272608661,
+      "settle_s": 0.4344294350238014,
+      "attack": 0.0033220972515946245,
+      "tau": 0.21733581105814848,
+      "pulse_hz": 0.0,
+      "drive": 2.255595603582793,
+      "body_K": 16,
+      "body_mix": 0.58130462760872,
+      "print_hz": [
+        1060.1145923174802,
+        453.50377351312363,
+        337.1902268179218,
+        979.9705474702193
+      ],
+      "print_tau": [
+        0.08,
+        0.08,
+        0.02,
+        0.08
+      ],
+      "print_gain": [
+        0.04827700518564411,
+        0.06902222351764506,
+        0.0467281289169085,
+        0.04884227595990584
+      ],
+      "click": 0.0496340073215692,
+      "curve": 1.7593796726834798
+    },
+    "meta": {
+      "family": "sub",
+      "archetype": "drop",
+      "loop": false,
+      "descriptor": "drop38",
+      "print_hz": [
+        1060.1,
+        453.5,
+        337.2,
+        980.0
+      ],
+      "body_K": 16,
+      "root": 37.89,
+      "drive": 2.256,
+      "seed": 1005,
+      "seconds": 1.0164,
+      "peak_dbfs": -6.0,
+      "true_peak_dbtp": -5.99,
+      "lufs": -20.4686966481362,
+      "channels": 1
+    },
+    "wav": "out/_qa/sub/sub_1005.wav",
+    "png": "",
+    "audit": {
+      "file": "/Users/utkarshdixit/sfx-pack/out/_qa/sub/sub_1005.wav",
+      "seconds": 1.0164,
+      "channels": 1,
+      "peak_dbfs": -6.0,
+      "true_peak_dbtp": -5.99,
+      "lufs": -20.468696646116967,
+      "dc": -0.0,
+      "lf_share": 0.054,
+      "clipped_pct": 0.0,
+      "crest_db": 11.72,
+      "edge": 2.288818359375e-05,
+      "holes": 0,
+      "flatness": 0.0,
+      "alias_db": -99.0,
+      "fails": [],
+      "ok": true
+    }
+  },
+  {
+    "id": "sub_1006",
+    "family": "sub",
+    "params": {
+      "archetype": "steady",
+      "root": 35.43673634606184,
+      "dur": 0.28975248675969767,
+      "pitch_mul": 1.2896206460144088,
+      "settle_s": 0.04823652647760322,
+      "attack": 0.0026413222903896912,
+      "tau": 0.060193026345719214,
+      "pulse_hz": 0.0,
+      "drive": 1.9686286725069944,
+      "body_K": 4,
+      "body_mix": 0.2888234423478255,
+      "print_hz": [
+        1970.4999263244533,
+        4644.07711069847,
+        565.5882434339751,
+        2978.568880599107
+      ],
+      "print_tau": [
+        0.2,
+        0.2,
+        0.02,
+        0.2
+      ],
+      "print_gain": [
+        0.08818442843287203,
+        0.055844223328824195,
+        0.07776762709870495,
+        0.06918681512264599
+      ],
+      "click": 0.015736506651414326,
+      "curve": 1.0701775635429456
+    },
+    "meta": {
+      "family": "sub",
+      "archetype": "steady",
+      "loop": false,
+      "descriptor": "steady35",
+      "print_hz": [
+        1970.5,
+        4644.1,
+        565.6,
+        2978.6
+      ],
+      "body_K": 4,
+      "root": 35.44,
+      "drive": 1.969,
+      "seed": 1006,
+      "seconds": 0.2898,
+      "peak_dbfs": -6.0,
+      "true_peak_dbtp": -5.99,
+      "lufs": null,
+      "channels": 1
+    },
+    "wav": "out/_qa/sub/sub_1006.wav",
+    "png": "",
+    "audit": {
+      "file": "/Users/utkarshdixit/sfx-pack/out/_qa/sub/sub_1006.wav",
+      "seconds": 0.2898,
+      "channels": 1,
+      "peak_dbfs": -6.0,
+      "true_peak_dbtp": -5.99,
+      "lufs": null,
+      "dc": -0.0,
+      "lf_share": 0.872,
+      "clipped_pct": 0.0,
+      "crest_db": 11.6,
+      "edge": 5.233287811279297e-05,
+      "holes": 0,
+      "flatness": 0.0,
+      "alias_db": -99.0,
+      "fails": [],
+      "ok": true
+    }
+  },
+  {
+    "id": "sub_1007",
+    "family": "sub",
+    "params": {
+      "archetype": "drop",
+      "root": 42.329156373205365,
+      "dur": 0.5856404124854004,
+      "pitch_mul": 2.0122005603263022,
+      "settle_s": 0.5935142256465213,
+      "attack": 0.004942051624858789,
+      "tau": 0.1665231609523144,
+      "pulse_hz": 0.0,
+      "drive": 2.585870616280722,
+      "body_K": 8,
+      "body_mix": 0.38406932270082017,
+      "print_hz": [
+        676.8576730504346,
+        875.7351230710332,
+        994.6394105526826,
+        362.37335089185615
+      ],
+      "print_tau": [
+        0.02,
+        0.08,
+        0.02,
+        0.02
+      ],
+      "print_gain": [
+        0.06326312753727728,
+        0.058814261350378656,
+        0.06001306144970746,
+        0.07462076788140859
+      ],
+      "click": 0.12066480782134725,
+      "curve": 1.740216940492908
+    },
+    "meta": {
+      "family": "sub",
+      "archetype": "drop",
+      "loop": false,
+      "descriptor": "drop42",
+      "print_hz": [
+        676.9,
+        875.7,
+        994.6,
+        362.4
+      ],
+      "body_K": 8,
+      "root": 42.33,
+      "drive": 2.586,
+      "seed": 1007,
+      "seconds": 0.5856,
+      "peak_dbfs": -6.0,
+      "true_peak_dbtp": -5.99,
+      "lufs": -21.23897133120345,
+      "channels": 1
+    },
+    "wav": "out/_qa/sub/sub_1007.wav",
+    "png": "",
+    "audit": {
+      "file": "/Users/utkarshdixit/sfx-pack/out/_qa/sub/sub_1007.wav",
+      "seconds": 0.5856,
+      "channels": 1,
+      "peak_dbfs": -6.0,
+      "true_peak_dbtp": -5.99,
+      "lufs": -21.238971313777828,
+      "dc": -0.0,
+      "lf_share": 0.001,
+      "clipped_pct": 0.0,
+      "crest_db": 11.65,
+      "edge": 9.298324584960938e-05,
+      "holes": 0,
+      "flatness": 0.0,
+      "alias_db": -99.0,
+      "fails": [],
+      "ok": true
+    }
+  },
+  {
+    "id": "sub_1008",
+    "family": "sub",
+    "params": {
+      "archetype": "drop",
+      "root": 44.448315345475706,
+      "dur": 0.8119617916680937,
+      "pitch_mul": 3.022190193710407,
+      "settle_s": 0.20917509464917985,
+      "attack": 0.006412659690753995,
+      "tau": 0.24877718077711394,
+      "pulse_hz": 0.0,
+      "drive": 2.561352911296,
+      "body_K": 2,
+      "body_mix": 0.5834839674712448,
+      "print_hz": [
+        1589.8455979215994,
+        491.84276418611876,
+        1500.1459479033517,
+        750.0518162412955
+      ],
+      "print_tau": [
+        0.08,
+        0.2,
+        0.2,
+        0.08
+      ],
+      "print_gain": [
+        0.06695762369446107,
+        0.05932389979817952,
+        0.07368525966427682,
+        0.07084385024480029
+      ],
+      "click": 0.1276000003532609,
+      "curve": 1.6376231077916883
+    },
+    "meta": {
+      "family": "sub",
+      "archetype": "drop",
+      "loop": false,
+      "descriptor": "drop44",
+      "print_hz": [
+        1589.8,
+        491.8,
+        1500.1,
+        750.1
+      ],
+      "body_K": 2,
+      "root": 44.45,
+      "drive": 2.561,
+      "seed": 1008,
+      "seconds": 0.812,
+      "peak_dbfs": -6.0,
+      "true_peak_dbtp": -5.99,
+      "lufs": -22.940606189853032,
+      "channels": 1
+    },
+    "wav": "out/_qa/sub/sub_1008.wav",
+    "png": "",
+    "audit": {
+      "file": "/Users/utkarshdixit/sfx-pack/out/_qa/sub/sub_1008.wav",
+      "seconds": 0.812,
+      "channels": 1,
+      "peak_dbfs": -6.0,
+      "true_peak_dbtp": -5.99,
+      "lufs": -22.9406061981084,
+      "dc": -0.0,
+      "lf_share": 0.206,
+      "clipped_pct": 0.0,
+      "crest_db": 12.48,
+      "edge": 2.6702880859375e-05,
+      "holes": 0,
+      "flatness": 0.0,
+      "alias_db": -99.0,
+      "fails": [],
+      "ok": true
+    }
+  },
+  {
+    "id": "sub_1009",
+    "family": "sub",
+    "params": {
+      "archetype": "pulse",
+      "root": 32.47528219228042,
+      "dur": 0.7362131954347967,
+      "pitch_mul": 1.089417638079195,
+      "settle_s": 0.026960405345765426,
+      "attack": 0.0013838072748266507,
+      "tau": 0.24853318003261593,
+      "pulse_hz": 6.289780935217239,
+      "drive": 1.9228026520596293,
+      "body_K": 4,
+      "body_mix": 0.40581690794439884,
+      "print_hz": [
+        1422.3846580169923,
+        478.9378860091213,
+        565.6495491217956,
+        2866.030540554872
+      ],
+      "print_tau": [
+        0.02,
+        0.2,
+        0.02,
+        0.02
+      ],
+      "print_gain": [
+        0.07848525216685635,
+        0.0871138002956984,
+        0.04764514382079506,
+        0.0813379749015025
+      ],
+      "click": 0.07280230886056531,
+      "curve": 1.3758245670060376
+    },
+    "meta": {
+      "family": "sub",
+      "archetype": "pulse",
+      "loop": false,
+      "descriptor": "pulse32",
+      "print_hz": [
+        1422.4,
+        478.9,
+        565.6,
+        2866.0
+      ],
+      "body_K": 4,
+      "root": 32.48,
+      "drive": 1.923,
+      "seed": 1009,
+      "seconds": 0.7362,
+      "peak_dbfs": -6.0,
+      "true_peak_dbtp": -5.99,
+      "lufs": -24.03678500503526,
+      "channels": 1
+    },
+    "wav": "out/_qa/sub/sub_1009.wav",
+    "png": "",
+    "audit": {
+      "file": "/Users/utkarshdixit/sfx-pack/out/_qa/sub/sub_1009.wav",
+      "seconds": 0.7362,
+      "channels": 1,
+      "peak_dbfs": -6.0,
+      "true_peak_dbtp": -5.99,
+      "lufs": -24.036785011607485,
+      "dc": -0.0,
+      "lf_share": 0.757,
+      "clipped_pct": 0.0,
+      "crest_db": 11.83,
+      "edge": 2.5033950805664062e-05,
+      "holes": 0,
+      "flatness": 0.0022,
+      "alias_db": -99.0,
+      "fails": [],
+      "ok": true
+    }
+  },
+  {
+    "id": "sub_1010",
+    "family": "sub",
+    "params": {
+      "archetype": "steady",
+      "root": 42.63356278726647,
+      "dur": 0.548670408615985,
+      "pitch_mul": 1.216008662231825,
+      "settle_s": 0.05586136884382898,
+      "attack": 0.003909057586873354,
+      "tau": 0.07364008138990498,
+      "pulse_hz": 0.0,
+      "drive": 1.5023825434760423,
+      "body_K": 4,
+      "body_mix": 0.5162248131787852,
+      "print_hz": [
+        438.10546842314636,
+        3596.3128780653637,
+        674.031365572807,
+        1142.5098895787216
+      ],
+      "print_tau": [
+        0.02,
+        0.2,
+        0.08,
+        0.08
+      ],
+      "print_gain": [
+        0.06133839728749014,
+        0.05295984067714604,
+        0.08965137515220722,
+        0.07828913785225822
+      ],
+      "click": 0.006923249489133493,
+      "curve": 1.7390320977751268
+    },
+    "meta": {
+      "family": "sub",
+      "archetype": "steady",
+      "loop": false,
+      "descriptor": "steady43",
+      "print_hz": [
+        438.1,
+        3596.3,
+        674.0,
+        1142.5
+      ],
+      "body_K": 4,
+      "root": 42.63,
+      "drive": 1.502,
+      "seed": 1010,
+      "seconds": 0.5487,
+      "peak_dbfs": -6.0,
+      "true_peak_dbtp": -5.99,
+      "lufs": -24.642468098137467,
+      "channels": 1
+    },
+    "wav": "out/_qa/sub/sub_1010.wav",
+    "png": "",
+    "audit": {
+      "file": "/Users/utkarshdixit/sfx-pack/out/_qa/sub/sub_1010.wav",
+      "seconds": 0.5487,
+      "channels": 1,
+      "peak_dbfs": -6.0,
+      "true_peak_dbtp": -5.99,
+      "lufs": -24.642468139960677,
+      "dc": -0.0,
+      "lf_share": 0.554,
+      "clipped_pct": 0.0,
+      "crest_db": 12.85,
+      "edge": 1.7881393432617188e-06,
+      "holes": 0,
+      "flatness": 0.0048,
+      "alias_db": -99.0,
+      "fails": [],
+      "ok": true
+    }
+  },
+  {
+    "id": "sub_1011",
+    "family": "sub",
+    "params": {
+      "archetype": "drop",
+      "root": 37.75735941698213,
+      "dur": 0.7392017802128695,
+      "pitch_mul": 2.389917763329018,
+      "settle_s": 0.26636623011655836,
+      "attack": 0.0023836317690625218,
+      "tau": 0.17873482130048526,
+      "pulse_hz": 0.0,
+      "drive": 1.9851196152701542,
+      "body_K": 16,
+      "body_mix": 0.5651972176738727,
+      "print_hz": [
+        2881.8584932517597,
+        520.3585990876869,
+        1206.9874582370016,
+        592.0081461967891
+      ],
+      "print_tau": [
+        0.08,
+        0.02,
+        0.02,
+        0.08
+      ],
+      "print_gain": [
+        0.08295530474687278,
+        0.08819731862416562,
+        0.06014122062873885,
+        0.04923967684874812
+      ],
+      "click": 0.05721073060322886,
+      "curve": 1.3006721780968051
+    },
+    "meta": {
+      "family": "sub",
+      "archetype": "drop",
+      "loop": false,
+      "descriptor": "drop38",
+      "print_hz": [
+        2881.9,
+        520.4,
+        1207.0,
+        592.0
+      ],
+      "body_K": 16,
+      "root": 37.76,
+      "drive": 1.985,
+      "seed": 1011,
+      "seconds": 0.7392,
+      "peak_dbfs": -6.0,
+      "true_peak_dbtp": -5.99,
+      "lufs": -22.766769561410744,
+      "channels": 1
+    },
+    "wav": "out/_qa/sub/sub_1011.wav",
+    "png": "",
+    "audit": {
+      "file": "/Users/utkarshdixit/sfx-pack/out/_qa/sub/sub_1011.wav",
+      "seconds": 0.7392,
+      "channels": 1,
+      "peak_dbfs": -6.0,
+      "true_peak_dbtp": -5.99,
+      "lufs": -22.766769566300606,
+      "dc": -0.0,
+      "lf_share": 0.141,
+      "clipped_pct": 0.0,
+      "crest_db": 12.22,
+      "edge": 4.8160552978515625e-05,
+      "holes": 0,
+      "flatness": 0.0,
+      "alias_db": -99.0,
+      "fails": [],
+      "ok": true
+    }
+  },
+  {
+    "id": "sub_1012",
+    "family": "sub",
+    "params": {
+      "archetype": "steady",
+      "root": 37.73269375434073,
+      "dur": 0.5081503967885652,
+      "pitch_mul": 1.310702137421645,
+      "settle_s": 0.0235281538897625,
+      "attack": 0.002988776187843107,
+      "tau": 0.06736472238573427,
+      "pulse_hz": 0.0,
+      "drive": 2.3500456640024243,
+      "body_K": 32,
+      "body_mix": 0.2970656032600709,
+      "print_hz": [
+        427.3627318613208,
+        4400.816484668765,
+        2661.5251345070515,
+        4625.181818883003
+      ],
+      "print_tau": [
+        0.08,
+        0.2,
+        0.08,
+        0.02
+      ],
+      "print_gain": [
+        0.04881312443191438,
+        0.04395384526352402,
+        0.07665774619121722,
+        0.08041752009618479
+      ],
+      "click": 0.049964266735783865,
+      "curve": 1.1101506852308782
+    },
+    "meta": {
+      "family": "sub",
+      "archetype": "steady",
+      "loop": false,
+      "descriptor": "steady38",
+      "print_hz": [
+        427.4,
+        4400.8,
+        2661.5,
+        4625.2
+      ],
+      "body_K": 32,
+      "root": 37.73,
+      "drive": 2.35,
+      "seed": 1012,
+      "seconds": 0.5081,
+      "peak_dbfs": -6.0,
+      "true_peak_dbtp": -5.99,
+      "lufs": -25.506311804992013,
+      "channels": 1
+    },
+    "wav": "out/_qa/sub/sub_1012.wav",
+    "png": "",
+    "audit": {
+      "file": "/Users/utkarshdixit/sfx-pack/out/_qa/sub/sub_1012.wav",
+      "seconds": 0.5081,
+      "channels": 1,
+      "peak_dbfs": -6.0,
+      "true_peak_dbtp": -5.99,
+      "lufs": -25.50631183409034,
+      "dc": -0.0,
+      "lf_share": 0.891,
+      "clipped_pct": 0.0,
+      "crest_db": 12.5,
+      "edge": 4.291534423828125e-06,
+      "holes": 0,
+      "flatness": 0.0,
+      "alias_db": -99.0,
+      "fails": [],
+      "ok": true
+    }
+  },
+  {
+    "id": "sub_1013",
+    "family": "sub",
+    "params": {
+      "archetype": "drop",
+      "root": 41.158056352977226,
+      "dur": 1.1708217635066174,
+      "pitch_mul": 2.158031250939319,
+      "settle_s": 0.16170594208348182,
+      "attack": 0.004943892902602483,
+      "tau": 0.25872771538625045,
+      "pulse_hz": 0.0,
+      "drive": 2.063756787916018,
+      "body_K": 32,
+      "body_mix": 0.5762495475189858,
+      "print_hz": [
+        1046.9065459727537,
+        1950.8363346534532,
+        2477.7173770749537,
+        806.4061524917796
+      ],
+      "print_tau": [
+        0.08,
+        0.2,
+        0.08,
+        0.2
+      ],
+      "print_gain": [
+        0.04049354638868595,
+        0.07309942537918994,
+        0.08122964844117922,
+        0.08476316200371134
+      ],
+      "click": 0.08709548588542404,
+      "curve": 1.6194066813666783
+    },
+    "meta": {
+      "family": "sub",
+      "archetype": "drop",
+      "loop": false,
+      "descriptor": "drop41",
+      "print_hz": [
+        1046.9,
+        1950.8,
+        2477.7,
+        806.4
+      ],
+      "body_K": 32,
+      "root": 41.16,
+      "drive": 2.064,
+      "seed": 1013,
+      "seconds": 1.1708,
+      "peak_dbfs": -6.0,
+      "true_peak_dbtp": -5.99,
+      "lufs": -23.429146989590574,
+      "channels": 1
+    },
+    "wav": "out/_qa/sub/sub_1013.wav",
+    "png": "",
+    "audit": {
+      "file": "/Users/utkarshdixit/sfx-pack/out/_qa/sub/sub_1013.wav",
+      "seconds": 1.1708,
+      "channels": 1,
+      "peak_dbfs": -6.0,
+      "true_peak_dbtp": -5.99,
+      "lufs": -23.42914696524285,
+      "dc": -0.0,
+      "lf_share": 0.399,
+      "clipped_pct": 0.0,
+      "crest_db": 13.33,
+      "edge": 1.4424324035644531e-05,
+      "holes": 0,
+      "flatness": 0.0,
+      "alias_db": -99.0,
+      "fails": [],
+      "ok": true
+    }
+  },
+  {
+    "id": "sub_1014",
+    "family": "sub",
+    "params": {
+      "archetype": "steady",
+      "root": 31.747499990511795,
+      "dur": 0.494369274951322,
+      "pitch_mul": 1.1619718021052878,
+      "settle_s": 0.036400185146661136,
+      "attack": 0.00204666199649405,
+      "tau": 0.07373676791278841,
+      "pulse_hz": 0.0,
+      "drive": 1.829878955146925,
+      "body_K": 16,
+      "body_mix": 0.32274668020692887,
+      "print_hz": [
+        3219.360043009546,
+        417.813955567406,
+        879.9179650271386,
+        391.1884333297539
+      ],
+      "print_tau": [
+        0.2,
+        0.08,
+        0.2,
+        0.02
+      ],
+      "print_gain": [
+        0.08420625792626808,
+        0.06952296344472052,
+        0.07691670866497033,
+        0.073433917565842
+      ],
+      "click": 0.1134467807423564,
+      "curve": 1.5748290528284095
+    },
+    "meta": {
+      "family": "sub",
+      "archetype": "steady",
+      "loop": false,
+      "descriptor": "steady32",
+      "print_hz": [
+        3219.4,
+        417.8,
+        879.9,
+        391.2
+      ],
+      "body_K": 16,
+      "root": 31.75,
+      "drive": 1.83,
+      "seed": 1014,
+      "seconds": 0.4944,
+      "peak_dbfs": -6.0,
+      "true_peak_dbtp": -5.99,
+      "lufs": -25.987352021118806,
+      "channels": 1
+    },
+    "wav": "out/_qa/sub/sub_1014.wav",
+    "png": "",
+    "audit": {
+      "file": "/Users/utkarshdixit/sfx-pack/out/_qa/sub/sub_1014.wav",
+      "seconds": 0.4944,
+      "channels": 1,
+      "peak_dbfs": -6.0,
+      "true_peak_dbtp": -5.99,
+      "lufs": -25.987352075583782,
+      "dc": -0.0,
+      "lf_share": 0.92,
+      "clipped_pct": 0.0,
+      "crest_db": 11.66,
+      "edge": 1.430511474609375e-06,
+      "holes": 0,
+      "flatness": 0.0,
+      "alias_db": -99.0,
+      "fails": [],
+      "ok": true
+    }
+  },
+  {
+    "id": "sub_1015",
+    "family": "sub",
+    "params": {
+      "archetype": "drop",
+      "root": 34.67491742316906,
+      "dur": 0.9070589940037261,
+      "pitch_mul": 3.029970064141557,
+      "settle_s": 0.19048439095949365,
+      "attack": 0.007599355032799462,
+      "tau": 0.22062963004485725,
+      "pulse_hz": 0.0,
+      "drive": 1.9626277737308355,
+      "body_K": 2,
+      "body_mix": 0.28341340459219716,
+      "print_hz": [
+        2310.035454416475,
+        978.8469574985426,
+        481.3173109864065,
+        397.28833397897904
+      ],
+      "print_tau": [
+        0.02,
+        0.02,
+        0.08,
+        0.02
+      ],
+      "print_gain": [
+        0.05203246162486039,
+        0.04430646977739811,
+        0.04427535193770577,
+        0.050732050450103705
+      ],
+      "click": 0.009981099724812547,
+      "curve": 0.7967516705071506
+    },
+    "meta": {
+      "family": "sub",
+      "archetype": "drop",
+      "loop": false,
+      "descriptor": "drop35",
+      "print_hz": [
+        2310.0,
+        978.8,
+        481.3,
+        397.3
+      ],
+      "body_K": 2,
+      "root": 34.67,
+      "drive": 1.963,
+      "seed": 1015,
+      "seconds": 0.907,
+      "peak_dbfs": -6.0,
+      "true_peak_dbtp": -5.99,
+      "lufs": -21.778708033821847,
+      "channels": 1
+    },
+    "wav": "out/_qa/sub/sub_1015.wav",
+    "png": "",
+    "audit": {
+      "file": "/Users/utkarshdixit/sfx-pack/out/_qa/sub/sub_1015.wav",
+      "seconds": 0.907,
+      "channels": 1,
+      "peak_dbfs": -6.0,
+      "true_peak_dbtp": -5.99,
+      "lufs": -21.778708017413972,
+      "dc": -0.0,
+      "lf_share": 0.381,
+      "clipped_pct": 0.0,
+      "crest_db": 11.05,
+      "edge": 5.6862831115722656e-05,
+      "holes": 0,
+      "flatness": 0.0,
+      "alias_db": -99.0,
+      "fails": [],
+      "ok": true
+    }
+  },
+  {
+    "id": "sub_1016",
+    "family": "sub",
+    "params": {
+      "archetype": "pulse",
+      "root": 30.08641280239054,
+      "dur": 0.9416265584536018,
+      "pitch_mul": 1.0349792807368645,
+      "settle_s": 0.03696295584107815,
+      "attack": 0.002400614497312042,
+      "tau": 0.31447388953567296,
+      "pulse_hz": 4.995260918583908,
+      "drive": 2.473501329789228,
+      "body_K": 2,
+      "body_mix": 0.41502401628981833,
+      "print_hz": [
+        4724.645945321852,
+        593.7387186115034,
+        4960.518428255842,
+        420.14968490805154
+      ],
+      "print_tau": [
+        0.2,
+        0.2,
+        0.2,
+        0.02
+      ],
+      "print_gain": [
+        0.04430257892809831,
+        0.046590171716029624,
+        0.07842456780102115,
+        0.04868150985306804
+      ],
+      "click": 0.007723771540683427,
+      "curve": 1.6066768269518905
+    },
+    "meta": {
+      "family": "sub",
+      "archetype": "pulse",
+      "loop": false,
+      "descriptor": "pulse30",
+      "print_hz": [
+        4724.6,
+        593.7,
+        4960.5,
+        420.1
+      ],
+      "body_K": 2,
+      "root": 30.09,
+      "drive": 2.474,
+      "seed": 1016,
+      "seconds": 0.9416,
+      "peak_dbfs": -6.0,
+      "true_peak_dbtp": -5.99,
+      "lufs": -24.425438668693207,
+      "channels": 1
+    },
+    "wav": "out/_qa/sub/sub_1016.wav",
+    "png": "",
+    "audit": {
+      "file": "/Users/utkarshdixit/sfx-pack/out/_qa/sub/sub_1016.wav",
+      "seconds": 0.9416,
+      "channels": 1,
+      "peak_dbfs": -6.0,
+      "true_peak_dbtp": -5.99,
+      "lufs": -24.425438663404233,
+      "dc": -0.0,
+      "lf_share": 0.788,
+      "clipped_pct": 0.0,
+      "crest_db": 11.97,
+      "edge": 1.1920928955078125e-06,
+      "holes": 0,
+      "flatness": 0.0096,
+      "alias_db": -99.0,
+      "fails": [],
+      "ok": true
+    }
+  },
+  {
+    "id": "sub_1017",
+    "family": "sub",
+    "params": {
+      "archetype": "drop",
+      "root": 26.119466977183023,
+      "dur": 1.1157560874501342,
+      "pitch_mul": 2.2882961276281684,
+      "settle_s": 0.5709461821569788,
+      "attack": 0.0052714434175736595,
+      "tau": 0.3486395295678753,
+      "pulse_hz": 0.0,
+      "drive": 1.9713591458674702,
+      "body_K": 2,
+      "body_mix": 0.5043802166940116,
+      "print_hz": [
+        792.2830154553707,
+        1274.6190977772908,
+        3908.292543547451,
+        678.9336568775007
+      ],
+      "print_tau": [
+        0.02,
+        0.2,
+        0.2,
+        0.08
+      ],
+      "print_gain": [
+        0.04512218095932771,
+        0.05904570635315265,
+        0.08581331824003471,
+        0.08264879496140731
+      ],
+      "click": 0.053027538769182654,
+      "curve": 0.8328919184887927
+    },
+    "meta": {
+      "family": "sub",
+      "archetype": "drop",
+      "loop": false,
+      "descriptor": "drop26",
+      "print_hz": [
+        792.3,
+        1274.6,
+        3908.3,
+        678.9
+      ],
+      "body_K": 2,
+      "root": 26.12,
+      "drive": 1.971,
+      "seed": 1017,
+      "seconds": 1.1158,
+      "peak_dbfs": -6.0,
+      "true_peak_dbtp": -5.99,
+      "lufs": -22.587270803601246,
+      "channels": 1
+    },
+    "wav": "out/_qa/sub/sub_1017.wav",
+    "png": "",
+    "audit": {
+      "file": "/Users/utkarshdixit/sfx-pack/out/_qa/sub/sub_1017.wav",
+      "seconds": 1.1158,
+      "channels": 1,
+      "peak_dbfs": -6.0,
+      "true_peak_dbtp": -5.99,
+      "lufs": -22.58727080002511,
+      "dc": -0.0,
+      "lf_share": 0.426,
+      "clipped_pct": 0.0,
+      "crest_db": 11.32,
+      "edge": 3.8504600524902344e-05,
+      "holes": 0,
+      "flatness": 0.0,
+      "alias_db": -99.0,
+      "fails": [],
+      "ok": true
+    }
+  },
+  {
+    "id": "sub_1018",
+    "family": "sub",
+    "params": {
+      "archetype": "steady",
+      "root": 46.900126002660464,
+      "dur": 0.5156390203983153,
+      "pitch_mul": 1.213014486739308,
+      "settle_s": 0.041518123252960185,
+      "attack": 0.0030852830560983407,
+      "tau": 0.09518401191635312,
+      "pulse_hz": 0.0,
+      "drive": 2.5254257030506877,
+      "body_K": 2,
+      "body_mix": 0.38049508698512263,
+      "print_hz": [
+        844.0226285961278,
+        428.4761784864627,
+        3929.5239628229974,
+        2550.6741597433547
+      ],
+      "print_tau": [
+        0.08,
+        0.02,
+        0.02,
+        0.2
+      ],
+      "print_gain": [
+        0.08639997518716883,
+        0.051078053637129216,
+        0.048944167888416656,
+        0.0889359697437422
+      ],
+      "click": 0.04708872494244595,
+      "curve": 1.172045327833254
+    },
+    "meta": {
+      "family": "sub",
+      "archetype": "steady",
+      "loop": false,
+      "descriptor": "steady47",
+      "print_hz": [
+        844.0,
+        428.5,
+        3929.5,
+        2550.7
+      ],
+      "body_K": 2,
+      "root": 46.9,
+      "drive": 2.525,
+      "seed": 1018,
+      "seconds": 0.5156,
+      "peak_dbfs": -6.0,
+      "true_peak_dbtp": -5.99,
+      "lufs": -23.512609985561333,
+      "channels": 1
+    },
+    "wav": "out/_qa/sub/sub_1018.wav",
+    "png": "",
+    "audit": {
+      "file": "/Users/utkarshdixit/sfx-pack/out/_qa/sub/sub_1018.wav",
+      "seconds": 0.5156,
+      "channels": 1,
+      "peak_dbfs": -6.0,
+      "true_peak_dbtp": -5.99,
+      "lufs": -23.512609985837628,
+      "dc": -0.0,
+      "lf_share": 0.104,
+      "clipped_pct": 0.0,
+      "crest_db": 12.27,
+      "edge": 1.8596649169921875e-05,
+      "holes": 0,
+      "flatness": 0.0,
+      "alias_db": -99.0,
+      "fails": [],
+      "ok": true
+    }
+  },
+  {
+    "id": "sub_1019",
+    "family": "sub",
+    "params": {
+      "archetype": "pulse",
+      "root": 54.82695477971328,
+      "dur": 0.9465350567625868,
+      "pitch_mul": 1.1307134338497589,
+      "settle_s": 0.03868102189998429,
+      "attack": 0.0014893690972926327,
+      "tau": 0.41830638009218657,
+      "pulse_hz": 7.544323128864276,
+      "drive": 1.8631553343171305,
+      "body_K": 2,
+      "body_mix": 0.46914399321680017,
+      "print_hz": [
+        425.0300030636405,
+        574.7286054412575,
+        3180.253775024413,
+        1448.2872252826946
+      ],
+      "print_tau": [
+        0.02,
+        0.08,
+        0.08,
+        0.08
+      ],
+      "print_gain": [
+        0.04686243383655202,
+        0.041363764323076126,
+        0.07045151834411623,
+        0.08749923791636288
+      ],
+      "click": 0.0557913028281626,
+      "curve": 1.3106293141687326
+    },
+    "meta": {
+      "family": "sub",
+      "archetype": "pulse",
+      "loop": false,
+      "descriptor": "pulse55",
+      "print_hz": [
+        425.0,
+        574.7,
+        3180.3,
+        1448.3
+      ],
+      "body_K": 2,
+      "root": 54.83,
+      "drive": 1.863,
+      "seed": 1019,
+      "seconds": 0.9465,
+      "peak_dbfs": -6.0,
+      "true_peak_dbtp": -5.99,
+      "lufs": -22.665734986601876,
+      "channels": 1
+    },
+    "wav": "out/_qa/sub/sub_1019.wav",
+    "png": "",
+    "audit": {
+      "file": "/Users/utkarshdixit/sfx-pack/out/_qa/sub/sub_1019.wav",
+      "seconds": 0.9465,
+      "channels": 1,
+      "peak_dbfs": -6.0,
+      "true_peak_dbtp": -5.99,
+      "lufs": -22.665734998828945,
+      "dc": -0.0,
+      "lf_share": 0.108,
+      "clipped_pct": 0.0,
+      "crest_db": 12.83,
+      "edge": 0.00028145313262939453,
+      "holes": 0,
+      "flatness": 0.0067,
+      "alias_db": -99.0,
+      "fails": [],
+      "ok": true
+    }
+  },
+  {
+    "id": "sub_1020",
+    "family": "sub",
+    "params": {
+      "archetype": "drop",
+      "root": 38.34943668049834,
+      "dur": 1.0733711755173312,
+      "pitch_mul": 2.8900470169736017,
+      "settle_s": 0.48955265553160243,
+      "attack": 0.007560020846839532,
+      "tau": 0.27560708153459446,
+      "pulse_hz": 0.0,
+      "drive": 2.40580032910332,
+      "body_K": 16,
+      "body_mix": 0.538205737966,
+      "print_hz": [
+        2536.518210165962,
+        374.05180725468625,
+        1943.782017442787,
+        1378.0502192878257
+      ],
+      "print_tau": [
+        0.02,
+        0.2,
+        0.2,
+        0.2
+      ],
+      "print_gain": [
+        0.0592851885517611,
+        0.046547943794565415,
+        0.07048195245248526,
+        0.06569418830483613
+      ],
+      "click": 0.003712255277393228,
+      "curve": 0.9245091044733582
+    },
+    "meta": {
+      "family": "sub",
+      "archetype": "drop",
+      "loop": false,
+      "descriptor": "drop38",
+      "print_hz": [
+        2536.5,
+        374.1,
+        1943.8,
+        1378.1
+      ],
+      "body_K": 16,
+      "root": 38.35,
+      "drive": 2.406,
+      "seed": 1020,
+      "seconds": 1.0734,
+      "peak_dbfs": -6.0,
+      "true_peak_dbtp": -5.99,
+      "lufs": -20.686135405415765,
+      "channels": 1
+    },
+    "wav": "out/_qa/sub/sub_1020.wav",
+    "png": "",
+    "audit": {
+      "file": "/Users/utkarshdixit/sfx-pack/out/_qa/sub/sub_1020.wav",
+      "seconds": 1.0734,
+      "channels": 1,
+      "peak_dbfs": -6.0,
+      "true_peak_dbtp": -5.99,
+      "lufs": -20.686135397696436,
+      "dc": -0.0,
+      "lf_share": 0.069,
+      "clipped_pct": 0.0,
+      "crest_db": 12.51,
+      "edge": 2.9325485229492188e-05,
+      "holes": 0,
+      "flatness": 0.0,
+      "alias_db": -99.0,
+      "fails": [],
+      "ok": true
+    }
+  },
+  {
+    "id": "sub_1021",
+    "family": "sub",
+    "params": {
+      "archetype": "drop",
+      "root": 43.36202216986733,
+      "dur": 0.755109840285396,
+      "pitch_mul": 2.497377093492143,
+      "settle_s": 0.34623439821818647,
+      "attack": 0.005946164707282926,
+      "tau": 0.21132787498335368,
+      "pulse_hz": 0.0,
+      "drive": 2.1423998235112283,
+      "body_K": 32,
+      "body_mix": 0.4740826050307445,
+      "print_hz": [
+        1793.51736840887,
+        2774.3019285457644,
+        3499.0826932750592,
+        4436.754835576121
+      ],
+      "print_tau": [
+        0.2,
+        0.02,
+        0.08,
+        0.08
+      ],
+      "print_gain": [
+        0.08811209652125282,
+        0.08353508396885895,
+        0.07560104457323942,
+        0.06641221301411754
+      ],
+      "click": 0.006392157015931782,
+      "curve": 0.9346070681814992
+    },
+    "meta": {
+      "family": "sub",
+      "archetype": "drop",
+      "loop": false,
+      "descriptor": "drop43",
+      "print_hz": [
+        1793.5,
+        2774.3,
+        3499.1,
+        4436.8
+      ],
+      "body_K": 32,
+      "root": 43.36,
+      "drive": 2.142,
+      "seed": 1021,
+      "seconds": 0.7551,
+      "peak_dbfs": -6.0,
+      "true_peak_dbtp": -5.98,
+      "lufs": -20.65600170307407,
+      "channels": 1
+    },
+    "wav": "out/_qa/sub/sub_1021.wav",
+    "png": "",
+    "audit": {
+      "file": "/Users/utkarshdixit/sfx-pack/out/_qa/sub/sub_1021.wav",
+      "seconds": 0.7551,
+      "channels": 1,
+      "peak_dbfs": -6.0,
+      "true_peak_dbtp": -5.98,
+      "lufs": -20.65600170616628,
+      "dc": -0.0,
+      "lf_share": 0.063,
+      "clipped_pct": 0.0,
+      "crest_db": 11.34,
+      "edge": 3.62396240234375e-05,
+      "holes": 0,
+      "flatness": 0.0,
+      "alias_db": -99.0,
+      "fails": [],
+      "ok": true
+    }
+  },
+  {
+    "id": "sub_1022",
+    "family": "sub",
+    "params": {
+      "archetype": "tail",
+      "root": 38.25846530072732,
+      "dur": 1.43160981452282,
+      "pitch_mul": 1.0320990116575837,
+      "settle_s": 0.09045582723673079,
+      "attack": 0.0062811652084721545,
+      "tau": 0.40357738089907536,
+      "pulse_hz": 0.0,
+      "drive": 1.3919671136379375,
+      "body_K": 16,
+      "body_mix": 0.27051150202042257,
+      "print_hz": [
+        850.5651328923483,
+        551.0878892985461,
+        357.64988262348675,
+        810.5265436342369
+      ],
+      "print_tau": [
+        0.2,
+        0.08,
+        0.2,
+        0.08
+      ],
+      "print_gain": [
+        0.0884968129854408,
+        0.05061701571328619,
+        0.0625889052967808,
+        0.04729862686574319
+      ],
+      "click": 0.081451138804699,
+      "curve": 0.7766710937371613
+    },
+    "meta": {
+      "family": "sub",
+      "archetype": "tail",
+      "loop": false,
+      "descriptor": "tail38",
+      "print_hz": [
+        850.6,
+        551.1,
+        357.6,
+        810.5
+      ],
+      "body_K": 16,
+      "root": 38.26,
+      "drive": 1.392,
+      "seed": 1022,
+      "seconds": 1.4316,
+      "peak_dbfs": -6.0,
+      "true_peak_dbtp": -5.99,
+      "lufs": -22.54078230453478,
+      "channels": 1
+    },
+    "wav": "out/_qa/sub/sub_1022.wav",
+    "png": "",
+    "audit": {
+      "file": "/Users/utkarshdixit/sfx-pack/out/_qa/sub/sub_1022.wav",
+      "seconds": 1.4316,
+      "channels": 1,
+      "peak_dbfs": -6.0,
+      "true_peak_dbtp": -5.99,
+      "lufs": -22.540782317629382,
+      "dc": -0.0,
+      "lf_share": 0.96,
+      "clipped_pct": 0.0,
+      "crest_db": 10.48,
+      "edge": 4.839897155761719e-05,
+      "holes": 0,
+      "flatness": 0.0,
+      "alias_db": -99.0,
+      "fails": [],
+      "ok": true
+    }
+  },
+  {
+    "id": "sub_1023",
+    "family": "sub",
+    "params": {
+      "archetype": "steady",
+      "root": 55.6919684617266,
+      "dur": 0.4038184813125874,
+      "pitch_mul": 1.2281805654653941,
+      "settle_s": 0.020262926584083338,
+      "attack": 0.0020366384139108907,
+      "tau": 0.05416828448334302,
+      "pulse_hz": 0.0,
+      "drive": 2.1184025215479236,
+      "body_K": 32,
+      "body_mix": 0.5305200765757921,
+      "print_hz": [
+        363.9286639976921,
+        1715.7561756389737,
+        448.96530569889046,
+        1091.3697632758854
+      ],
+      "print_tau": [
+        0.02,
+        0.08,
+        0.2,
+        0.2
+      ],
+      "print_gain": [
+        0.06454291843607805,
+        0.08936780974790423,
+        0.05557302888637594,
+        0.04670787013767328
+      ],
+      "click": 0.05035685378165218,
+      "curve": 1.2157616456055713
+    },
+    "meta": {
+      "family": "sub",
+      "archetype": "steady",
+      "loop": false,
+      "descriptor": "steady56",
+      "print_hz": [
+        363.9,
+        1715.8,
+        449.0,
+        1091.4
+      ],
+      "body_K": 32,
+      "root": 55.69,
+      "drive": 2.118,
+      "seed": 1023,
+      "seconds": 0.4038,
+      "peak_dbfs": -6.0,
+      "true_peak_dbtp": -5.99,
+      "lufs": -21.895778344851326,
+      "channels": 1
+    },
+    "wav": "out/_qa/sub/sub_1023.wav",
+    "png": "",
+    "audit": {
+      "file": "/Users/utkarshdixit/sfx-pack/out/_qa/sub/sub_1023.wav",
+      "seconds": 0.4038,
+      "channels": 1,
+      "peak_dbfs": -6.0,
+      "true_peak_dbtp": -5.99,
+      "lufs": -21.895778376708613,
+      "dc": -0.0,
+      "lf_share": 0.019,
+      "clipped_pct": 0.0,
+      "crest_db": 12.41,
+      "edge": 8.344650268554688e-07,
+      "holes": 0,
+      "flatness": 0.0,
+      "alias_db": -99.0,
+      "fails": [],
+      "ok": true
+    }
+  },
+  {
+    "id": "sub_1024",
+    "family": "sub",
+    "params": {
+      "archetype": "drop",
+      "root": 47.427714683931775,
+      "dur": 0.9519551439060715,
+      "pitch_mul": 2.362117149637598,
+      "settle_s": 0.5491311401298451,
+      "attack": 0.003124454216384968,
+      "tau": 0.2264792120615213,
+      "pulse_hz": 0.0,
+      "drive": 1.801549910886616,
+      "body_K": 4,
+      "body_mix": 0.522371244026745,
+      "print_hz": [
+        2694.772791297552,
+        493.80213591174873,
+        3550.9276786187183,
+        2764.1963855807307
+      ],
+      "print_tau": [
+        0.08,
+        0.08,
+        0.2,
+        0.02
+      ],
+      "print_gain": [
+        0.040207704544041496,
+        0.07494917571732593,
+        0.0873127790717994,
+        0.06869330166455967
+      ],
+      "click": 0.04902890399376975,
+      "curve": 1.701825385292277
+    },
+    "meta": {
+      "family": "sub",
+      "archetype": "drop",
+      "loop": false,
+      "descriptor": "drop47",
+      "print_hz": [
+        2694.8,
+        493.8,
+        3550.9,
+        2764.2
+      ],
+      "body_K": 4,
+      "root": 47.43,
+      "drive": 1.802,
+      "seed": 1024,
+      "seconds": 0.9519,
+      "peak_dbfs": -6.0,
+      "true_peak_dbtp": -5.99,
+      "lufs": -19.91265159056421,
+      "channels": 1
+    },
+    "wav": "out/_qa/sub/sub_1024.wav",
+    "png": "",
+    "audit": {
+      "file": "/Users/utkarshdixit/sfx-pack/out/_qa/sub/sub_1024.wav",
+      "seconds": 0.9519,
+      "channels": 1,
+      "peak_dbfs": -6.0,
+      "true_peak_dbtp": -5.99,
+      "lufs": -19.912651583017038,
+      "dc": -0.0,
+      "lf_share": 0.0,
+      "clipped_pct": 0.0,
+      "crest_db": 11.33,
+      "edge": 2.288818359375e-05,
+      "holes": 0,
+      "flatness": 0.0,
+      "alias_db": -99.0,
+      "fails": [],
+      "ok": true
+    }
+  },
+  {
+    "id": "sub_1025",
+    "family": "sub",
+    "params": {
+      "archetype": "steady",
+      "root": 43.42837221778044,
+      "dur": 0.5429914508806696,
+      "pitch_mul": 1.3204977977193568,
+      "settle_s": 0.026204037618715956,
+      "attack": 0.001802101326710592,
+      "tau": 0.07790271825379702,
+      "pulse_hz": 0.0,
+      "drive": 1.7458877256009093,
+      "body_K": 16,
+      "body_mix": 0.5477940464602302,
+      "print_hz": [
+        342.5399393556396,
+        738.1024503161858,
+        461.55769477463895,
+        3188.827420833557
+      ],
+      "print_tau": [
+        0.02,
+        0.02,
+        0.02,
+        0.2
+      ],
+      "print_gain": [
+        0.05028578309245135,
+        0.08051145379425789,
+        0.08531089936697701,
+        0.07944862265041276
+      ],
+      "click": 0.050102030793202926,
+      "curve": 1.6942486225285136
+    },
+    "meta": {
+      "family": "sub",
+      "archetype": "steady",
+      "loop": false,
+      "descriptor": "steady43",
+      "print_hz": [
+        342.5,
+        738.1,
+        461.6,
+        3188.8
+      ],
+      "body_K": 16,
+      "root": 43.43,
+      "drive": 1.746,
+      "seed": 1025,
+      "seconds": 0.543,
+      "peak_dbfs": -6.0,
+      "true_peak_dbtp": -5.99,
+      "lufs": -25.093879427214492,
+      "channels": 1
+    },
+    "wav": "out/_qa/sub/sub_1025.wav",
+    "png": "",
+    "audit": {
+      "file": "/Users/utkarshdixit/sfx-pack/out/_qa/sub/sub_1025.wav",
+      "seconds": 0.543,
+      "channels": 1,
+      "peak_dbfs": -6.0,
+      "true_peak_dbtp": -5.99,
+      "lufs": -25.093879406278173,
+      "dc": -0.0,
+      "lf_share": 0.652,
+      "clipped_pct": 0.0,
+      "crest_db": 13.51,
+      "edge": 9.5367431640625e-07,
+      "holes": 0,
+      "flatness": 0.0,
+      "alias_db": -99.0,
+      "fails": [],
+      "ok": true
+    }
+  },
+  {
+    "id": "sub_1026",
+    "family": "sub",
+    "params": {
+      "archetype": "steady",
+      "root": 33.59319733269021,
+      "dur": 0.3720547031715867,
+      "pitch_mul": 1.3387026565083988,
+      "settle_s": 0.022074523616952703,
+      "attack": 0.0015164164614860996,
+      "tau": 0.06909750880013169,
+      "pulse_hz": 0.0,
+      "drive": 2.3981385841113214,
+      "body_K": 4,
+      "body_mix": 0.4346940122003024,
+      "print_hz": [
+        1049.2644632497625,
+        2668.997437584679,
+        1031.4893183468675,
+        616.6796794365051
+      ],
+      "print_tau": [
+        0.2,
+        0.08,
+        0.08,
+        0.08
+      ],
+      "print_gain": [
+        0.07785240238604058,
+        0.0653676766815054,
+        0.08878059776344632,
+        0.06939096420493841
+      ],
+      "click": 0.05160021900472871,
+      "curve": 1.711141337264794
+    },
+    "meta": {
+      "family": "sub",
+      "archetype": "steady",
+      "loop": false,
+      "descriptor": "steady34",
+      "print_hz": [
+        1049.3,
+        2669.0,
+        1031.5,
+        616.7
+      ],
+      "body_K": 4,
+      "root": 33.59,
+      "drive": 2.398,
+      "seed": 1026,
+      "seconds": 0.372,
+      "peak_dbfs": -6.0,
+      "true_peak_dbtp": -5.99,
+      "lufs": null,
+      "channels": 1
+    },
+    "wav": "out/_qa/sub/sub_1026.wav",
+    "png": "",
+    "audit": {
+      "file": "/Users/utkarshdixit/sfx-pack/out/_qa/sub/sub_1026.wav",
+      "seconds": 0.372,
+      "channels": 1,
+      "peak_dbfs": -6.0,
+      "true_peak_dbtp": -5.99,
+      "lufs": null,
+      "dc": -0.0,
+      "lf_share": 0.878,
+      "clipped_pct": 0.0,
+      "crest_db": 11.63,
+      "edge": 2.8371810913085938e-05,
+      "holes": 0,
+      "flatness": 0.0,
+      "alias_db": -99.0,
+      "fails": [],
+      "ok": true
+    }
+  },
+  {
+    "id": "sub_1027",
+    "family": "sub",
+    "params": {
+      "archetype": "tail",
+      "root": 32.747875076406615,
+      "dur": 1.4640729977037719,
+      "pitch_mul": 1.0721109898211136,
+      "settle_s": 0.046910632514734034,
+      "attack": 0.01057265725139105,
+      "tau": 0.4326740357523777,
+      "pulse_hz": 0.0,
+      "drive": 1.3735702517679833,
+      "body_K": 8,
+      "body_mix": 0.3733943969748885,
+      "print_hz": [
+        4215.388098071503,
+        2939.6285203689176,
+        312.0393811181959,
+        494.86078986609465
+      ],
+      "print_tau": [
+        0.08,
+        0.2,
+        0.08,
+        0.02
+      ],
+      "print_gain": [
+        0.04187645308140484,
+        0.08384710336654981,
+        0.05679527554684944,
+        0.049167807605452175
+      ],
+      "click": 0.11555920222898067,
+      "curve": 1.3294612749101367
+    },
+    "meta": {
+      "family": "sub",
+      "archetype": "tail",
+      "loop": false,
+      "descriptor": "tail33",
+      "print_hz": [
+        4215.4,
+        2939.6,
+        312.0,
+        494.9
+      ],
+      "body_K": 8,
+      "root": 32.75,
+      "drive": 1.374,
+      "seed": 1027,
+      "seconds": 1.4641,
+      "peak_dbfs": -6.0,
+      "true_peak_dbtp": -5.99,
+      "lufs": -25.39928852241057,
+      "channels": 1
+    },
+    "wav": "out/_qa/sub/sub_1027.wav",
+    "png": "",
+    "audit": {
+      "file": "/Users/utkarshdixit/sfx-pack/out/_qa/sub/sub_1027.wav",
+      "seconds": 1.4641,
+      "channels": 1,
+      "peak_dbfs": -6.0,
+      "true_peak_dbtp": -5.99,
+      "lufs": -25.399288544804463,
+      "dc": -0.0,
+      "lf_share": 0.922,
+      "clipped_pct": 0.0,
+      "crest_db": 12.16,
+      "edge": 3.898143768310547e-05,
+      "holes": 0,
+      "flatness": 0.0,
+      "alias_db": -99.0,
+      "fails": [],
+      "ok": true
+    }
+  },
+  {
+    "id": "sub_1028",
+    "family": "sub",
+    "params": {
+      "archetype": "steady",
+      "root": 35.91861829394456,
+      "dur": 0.4893957078782589,
+      "pitch_mul": 1.2147038063930335,
+      "settle_s": 0.05925751984160342,
+      "attack": 0.003979873294236507,
+      "tau": 0.10505871469020285,
+      "pulse_hz": 0.0,
+      "drive": 1.4896493978255143,
+      "body_K": 8,
+      "body_mix": 0.28788033282907466,
+      "print_hz": [
+        378.8133999101146,
+        2729.817300444137,
+        2324.751728226371,
+        804.1541957963726
+      ],
+      "print_tau": [
+        0.02,
+        0.02,
+        0.08,
+        0.02
+      ],
+      "print_gain": [
+        0.06431270584193709,
+        0.08225645288269716,
+        0.061460911545247195,
+        0.06942399610890539
+      ],
+      "click": 0.07920748325162778,
+      "curve": 1.5528489850423248
+    },
+    "meta": {
+      "family": "sub",
+      "archetype": "steady",
+      "loop": false,
+      "descriptor": "steady36",
+      "print_hz": [
+        378.8,
+        2729.8,
+        2324.8,
+        804.2
+      ],
+      "body_K": 8,
+      "root": 35.92,
+      "drive": 1.49,
+      "seed": 1028,
+      "seconds": 0.4894,
+      "peak_dbfs": -6.0,
+      "true_peak_dbtp": -5.99,
+      "lufs": -25.688685499966585,
+      "channels": 1
+    },
+    "wav": "out/_qa/sub/sub_1028.wav",
+    "png": "",
+    "audit": {
+      "file": "/Users/utkarshdixit/sfx-pack/out/_qa/sub/sub_1028.wav",
+      "seconds": 0.4894,
+      "channels": 1,
+      "peak_dbfs": -6.0,
+      "true_peak_dbtp": -5.99,
+      "lufs": -25.688685484022685,
+      "dc": -0.0,
+      "lf_share": 0.901,
+      "clipped_pct": 0.0,
+      "crest_db": 12.35,
+      "edge": 1.3947486877441406e-05,
+      "holes": 0,
+      "flatness": 0.0,
+      "alias_db": -99.0,
+      "fails": [],
+      "ok": true
+    }
+  },
+  {
+    "id": "sub_1029",
+    "family": "sub",
+    "params": {
+      "archetype": "drop",
+      "root": 39.34105119643158,
+      "dur": 1.077053850285128,
+      "pitch_mul": 2.089468038421472,
+      "settle_s": 0.2726826563819706,
+      "attack": 0.005399392098778655,
+      "tau": 0.3095645987029334,
+      "pulse_hz": 0.0,
+      "drive": 2.4029007450429347,
+      "body_K": 4,
+      "body_mix": 0.3763116184810438,
+      "print_hz": [
+        1186.7337279088874,
+        4915.6942869682825,
+        1086.5660716366144,
+        743.7915371125197
+      ],
+      "print_tau": [
+        0.2,
+        0.08,
+        0.2,
+        0.08
+      ],
+      "print_gain": [
+        0.06608042634616293,
+        0.05941210140311945,
+        0.07877748411202268,
+        0.08220084455201168
+      ],
+      "click": 0.0036289755552417757,
+      "curve": 1.2605257674951456
+    },
+    "meta": {
+      "family": "sub",
+      "archetype": "drop",
+      "loop": false,
+      "descriptor": "drop39",
+      "print_hz": [
+        1186.7,
+        4915.7,
+        1086.6,
+        743.8
+      ],
+      "body_K": 4,
+      "root": 39.34,
+      "drive": 2.403,
+      "seed": 1029,
+      "seconds": 1.077,
+      "peak_dbfs": -6.0,
+      "true_peak_dbtp": -5.99,
+      "lufs": -22.95492971328599,
+      "channels": 1
+    },
+    "wav": "out/_qa/sub/sub_1029.wav",
+    "png": "",
+    "audit": {
+      "file": "/Users/utkarshdixit/sfx-pack/out/_qa/sub/sub_1029.wav",
+      "seconds": 1.077,
+      "channels": 1,
+      "peak_dbfs": -6.0,
+      "true_peak_dbtp": -5.99,
+      "lufs": -22.95492971274562,
+      "dc": -0.0,
+      "lf_share": 0.335,
+      "clipped_pct": 0.0,
+      "crest_db": 12.45,
+      "edge": 5.507469177246094e-05,
+      "holes": 0,
+      "flatness": 0.0,
+      "alias_db": -99.0,
+      "fails": [],
+      "ok": true
+    }
+  },
+  {
+    "id": "sub_1030",
+    "family": "sub",
+    "params": {
+      "archetype": "drop",
+      "root": 38.72988844123201,
+      "dur": 0.7610455664505966,
+      "pitch_mul": 2.0562137575572264,
+      "settle_s": 0.16763184301648626,
+      "attack": 0.007443127671914233,
+      "tau": 0.17951459423734117,
+      "pulse_hz": 0.0,
+      "drive": 2.516341983866982,
+      "body_K": 16,
+      "body_mix": 0.46498874581019084,
+      "print_hz": [
+        594.8940346275042,
+        1574.8232314261616,
+        458.8133695278866,
+        4189.823284077836
+      ],
+      "print_tau": [
+        0.2,
+        0.2,
+        0.02,
+        0.02
+      ],
+      "print_gain": [
+        0.042307039436035226,
+        0.06385439570569623,
+        0.07474804228538247,
+        0.056545272427200505
+      ],
+      "click": 0.12618176958234845,
+      "curve": 1.183869498531643
+    },
+    "meta": {
+      "family": "sub",
+      "archetype": "drop",
+      "loop": false,
+      "descriptor": "drop39",
+      "print_hz": [
+        594.9,
+        1574.8,
+        458.8,
+        4189.8
+      ],
+      "body_K": 16,
+      "root": 38.73,
+      "drive": 2.516,
+      "seed": 1030,
+      "seconds": 0.761,
+      "peak_dbfs": -6.0,
+      "true_peak_dbtp": -5.99,
+      "lufs": -23.20456376809612,
+      "channels": 1
+    },
+    "wav": "out/_qa/sub/sub_1030.wav",
+    "png": "",
+    "audit": {
+      "file": "/Users/utkarshdixit/sfx-pack/out/_qa/sub/sub_1030.wav",
+      "seconds": 0.761,
+      "channels": 1,
+      "peak_dbfs": -6.0,
+      "true_peak_dbtp": -5.99,
+      "lufs": -23.204563763496925,
+      "dc": -0.0,
+      "lf_share": 0.374,
+      "clipped_pct": 0.0,
+      "crest_db": 12.04,
+      "edge": 5.1021575927734375e-05,
+      "holes": 0,
+      "flatness": 0.0,
+      "alias_db": -99.0,
+      "fails": [],
+      "ok": true
+    }
+  },
+  {
+    "id": "sub_1031",
+    "family": "sub",
+    "params": {
+      "archetype": "steady",
+      "root": 41.983529469339686,
+      "dur": 0.5250792774832087,
+      "pitch_mul": 1.1634984298035291,
+      "settle_s": 0.02498039866330406,
+      "attack": 0.0038194836156222813,
+      "tau": 0.11039495466060698,
+      "pulse_hz": 0.0,
+      "drive": 2.2690650664265712,
+      "body_K": 32,
+      "body_mix": 0.30179422064082007,
+      "print_hz": [
+        2223.6635176606615,
+        3168.9914566201983,
+        3663.650617335572,
+        965.2619100619636
+      ],
+      "print_tau": [
+        0.02,
+        0.2,
+        0.02,
+        0.08
+      ],
+      "print_gain": [
+        0.06331546146049376,
+        0.05995765134771211,
+        0.06572797738135246,
+        0.07508883196566803
+      ],
+      "click": 0.09714410360438705,
+      "curve": 1.2150290506166799
+    },
+    "meta": {
+      "family": "sub",
+      "archetype": "steady",
+      "loop": false,
+      "descriptor": "steady42",
+      "print_hz": [
+        2223.7,
+        3169.0,
+        3663.7,
+        965.3
+      ],
+      "body_K": 32,
+      "root": 41.98,
+      "drive": 2.269,
+      "seed": 1031,
+      "seconds": 0.5251,
+      "peak_dbfs": -6.0,
+      "true_peak_dbtp": -5.99,
+      "lufs": -22.87336464411057,
+      "channels": 1
+    },
+    "wav": "out/_qa/sub/sub_1031.wav",
+    "png": "",
+    "audit": {
+      "file": "/Users/utkarshdixit/sfx-pack/out/_qa/sub/sub_1031.wav",
+      "seconds": 0.5251,
+      "channels": 1,
+      "peak_dbfs": -6.0,
+      "true_peak_dbtp": -5.99,
+      "lufs": -22.873364660670724,
+      "dc": -0.0,
+      "lf_share": 0.875,
+      "clipped_pct": 0.0,
+      "crest_db": 11.2,
+      "edge": 3.910064697265625e-05,
+      "holes": 0,
+      "flatness": 0.0,
+      "alias_db": -99.0,
+      "fails": [],
+      "ok": true
+    }
+  },
+  {
+    "id": "sub_1032",
+    "family": "sub",
+    "params": {
+      "archetype": "steady",
+      "root": 42.24447339755737,
+      "dur": 0.3662940116539393,
+      "pitch_mul": 1.2370062579569827,
+      "settle_s": 0.04590441102087893,
+      "attack": 0.0020789954285432275,
+      "tau": 0.05196505175093719,
+      "pulse_hz": 0.0,
+      "drive": 1.4431822660485911,
+      "body_K": 16,
+      "body_mix": 0.43314409173245116,
+      "print_hz": [
+        850.8230296837941,
+        702.0306978639501,
+        573.130877020483,
+        1135.7236843920973
+      ],
+      "print_tau": [
+        0.2,
+        0.08,
+        0.2,
+        0.2
+      ],
+      "print_gain": [
+        0.07350596392725178,
+        0.055791202490097384,
+        0.08827988756182442,
+        0.04824380947120819
+      ],
+      "click": 0.04637816601726422,
+      "curve": 1.2703403502886108
+    },
+    "meta": {
+      "family": "sub",
+      "archetype": "steady",
+      "loop": false,
+      "descriptor": "steady42",
+      "print_hz": [
+        850.8,
+        702.0,
+        573.1,
+        1135.7
+      ],
+      "body_K": 16,
+      "root": 42.24,
+      "drive": 1.443,
+      "seed": 1032,
+      "seconds": 0.3663,
+      "peak_dbfs": -6.0,
+      "true_peak_dbtp": -5.99,
+      "lufs": null,
+      "channels": 1
+    },
+    "wav": "out/_qa/sub/sub_1032.wav",
+    "png": "",
+    "audit": {
+      "file": "/Users/utkarshdixit/sfx-pack/out/_qa/sub/sub_1032.wav",
+      "seconds": 0.3663,
+      "channels": 1,
+      "peak_dbfs": -6.0,
+      "true_peak_dbtp": -5.99,
+      "lufs": null,
+      "dc": -0.0,
+      "lf_share": 0.594,
+      "clipped_pct": 0.0,
+      "crest_db": 12.48,
+      "edge": 4.887580871582031e-06,
+      "holes": 0,
+      "flatness": 0.0,
+      "alias_db": -99.0,
+      "fails": [],
+      "ok": true
+    }
+  },
+  {
+    "id": "sub_1033",
+    "family": "sub",
+    "params": {
+      "archetype": "drop",
+      "root": 25.20081458661628,
+      "dur": 0.5733128821996675,
+      "pitch_mul": 2.7932070551587342,
+      "settle_s": 0.16561916928569442,
+      "attack": 0.002828932300116311,
+      "tau": 0.1513112198059887,
+      "pulse_hz": 0.0,
+      "drive": 1.7032970084011179,
+      "body_K": 8,
+      "body_mix": 0.5908727915880072,
+      "print_hz": [
+        1005.1747070498003,
+        594.3470494829672,
+        3709.300763791612,
+        625.6615147296822
+      ],
+      "print_tau": [
+        0.02,
+        0.02,
+        0.2,
+        0.02
+      ],
+      "print_gain": [
+        0.04074824048977691,
+        0.04843739410794386,
+        0.06651084011186033,
+        0.07530183372530508
+      ],
+      "click": 0.028609838232696208,
+      "curve": 1.1797286085532435
+    },
+    "meta": {
+      "family": "sub",
+      "archetype": "drop",
+      "loop": false,
+      "descriptor": "drop25",
+      "print_hz": [
+        1005.2,
+        594.3,
+        3709.3,
+        625.7
+      ],
+      "body_K": 8,
+      "root": 25.2,
+      "drive": 1.703,
+      "seed": 1033,
+      "seconds": 0.5733,
+      "peak_dbfs": -6.0,
+      "true_peak_dbtp": -5.99,
+      "lufs": -26.043204066573196,
+      "channels": 1
+    },
+    "wav": "out/_qa/sub/sub_1033.wav",
+    "png": "",
+    "audit": {
+      "file": "/Users/utkarshdixit/sfx-pack/out/_qa/sub/sub_1033.wav",
+      "seconds": 0.5733,
+      "channels": 1,
+      "peak_dbfs": -6.0,
+      "true_peak_dbtp": -5.99,
+      "lufs": -26.043204057585992,
+      "dc": -0.0,
+      "lf_share": 0.37,
+      "clipped_pct": 0.0,
+      "crest_db": 13.28,
+      "edge": 5.91278076171875e-05,
+      "holes": 0,
+      "flatness": 0.0,
+      "alias_db": -99.0,
+      "fails": [],
+      "ok": true
+    }
+  },
+  {
+    "id": "sub_1034",
+    "family": "sub",
+    "params": {
+      "archetype": "drop",
+      "root": 44.401151020456325,
+      "dur": 0.9210610424287319,
+      "pitch_mul": 2.764603848565953,
+      "settle_s": 0.27818965368827053,
+      "attack": 0.0035762386820147704,
+      "tau": 0.2578027743794629,
+      "pulse_hz": 0.0,
+      "drive": 1.359282012115184,
+      "body_K": 4,
+      "body_mix": 0.26376415712690565,
+      "print_hz": [
+        4454.319756752101,
+        1706.1536143370865,
+        2485.1723610475838,
+        2058.9774228505235
+      ],
+      "print_tau": [
+        0.02,
+        0.02,
+        0.2,
+        0.2
+      ],
+      "print_gain": [
+        0.04564482607064586,
+        0.04515769584543988,
+        0.07141340761064259,
+        0.060448460925531404
+      ],
+      "click": 0.1494712908918955,
+      "curve": 1.0174534854114061
+    },
+    "meta": {
+      "family": "sub",
+      "archetype": "drop",
+      "loop": false,
+      "descriptor": "drop44",
+      "print_hz": [
+        4454.3,
+        1706.2,
+        2485.2,
+        2059.0
+      ],
+      "body_K": 4,
+      "root": 44.4,
+      "drive": 1.359,
+      "seed": 1034,
+      "seconds": 0.921,
+      "peak_dbfs": -6.0,
+      "true_peak_dbtp": -5.99,
+      "lufs": -22.016690757493084,
+      "channels": 1
+    },
+    "wav": "out/_qa/sub/sub_1034.wav",
+    "png": "",
+    "audit": {
+      "file": "/Users/utkarshdixit/sfx-pack/out/_qa/sub/sub_1034.wav",
+      "seconds": 0.921,
+      "channels": 1,
+      "peak_dbfs": -6.0,
+      "true_peak_dbtp": -5.99,
+      "lufs": -22.016690724059103,
+      "dc": -0.0,
+      "lf_share": 0.114,
+      "clipped_pct": 0.0,
+      "crest_db": 12.2,
+      "edge": 4.863739013671875e-05,
+      "holes": 0,
+      "flatness": 0.0,
+      "alias_db": -99.0,
+      "fails": [],
+      "ok": true
+    }
+  },
+  {
+    "id": "sub_1035",
+    "family": "sub",
+    "params": {
+      "archetype": "drop",
+      "root": 38.301735402058654,
+      "dur": 0.8742054949568472,
+      "pitch_mul": 2.2799407449410136,
+      "settle_s": 0.5458719183711471,
+      "attack": 0.004309358329098534,
+      "tau": 0.23379386059325166,
+      "pulse_hz": 0.0,
+      "drive": 2.1913666700147147,
+      "body_K": 2,
+      "body_mix": 0.5607203175684672,
+      "print_hz": [
+        1564.080857911112,
+        2973.472196751277,
+        1021.0484897050666,
+        1109.6691019373984
+      ],
+      "print_tau": [
+        0.2,
+        0.2,
+        0.02,
+        0.2
+      ],
+      "print_gain": [
+        0.08545027981133126,
+        0.061529233262113514,
+        0.08795929623057533,
+        0.07742015398386219
+      ],
+      "click": 0.11020388335783847,
+      "curve": 1.0246115889468823
+    },
+    "meta": {
+      "family": "sub",
+      "archetype": "drop",
+      "loop": false,
+      "descriptor": "drop38",
+      "print_hz": [
+        1564.1,
+        2973.5,
+        1021.0,
+        1109.7
+      ],
+      "body_K": 2,
+      "root": 38.3,
+      "drive": 2.191,
+      "seed": 1035,
+      "seconds": 0.8742,
+      "peak_dbfs": -6.0,
+      "true_peak_dbtp": -5.99,
+      "lufs": -20.750817711439222,
+      "channels": 1
+    },
+    "wav": "out/_qa/sub/sub_1035.wav",
+    "png": "",
+    "audit": {
+      "file": "/Users/utkarshdixit/sfx-pack/out/_qa/sub/sub_1035.wav",
+      "seconds": 0.8742,
+      "channels": 1,
+      "peak_dbfs": -6.0,
+      "true_peak_dbtp": -5.99,
+      "lufs": -20.75081770398982,
+      "dc": -0.0,
+      "lf_share": 0.045,
+      "clipped_pct": 0.0,
+      "crest_db": 11.06,
+      "edge": 6.127357482910156e-05,
+      "holes": 0,
+      "flatness": 0.0,
+      "alias_db": -99.0,
+      "fails": [],
+      "ok": true
+    }
+  },
+  {
+    "id": "sub_1036",
+    "family": "sub",
+    "params": {
+      "archetype": "steady",
+      "root": 43.5526203063201,
+      "dur": 0.5407420111156428,
+      "pitch_mul": 1.1796102297962967,
+      "settle_s": 0.05960124868199093,
+      "attack": 0.0024019268714269215,
+      "tau": 0.09945733851081631,
+      "pulse_hz": 0.0,
+      "drive": 1.5272655190495585,
+      "body_K": 32,
+      "body_mix": 0.4533488149218359,
+      "print_hz": [
+        327.1285724676004,
+        2643.9587756607657,
+        4625.2966972612985,
+        963.6206238040327
+      ],
+      "print_tau": [
+        0.02,
+        0.08,
+        0.2,
+        0.02
+      ],
+      "print_gain": [
+        0.06479663269417374,
+        0.04507798432462677,
+        0.0445015784221801,
+        0.055462060369248424
+      ],
+      "click": 0.06438056302794773,
+      "curve": 1.6997966969408236
+    },
+    "meta": {
+      "family": "sub",
+      "archetype": "steady",
+      "loop": false,
+      "descriptor": "steady44",
+      "print_hz": [
+        327.1,
+        2644.0,
+        4625.3,
+        963.6
+      ],
+      "body_K": 32,
+      "root": 43.55,
+      "drive": 1.527,
+      "seed": 1036,
+      "seconds": 0.5407,
+      "peak_dbfs": -6.0,
+      "true_peak_dbtp": -5.99,
+      "lufs": -24.02016969329065,
+      "channels": 1
+    },
+    "wav": "out/_qa/sub/sub_1036.wav",
+    "png": "",
+    "audit": {
+      "file": "/Users/utkarshdixit/sfx-pack/out/_qa/sub/sub_1036.wav",
+      "seconds": 0.5407,
+      "channels": 1,
+      "peak_dbfs": -6.0,
+      "true_peak_dbtp": -5.99,
+      "lufs": -24.02016971374123,
+      "dc": -0.0,
+      "lf_share": 0.637,
+      "clipped_pct": 0.0,
+      "crest_db": 12.61,
+      "edge": 6.318092346191406e-06,
+      "holes": 0,
+      "flatness": 0.0,
+      "alias_db": -99.0,
+      "fails": [],
+      "ok": true
+    }
+  },
+  {
+    "id": "sub_1037",
+    "family": "sub",
+    "params": {
+      "archetype": "tail",
+      "root": 37.479918176578764,
+      "dur": 1.303179049244641,
+      "pitch_mul": 1.0582152350678335,
+      "settle_s": 0.07985272987464477,
+      "attack": 0.014097214702603207,
+      "tau": 0.36542157181664364,
+      "pulse_hz": 0.0,
+      "drive": 2.042401283966142,
+      "body_K": 4,
+      "body_mix": 0.4186838525201909,
+      "print_hz": [
+        480.81017123697694,
+        982.1300598870738,
+        367.4804226155774,
+        1395.5894175874923
+      ],
+      "print_tau": [
+        0.2,
+        0.08,
+        0.2,
+        0.08
+      ],
+      "print_gain": [
+        0.07292443254143831,
+        0.07907614581558488,
+        0.0886804017656985,
+        0.051483294437654425
+      ],
+      "click": 0.08565680550649844,
+      "curve": 1.6814581107024984
+    },
+    "meta": {
+      "family": "sub",
+      "archetype": "tail",
+      "loop": false,
+      "descriptor": "tail37",
+      "print_hz": [
+        480.8,
+        982.1,
+        367.5,
+        1395.6
+      ],
+      "body_K": 4,
+      "root": 37.48,
+      "drive": 2.042,
+      "seed": 1037,
+      "seconds": 1.3032,
+      "peak_dbfs": -6.0,
+      "true_peak_dbtp": -5.99,
+      "lufs": -24.113751627355523,
+      "channels": 1
+    },
+    "wav": "out/_qa/sub/sub_1037.wav",
+    "png": "",
+    "audit": {
+      "file": "/Users/utkarshdixit/sfx-pack/out/_qa/sub/sub_1037.wav",
+      "seconds": 1.3032,
+      "channels": 1,
+      "peak_dbfs": -6.0,
+      "true_peak_dbtp": -5.99,
+      "lufs": -24.113751631462993,
+      "dc": -0.0,
+      "lf_share": 0.918,
+      "clipped_pct": 0.0,
+      "crest_db": 11.67,
+      "edge": 5.459785461425781e-05,
+      "holes": 0,
+      "flatness": 0.0,
+      "alias_db": -99.0,
+      "fails": [],
+      "ok": true
+    }
+  },
+  {
+    "id": "sub_1038",
+    "family": "sub",
+    "params": {
+      "archetype": "tail",
+      "root": 26.244815412129796,
+      "dur": 0.9492856348141898,
+      "pitch_mul": 1.0361873753115698,
+      "settle_s": 0.06336801421640875,
+      "attack": 0.007804791831510513,
+      "tau": 0.2800794708354702,
+      "pulse_hz": 0.0,
+      "drive": 1.5138245794179903,
+      "body_K": 16,
+      "body_mix": 0.25866433003980066,
+      "print_hz": [
+        375.2451782301865,
+        1844.2766344030008,
+        1923.6589124907348,
+        547.3725678031792
+      ],
+      "print_tau": [
+        0.08,
+        0.2,
+        0.08,
+        0.02
+      ],
+      "print_gain": [
+        0.06933751068368231,
+        0.08552070265244499,
+        0.07714041453314219,
+        0.08568938284646688
+      ],
+      "click": 0.13173548056271306,
+      "curve": 0.710559899409794
+    },
+    "meta": {
+      "family": "sub",
+      "archetype": "tail",
+      "loop": false,
+      "descriptor": "tail26",
+      "print_hz": [
+        375.2,
+        1844.3,
+        1923.7,
+        547.4
+      ],
+      "body_K": 16,
+      "root": 26.24,
+      "drive": 1.514,
+      "seed": 1038,
+      "seconds": 0.9493,
+      "peak_dbfs": -6.0,
+      "true_peak_dbtp": -5.99,
+      "lufs": -26.73653624047174,
+      "channels": 1
+    },
+    "wav": "out/_qa/sub/sub_1038.wav",
+    "png": "",
+    "audit": {
+      "file": "/Users/utkarshdixit/sfx-pack/out/_qa/sub/sub_1038.wav",
+      "seconds": 0.9493,
+      "channels": 1,
+      "peak_dbfs": -6.0,
+      "true_peak_dbtp": -5.99,
+      "lufs": -26.736536257037244,
+      "dc": -0.0,
+      "lf_share": 0.921,
+      "clipped_pct": 0.0,
+      "crest_db": 11.34,
+      "edge": 5.543231964111328e-05,
+      "holes": 0,
+      "flatness": 0.0,
+      "alias_db": -99.0,
+      "fails": [],
+      "ok": true
+    }
+  },
+  {
+    "id": "sub_1039",
+    "family": "sub",
+    "params": {
+      "archetype": "steady",
+      "root": 56.24167652969684,
+      "dur": 0.5856048792577945,
+      "pitch_mul": 1.195009878632114,
+      "settle_s": 0.025034021997365617,
+      "attack": 0.003701403413473948,
+      "tau": 0.1135357516510238,
+      "pulse_hz": 0.0,
+      "drive": 2.3633712532603064,
+      "body_K": 4,
+      "body_mix": 0.5638717715528804,
+      "print_hz": [
+        4537.685289052067,
+        2562.0151053951017,
+        636.4180801883684,
+        3298.9481904540144
+      ],
+      "print_tau": [
+        0.02,
+        0.2,
+        0.02,
+        0.2
+      ],
+      "print_gain": [
+        0.07331515127424772,
+        0.04120702952336967,
+        0.07522813104342639,
+        0.077563547496425
+      ],
+      "click": 0.03149712192386365,
+      "curve": 1.1621404358865308
+    },
+    "meta": {
+      "family": "sub",
+      "archetype": "steady",
+      "loop": false,
+      "descriptor": "steady56",
+      "print_hz": [
+        4537.7,
+        2562.0,
+        636.4,
+        3298.9
+      ],
+      "body_K": 4,
+      "root": 56.24,
+      "drive": 2.363,
+      "seed": 1039,
+      "seconds": 0.5856,
+      "peak_dbfs": -6.0,
+      "true_peak_dbtp": -5.99,
+      "lufs": -24.109928244587973,
+      "channels": 1
+    },
+    "wav": "out/_qa/sub/sub_1039.wav",
+    "png": "",
+    "audit": {
+      "file": "/Users/utkarshdixit/sfx-pack/out/_qa/sub/sub_1039.wav",
+      "seconds": 0.5856,
+      "channels": 1,
+      "peak_dbfs": -6.0,
+      "true_peak_dbtp": -5.99,
+      "lufs": -24.10992826866285,
+      "dc": -0.0,
+      "lf_share": 0.006,
+      "clipped_pct": 0.0,
+      "crest_db": 13.14,
+      "edge": 1.7404556274414062e-05,
+      "holes": 0,
+      "flatness": 0.0,
+      "alias_db": -99.0,
+      "fails": [],
+      "ok": true
+    }
+  },
+  {
+    "id": "sub_1040",
+    "family": "sub",
+    "params": {
+      "archetype": "steady",
+      "root": 56.83860936060048,
+      "dur": 0.45141548084764727,
+      "pitch_mul": 1.1849922907087445,
+      "settle_s": 0.04028301358979765,
+      "attack": 0.0026015442689372495,
+      "tau": 0.08578252333736545,
+      "pulse_hz": 0.0,
+      "drive": 2.5377276957334534,
+      "body_K": 16,
+      "body_mix": 0.5078245928204941,
+      "print_hz": [
+        3680.4867082090045,
+        1445.1772241698884,
+        701.1840155952864,
+        480.4255547892324
+      ],
+      "print_tau": [
+        0.08,
+        0.08,
+        0.2,
+        0.02
+      ],
+      "print_gain": [
+        0.054827379603445754,
+        0.04394596442650399,
+        0.08697012841636019,
+        0.06637562730653415
+      ],
+      "click": 0.08065952518591324,
+      "curve": 0.8791118768616656
+    },
+    "meta": {
+      "family": "sub",
+      "archetype": "steady",
+      "loop": false,
+      "descriptor": "steady57",
+      "print_hz": [
+        3680.5,
+        1445.2,
+        701.2,
+        480.4
+      ],
+      "body_K": 16,
+      "root": 56.84,
+      "drive": 2.538,
+      "seed": 1040,
+      "seconds": 0.4514,
+      "peak_dbfs": -6.0,
+      "true_peak_dbtp": -5.99,
+      "lufs": -22.70433925985434,
+      "channels": 1
+    },
+    "wav": "out/_qa/sub/sub_1040.wav",
+    "png": "",
+    "audit": {
+      "file": "/Users/utkarshdixit/sfx-pack/out/_qa/sub/sub_1040.wav",
+      "seconds": 0.4514,
+      "channels": 1,
+      "peak_dbfs": -6.0,
+      "true_peak_dbtp": -5.99,
+      "lufs": -22.704339273345006,
+      "dc": -0.0,
+      "lf_share": 0.009,
+      "clipped_pct": 0.0,
+      "crest_db": 11.92,
+      "edge": 1.8596649169921875e-05,
+      "holes": 0,
+      "flatness": 0.0,
+      "alias_db": -99.0,
+      "fails": [],
+      "ok": true
+    }
+  },
+  {
+    "id": "sub_1041",
+    "family": "sub",
+    "params": {
+      "archetype": "steady",
+      "root": 31.965244197663534,
+      "dur": 0.31573335352236687,
+      "pitch_mul": 1.285402729197624,
+      "settle_s": 0.04705004613771809,
+      "attack": 0.002397751363934312,
+      "tau": 0.04732280886365824,
+      "pulse_hz": 0.0,
+      "drive": 2.0114283246905305,
+      "body_K": 4,
+      "body_mix": 0.2799114835956674,
+      "print_hz": [
+        1948.8149294772932,
+        324.80136678560274,
+        2947.334947470644,
+        1104.8807629415862
+      ],
+      "print_tau": [
+        0.08,
+        0.08,
+        0.02,
+        0.02
+      ],
+      "print_gain": [
+        0.07204379558806483,
+        0.058605161358773486,
+        0.0466253349748456,
+        0.07642082187426226
+      ],
+      "click": 0.008722173676803573,
+      "curve": 0.7663570584756425
+    },
+    "meta": {
+      "family": "sub",
+      "archetype": "steady",
+      "loop": false,
+      "descriptor": "steady32",
+      "print_hz": [
+        1948.8,
+        324.8,
+        2947.3,
+        1104.9
+      ],
+      "body_K": 4,
+      "root": 31.97,
+      "drive": 2.011,
+      "seed": 1041,
+      "seconds": 0.3157,
+      "peak_dbfs": -6.0,
+      "true_peak_dbtp": -5.99,
+      "lufs": null,
+      "channels": 1
+    },
+    "wav": "out/_qa/sub/sub_1041.wav",
+    "png": "",
+    "audit": {
+      "file": "/Users/utkarshdixit/sfx-pack/out/_qa/sub/sub_1041.wav",
+      "seconds": 0.3157,
+      "channels": 1,
+      "peak_dbfs": -6.0,
+      "true_peak_dbtp": -5.99,
+      "lufs": null,
+      "dc": -0.0,
+      "lf_share": 0.903,
+      "clipped_pct": 0.0,
+      "crest_db": 11.67,
+      "edge": 1.7881393432617188e-06,
+      "holes": 0,
+      "flatness": 0.0,
+      "alias_db": -99.0,
+      "fails": [],
+      "ok": true
+    }
+  },
+  {
+    "id": "sub_1042",
+    "family": "sub",
+    "params": {
+      "archetype": "drop",
+      "root": 41.69755139531982,
+      "dur": 0.652882713478593,
+      "pitch_mul": 2.816903498966395,
+      "settle_s": 0.23965657881682054,
+      "attack": 0.007188648777971171,
+      "tau": 0.19150733388327923,
+      "pulse_hz": 0.0,
+      "drive": 1.4916697738209637,
+      "body_K": 16,
+      "body_mix": 0.5133109464730518,
+      "print_hz": [
+        494.3324272487437,
+        3985.467093529335,
+        1474.4843782508806,
+        2299.980964491705
+      ],
+      "print_tau": [
+        0.08,
+        0.2,
+        0.2,
+        0.2
+      ],
+      "print_gain": [
+        0.06053286169769951,
+        0.04983664137448472,
+        0.049873493772766425,
+        0.08857165067711692
+      ],
+      "click": 0.012100283873547401,
+      "curve": 1.350224690830822
+    },
+    "meta": {
+      "family": "sub",
+      "archetype": "drop",
+      "loop": false,
+      "descriptor": "drop42",
+      "print_hz": [
+        494.3,
+        3985.5,
+        1474.5,
+        2300.0
+      ],
+      "body_K": 16,
+      "root": 41.7,
+      "drive": 1.492,
+      "seed": 1042,
+      "seconds": 0.6529,
+      "peak_dbfs": -6.0,
+      "true_peak_dbtp": -5.99,
+      "lufs": -22.1943099984021,
+      "channels": 1
+    },
+    "wav": "out/_qa/sub/sub_1042.wav",
+    "png": "",
+    "audit": {
+      "file": "/Users/utkarshdixit/sfx-pack/out/_qa/sub/sub_1042.wav",
+      "seconds": 0.6529,
+      "channels": 1,
+      "peak_dbfs": -6.0,
+      "true_peak_dbtp": -5.99,
+      "lufs": -22.19431001291576,
+      "dc": -0.0,
+      "lf_share": 0.129,
+      "clipped_pct": 0.0,
+      "crest_db": 11.57,
+      "edge": 3.0517578125e-05,
+      "holes": 0,
+      "flatness": 0.0,
+      "alias_db": -99.0,
+      "fails": [],
+      "ok": true
+    }
+  },
+  {
+    "id": "sub_1043",
+    "family": "sub",
+    "params": {
+      "archetype": "drop",
+      "root": 32.79277359241474,
+      "dur": 0.6738948601572771,
+      "pitch_mul": 3.0232429930143314,
+      "settle_s": 0.5308517661767367,
+      "attack": 0.004308549527022927,
+      "tau": 0.138577041167108,
+      "pulse_hz": 0.0,
+      "drive": 1.7556982463830038,
+      "body_K": 32,
+      "body_mix": 0.3130717756474361,
+      "print_hz": [
+        3581.2866953235157,
+        1001.4187766942844,
+        1121.1221421546554,
+        2185.6107267492894
+      ],
+      "print_tau": [
+        0.2,
+        0.02,
+        0.2,
+        0.2
+      ],
+      "print_gain": [
+        0.0831293881967395,
+        0.06104331199843431,
+        0.060919862377707246,
+        0.06881648634557205
+      ],
+      "click": 0.06432126075508378,
+      "curve": 0.7458430487361148
+    },
+    "meta": {
+      "family": "sub",
+      "archetype": "drop",
+      "loop": false,
+      "descriptor": "drop33",
+      "print_hz": [
+        3581.3,
+        1001.4,
+        1121.1,
+        2185.6
+      ],
+      "body_K": 32,
+      "root": 32.79,
+      "drive": 1.756,
+      "seed": 1043,
+      "seconds": 0.6739,
+      "peak_dbfs": -6.0,
+      "true_peak_dbtp": -5.99,
+      "lufs": -21.10290171795843,
+      "channels": 1
+    },
+    "wav": "out/_qa/sub/sub_1043.wav",
+    "png": "",
+    "audit": {
+      "file": "/Users/utkarshdixit/sfx-pack/out/_qa/sub/sub_1043.wav",
+      "seconds": 0.6739,
+      "channels": 1,
+      "peak_dbfs": -6.0,
+      "true_peak_dbtp": -5.99,
+      "lufs": -21.10290172968921,
+      "dc": -0.0,
+      "lf_share": 0.009,
+      "clipped_pct": 0.0,
+      "crest_db": 11.94,
+      "edge": 1.6450881958007812e-05,
+      "holes": 0,
+      "flatness": 0.0,
+      "alias_db": -99.0,
+      "fails": [],
+      "ok": true
+    }
+  },
+  {
+    "id": "sub_1044",
+    "family": "sub",
+    "params": {
+      "archetype": "drop",
+      "root": 32.60898249128127,
+      "dur": 0.7821001660852863,
+      "pitch_mul": 2.7776131264038924,
+      "settle_s": 0.4171664423326388,
+      "attack": 0.004556909264981204,
+      "tau": 0.21410127138966845,
+      "pulse_hz": 0.0,
+      "drive": 2.2629065935938857,
+      "body_K": 8,
+      "body_mix": 0.4924968261060953,
+      "print_hz": [
+        1344.893649288391,
+        401.7935927000579,
+        974.4677395983874,
+        4777.930840679412
+      ],
+      "print_tau": [
+        0.02,
+        0.02,
+        0.02,
+        0.2
+      ],
+      "print_gain": [
+        0.04584902756045264,
+        0.051588794473001416,
+        0.05401521534793126,
+        0.04469060426172081
+      ],
+      "click": 0.10256989136107443,
+      "curve": 0.9522257232954922
+    },
+    "meta": {
+      "family": "sub",
+      "archetype": "drop",
+      "loop": false,
+      "descriptor": "drop33",
+      "print_hz": [
+        1344.9,
+        401.8,
+        974.5,
+        4777.9
+      ],
+      "body_K": 8,
+      "root": 32.61,
+      "drive": 2.263,
+      "seed": 1044,
+      "seconds": 0.7821,
+      "peak_dbfs": -6.0,
+      "true_peak_dbtp": -5.99,
+      "lufs": -22.345926666378013,
+      "channels": 1
+    },
+    "wav": "out/_qa/sub/sub_1044.wav",
+    "png": "",
+    "audit": {
+      "file": "/Users/utkarshdixit/sfx-pack/out/_qa/sub/sub_1044.wav",
+      "seconds": 0.7821,
+      "channels": 1,
+      "peak_dbfs": -6.0,
+      "true_peak_dbtp": -5.99,
+      "lufs": -22.345926649765712,
+      "dc": -0.0,
+      "lf_share": 0.097,
+      "clipped_pct": 0.0,
+      "crest_db": 12.48,
+      "edge": 1.0609626770019531e-05,
+      "holes": 0,
+      "flatness": 0.0,
+      "alias_db": -99.0,
+      "fails": [],
+      "ok": true
+    }
+  },
+  {
+    "id": "sub_1045",
+    "family": "sub",
+    "params": {
+      "archetype": "tail",
+      "root": 35.63248856629026,
+      "dur": 1.3815219650432302,
+      "pitch_mul": 1.0265782839114561,
+      "settle_s": 0.030719635160530293,
+      "attack": 0.007592321888174562,
+      "tau": 0.3844157718272174,
+      "pulse_hz": 0.0,
+      "drive": 1.942335769855825,
+      "body_K": 4,
+      "body_mix": 0.5309583128365012,
+      "print_hz": [
+        2075.8230567255164,
+        1489.0421301872861,
+        307.0242430380191,
+        905.4432721557492
+      ],
+      "print_tau": [
+        0.2,
+        0.2,
+        0.08,
+        0.02
+      ],
+      "print_gain": [
+        0.07565384357003932,
+        0.08840893222069969,
+        0.06765174104355055,
+        0.04672983033505051
+      ],
+      "click": 0.029961193352464808,
+      "curve": 1.2518558358748377
+    },
+    "meta": {
+      "family": "sub",
+      "archetype": "tail",
+      "loop": false,
+      "descriptor": "tail36",
+      "print_hz": [
+        2075.8,
+        1489.0,
+        307.0,
+        905.4
+      ],
+      "body_K": 4,
+      "root": 35.63,
+      "drive": 1.942,
+      "seed": 1045,
+      "seconds": 1.3815,
+      "peak_dbfs": -6.0,
+      "true_peak_dbtp": -5.99,
+      "lufs": -24.287411310511917,
+      "channels": 1
+    },
+    "wav": "out/_qa/sub/sub_1045.wav",
+    "png": "",
+    "audit": {
+      "file": "/Users/utkarshdixit/sfx-pack/out/_qa/sub/sub_1045.wav",
+      "seconds": 1.3815,
+      "channels": 1,
+      "peak_dbfs": -6.0,
+      "true_peak_dbtp": -5.99,
+      "lufs": -24.287411312469498,
+      "dc": -0.0,
+      "lf_share": 0.895,
+      "clipped_pct": 0.0,
+      "crest_db": 12.05,
+      "edge": 3.3020973205566406e-05,
+      "holes": 0,
+      "flatness": 0.0,
+      "alias_db": -99.0,
+      "fails": [],
+      "ok": true
+    }
+  },
+  {
+    "id": "sub_1046",
+    "family": "sub",
+    "params": {
+      "archetype": "drop",
+      "root": 29.386892187903996,
+      "dur": 0.9451618548676098,
+      "pitch_mul": 2.821744508787814,
+      "settle_s": 0.3733546879893174,
+      "attack": 0.003965514227963734,
+      "tau": 0.2615924095833104,
+      "pulse_hz": 0.0,
+      "drive": 1.9448505761204429,
+      "body_K": 4,
+      "body_mix": 0.5070969527941716,
+      "print_hz": [
+        357.3739149290624,
+        1764.1065602134183,
+        470.89248255159936,
+        461.04289746087574
+      ],
+      "print_tau": [
+        0.08,
+        0.02,
+        0.08,
+        0.08
+      ],
+      "print_gain": [
+        0.04171904080484815,
+        0.0502717972237067,
+        0.05381170190563812,
+        0.07430991989128266
+      ],
+      "click": 0.05096674138500564,
+      "curve": 0.7956258358536343
+    },
+    "meta": {
+      "family": "sub",
+      "archetype": "drop",
+      "loop": false,
+      "descriptor": "drop29",
+      "print_hz": [
+        357.4,
+        1764.1,
+        470.9,
+        461.0
+      ],
+      "body_K": 4,
+      "root": 29.39,
+      "drive": 1.945,
+      "seed": 1046,
+      "seconds": 0.9451,
+      "peak_dbfs": -6.0,
+      "true_peak_dbtp": -5.99,
+      "lufs": -21.76899925180999,
+      "channels": 1
+    },
+    "wav": "out/_qa/sub/sub_1046.wav",
+    "png": "",
+    "audit": {
+      "file": "/Users/utkarshdixit/sfx-pack/out/_qa/sub/sub_1046.wav",
+      "seconds": 0.9451,
+      "channels": 1,
+      "peak_dbfs": -6.0,
+      "true_peak_dbtp": -5.99,
+      "lufs": -21.768999236148655,
+      "dc": -0.0,
+      "lf_share": 0.242,
+      "clipped_pct": 0.0,
+      "crest_db": 11.05,
+      "edge": 8.106231689453125e-06,
+      "holes": 0,
+      "flatness": 0.0001,
+      "alias_db": -99.0,
+      "fails": [],
+      "ok": true
+    }
+  },
+  {
+    "id": "sub_1047",
+    "family": "sub",
+    "params": {
+      "archetype": "pulse",
+      "root": 39.53921820935738,
+      "dur": 0.7266791360793802,
+      "pitch_mul": 1.1487738776546665,
+      "settle_s": 0.04809165339319702,
+      "attack": 0.002037347422431078,
+      "tau": 0.2735006304581796,
+      "pulse_hz": 6.3464633285686975,
+      "drive": 2.3208562854034662,
+      "body_K": 32,
+      "body_mix": 0.42780412509138926,
+      "print_hz": [
+        1674.4303513218292,
+        1171.5819922575608,
+        2327.323752859301,
+        2518.5295482737147
+      ],
+      "print_tau": [
+        0.02,
+        0.02,
+        0.08,
+        0.2
+      ],
+      "print_gain": [
+        0.08036033364749495,
+        0.08035665092417967,
+        0.07215222209339824,
+        0.08617002777217844
+      ],
+      "click": 0.009920383370696128,
+      "curve": 1.3385786839268161
+    },
+    "meta": {
+      "family": "sub",
+      "archetype": "pulse",
+      "loop": false,
+      "descriptor": "pulse40",
+      "print_hz": [
+        1674.4,
+        1171.6,
+        2327.3,
+        2518.5
+      ],
+      "body_K": 32,
+      "root": 39.54,
+      "drive": 2.321,
+      "seed": 1047,
+      "seconds": 0.7267,
+      "peak_dbfs": -6.0,
+      "true_peak_dbtp": -5.99,
+      "lufs": -23.251625275835572,
+      "channels": 1
+    },
+    "wav": "out/_qa/sub/sub_1047.wav",
+    "png": "",
+    "audit": {
+      "file": "/Users/utkarshdixit/sfx-pack/out/_qa/sub/sub_1047.wav",
+      "seconds": 0.7267,
+      "channels": 1,
+      "peak_dbfs": -6.0,
+      "true_peak_dbtp": -5.99,
+      "lufs": -23.251625266727597,
+      "dc": -0.0,
+      "lf_share": 0.475,
+      "clipped_pct": 0.0,
+      "crest_db": 12.16,
+      "edge": 9.5367431640625e-07,
+      "holes": 0,
+      "flatness": 0.0059,
+      "alias_db": -99.0,
+      "fails": [],
+      "ok": true
+    }
+  },
+  {
+    "id": "sub_1048",
+    "family": "sub",
+    "params": {
+      "archetype": "steady",
+      "root": 57.436161134801104,
+      "dur": 0.29050209005508415,
+      "pitch_mul": 1.1198735590988838,
+      "settle_s": 0.02967460351919798,
+      "attack": 0.0025982489058295416,
+      "tau": 0.04408334898891334,
+      "pulse_hz": 0.0,
+      "drive": 1.8633496488246737,
+      "body_K": 16,
+      "body_mix": 0.41095980325103443,
+      "print_hz": [
+        2342.824664320934,
+        1226.6830193838398,
+        433.5188995622034,
+        4640.014968546785
+      ],
+      "print_tau": [
+        0.02,
+        0.08,
+        0.2,
+        0.02
+      ],
+      "print_gain": [
+        0.06778692759430474,
+        0.08631547716818075,
+        0.07603962270517856,
+        0.050580039985285125
+      ],
+      "click": 0.06783538720424252,
+      "curve": 1.7205558208587235
+    },
+    "meta": {
+      "family": "sub",
+      "archetype": "steady",
+      "loop": false,
+      "descriptor": "steady57",
+      "print_hz": [
+        2342.8,
+        1226.7,
+        433.5,
+        4640.0
+      ],
+      "body_K": 16,
+      "root": 57.44,
+      "drive": 1.863,
+      "seed": 1048,
+      "seconds": 0.2905,
+      "peak_dbfs": -6.0,
+      "true_peak_dbtp": -5.99,
+      "lufs": null,
+      "channels": 1
+    },
+    "wav": "out/_qa/sub/sub_1048.wav",
+    "png": "",
+    "audit": {
+      "file": "/Users/utkarshdixit/sfx-pack/out/_qa/sub/sub_1048.wav",
+      "seconds": 0.2905,
+      "channels": 1,
+      "peak_dbfs": -6.0,
+      "true_peak_dbtp": -5.99,
+      "lufs": null,
+      "dc": -0.0,
+      "lf_share": 0.02,
+      "clipped_pct": 0.0,
+      "crest_db": 11.61,
+      "edge": 1.1205673217773438e-05,
+      "holes": 0,
+      "flatness": 0.0,
+      "alias_db": -99.0,
+      "fails": [],
+      "ok": true
+    }
+  },
+  {
+    "id": "sub_1049",
+    "family": "sub",
+    "params": {
+      "archetype": "pulse",
+      "root": 45.63840501051304,
+      "dur": 0.5336422057312593,
+      "pitch_mul": 1.0314717062789278,
+      "settle_s": 0.04388915988491148,
+      "attack": 0.0012096207310626048,
+      "tau": 0.1807964991736156,
+      "pulse_hz": 10.84705908609316,
+      "drive": 1.7864052199283431,
+      "body_K": 4,
+      "body_mix": 0.5438126866672236,
+      "print_hz": [
+        461.9433256977068,
+        3060.277774917789,
+        1454.7977569738628,
+        3171.236803824705
+      ],
+      "print_tau": [
+        0.08,
+        0.08,
+        0.08,
+        0.2
+      ],
+      "print_gain": [
+        0.07274488269371233,
+        0.07545980320640036,
+        0.0822773865741813,
+        0.089729579764074
+      ],
+      "click": 0.13298283508739253,
+      "curve": 1.1861642198944644
+    },
+    "meta": {
+      "family": "sub",
+      "archetype": "pulse",
+      "loop": false,
+      "descriptor": "pulse46",
+      "print_hz": [
+        461.9,
+        3060.3,
+        1454.8,
+        3171.2
+      ],
+      "body_K": 4,
+      "root": 45.64,
+      "drive": 1.786,
+      "seed": 1049,
+      "seconds": 0.5336,
+      "peak_dbfs": -6.0,
+      "true_peak_dbtp": -5.99,
+      "lufs": -22.6930708796375,
+      "channels": 1
+    },
+    "wav": "out/_qa/sub/sub_1049.wav",
+    "png": "",
+    "audit": {
+      "file": "/Users/utkarshdixit/sfx-pack/out/_qa/sub/sub_1049.wav",
+      "seconds": 0.5336,
+      "channels": 1,
+      "peak_dbfs": -6.0,
+      "true_peak_dbtp": -5.99,
+      "lufs": -22.693070892188572,
+      "dc": -0.0,
+      "lf_share": 0.466,
+      "clipped_pct": 0.0,
+      "crest_db": 12.51,
+      "edge": 3.814697265625e-06,
+      "holes": 0,
+      "flatness": 0.0035,
+      "alias_db": -99.0,
+      "fails": [],
+      "ok": true
+    }
+  },
+  {
+    "id": "sub_1050",
+    "family": "sub",
+    "params": {
+      "archetype": "steady",
+      "root": 33.08772136716367,
+      "dur": 0.5123075874001812,
+      "pitch_mul": 1.3023564255107614,
+      "settle_s": 0.021014928078183358,
+      "attack": 0.003316937460916327,
+      "tau": 0.09179212254250385,
+      "pulse_hz": 0.0,
+      "drive": 2.330449813072037,
+      "body_K": 8,
+      "body_mix": 0.32838881210242016,
+      "print_hz": [
+        1470.188301600829,
+        451.39984249958934,
+        2119.0638809494176,
+        3456.295037227479
+      ],
+      "print_tau": [
+        0.2,
+        0.2,
+        0.02,
+        0.2
+      ],
+      "print_gain": [
+        0.052252090813302135,
+        0.06144424685862449,
+        0.04559531170111048,
+        0.050329999810559495
+      ],
+      "click": 0.048261551997600495,
+      "curve": 1.3765140435739067
+    },
+    "meta": {
+      "family": "sub",
+      "archetype": "steady",
+      "loop": false,
+      "descriptor": "steady33",
+      "print_hz": [
+        1470.2,
+        451.4,
+        2119.1,
+        3456.3
+      ],
+      "body_K": 8,
+      "root": 33.09,
+      "drive": 2.33,
+      "seed": 1050,
+      "seconds": 0.5123,
+      "peak_dbfs": -6.0,
+      "true_peak_dbtp": -5.99,
+      "lufs": -26.07151430892336,
+      "channels": 1
+    },
+    "wav": "out/_qa/sub/sub_1050.wav",
+    "png": "",
+    "audit": {
+      "file": "/Users/utkarshdixit/sfx-pack/out/_qa/sub/sub_1050.wav",
+      "seconds": 0.5123,
+      "channels": 1,
+      "peak_dbfs": -6.0,
+      "true_peak_dbtp": -5.99,
+      "lufs": -26.071514381476682,
+      "dc": -0.0,
+      "lf_share": 0.907,
+      "clipped_pct": 0.0,
+      "crest_db": 12.49,
+      "edge": 1.633167266845703e-05,
+      "holes": 0,
+      "flatness": 0.0,
+      "alias_db": -99.0,
+      "fails": [],
+      "ok": true
+    }
+  },
+  {
+    "id": "sub_1051",
+    "family": "sub",
+    "params": {
+      "archetype": "pulse",
+      "root": 40.71434250495976,
+      "dur": 0.8664669170711565,
+      "pitch_mul": 1.1434311511766981,
+      "settle_s": 0.021935409812863293,
+      "attack": 0.0012910666197104312,
+      "tau": 0.42244548393632264,
+      "pulse_hz": 10.73640427917881,
+      "drive": 1.8352746897243664,
+      "body_K": 16,
+      "body_mix": 0.2953441321426682,
+      "print_hz": [
+        711.6226459884314,
+        723.033602853361,
+        669.437272638736,
+        4045.828460885739
+      ],
+      "print_tau": [
+        0.2,
+        0.2,
+        0.02,
+        0.2
+      ],
+      "print_gain": [
+        0.058340177647404796,
+        0.07550771197514425,
+        0.06658618425390025,
+        0.07057437067267577
+      ],
+      "click": 0.024433347295180256,
+      "curve": 1.6542253221150192
+    },
+    "meta": {
+      "family": "sub",
+      "archetype": "pulse",
+      "loop": false,
+      "descriptor": "pulse41",
+      "print_hz": [
+        711.6,
+        723.0,
+        669.4,
+        4045.8
+      ],
+      "body_K": 16,
+      "root": 40.71,
+      "drive": 1.835,
+      "seed": 1051,
+      "seconds": 0.8665,
+      "peak_dbfs": -6.0,
+      "true_peak_dbtp": -5.99,
+      "lufs": -23.512498690640957,
+      "channels": 1
+    },
+    "wav": "out/_qa/sub/sub_1051.wav",
+    "png": "",
+    "audit": {
+      "file": "/Users/utkarshdixit/sfx-pack/out/_qa/sub/sub_1051.wav",
+      "seconds": 0.8665,
+      "channels": 1,
+      "peak_dbfs": -6.0,
+      "true_peak_dbtp": -5.99,
+      "lufs": -23.512498710255013,
+      "dc": -0.0,
+      "lf_share": 0.537,
+      "clipped_pct": 0.0,
+      "crest_db": 11.89,
+      "edge": 0.00012767314910888672,
+      "holes": 0,
+      "flatness": 0.0024,
+      "alias_db": -99.0,
+      "fails": [],
+      "ok": true
+    }
+  },
+  {
+    "id": "sub_1052",
+    "family": "sub",
+    "params": {
+      "archetype": "pulse",
+      "root": 52.02438695046468,
+      "dur": 0.9468719454552151,
+      "pitch_mul": 1.0021288036231633,
+      "settle_s": 0.04247977291406688,
+      "attack": 0.00102355056891963,
+      "tau": 0.29352395887520416,
+      "pulse_hz": 10.864100848088302,
+      "drive": 1.7277122051689506,
+      "body_K": 32,
+      "body_mix": 0.3390250065427467,
+      "print_hz": [
+        3433.170354969794,
+        3705.2890897822986,
+        848.8095682877371,
+        1254.3879612404867
+      ],
+      "print_tau": [
+        0.2,
+        0.02,
+        0.2,
+        0.02
+      ],
+      "print_gain": [
+        0.05468675433275407,
+        0.053938546211233895,
+        0.08229754856025971,
+        0.05755603571080517
+      ],
+      "click": 0.05629486730995681,
+      "curve": 0.769074682335063
+    },
+    "meta": {
+      "family": "sub",
+      "archetype": "pulse",
+      "loop": false,
+      "descriptor": "pulse52",
+      "print_hz": [
+        3433.2,
+        3705.3,
+        848.8,
+        1254.4
+      ],
+      "body_K": 32,
+      "root": 52.02,
+      "drive": 1.728,
+      "seed": 1052,
+      "seconds": 0.9469,
+      "peak_dbfs": -6.0,
+      "true_peak_dbtp": -5.99,
+      "lufs": -23.463807684491766,
+      "channels": 1
+    },
+    "wav": "out/_qa/sub/sub_1052.wav",
+    "png": "",
+    "audit": {
+      "file": "/Users/utkarshdixit/sfx-pack/out/_qa/sub/sub_1052.wav",
+      "seconds": 0.9469,
+      "channels": 1,
+      "peak_dbfs": -6.0,
+      "true_peak_dbtp": -5.99,
+      "lufs": -23.463807693724014,
+      "dc": -0.0,
+      "lf_share": 0.239,
+      "clipped_pct": 0.0,
+      "crest_db": 13.39,
+      "edge": 7.128715515136719e-05,
+      "holes": 0,
+      "flatness": 0.0029,
+      "alias_db": -99.0,
+      "fails": [],
+      "ok": true
+    }
+  },
+  {
+    "id": "sub_1053",
+    "family": "sub",
+    "params": {
+      "archetype": "tail",
+      "root": 40.78090260458842,
+      "dur": 1.1839585867730422,
+      "pitch_mul": 1.0281504706454172,
+      "settle_s": 0.08584859640242283,
+      "attack": 0.019300632857190976,
+      "tau": 0.2977113771608167,
+      "pulse_hz": 0.0,
+      "drive": 2.321852192593928,
+      "body_K": 16,
+      "body_mix": 0.5035937761049939,
+      "print_hz": [
+        607.2106111315804,
+        3389.222116204218,
+        3298.4259125748586,
+        546.6792235993375
+      ],
+      "print_tau": [
+        0.08,
+        0.2,
+        0.02,
+        0.02
+      ],
+      "print_gain": [
+        0.06286718881797627,
+        0.0782101739854593,
+        0.061403924814050125,
+        0.08739898898902947
+      ],
+      "click": 0.00526862172488105,
+      "curve": 0.9418593712770282
+    },
+    "meta": {
+      "family": "sub",
+      "archetype": "tail",
+      "loop": false,
+      "descriptor": "tail41",
+      "print_hz": [
+        607.2,
+        3389.2,
+        3298.4,
+        546.7
+      ],
+      "body_K": 16,
+      "root": 40.78,
+      "drive": 2.322,
+      "seed": 1053,
+      "seconds": 1.184,
+      "peak_dbfs": -6.0,
+      "true_peak_dbtp": -5.99,
+      "lufs": -22.937087263414195,
+      "channels": 1
+    },
+    "wav": "out/_qa/sub/sub_1053.wav",
+    "png": "",
+    "audit": {
+      "file": "/Users/utkarshdixit/sfx-pack/out/_qa/sub/sub_1053.wav",
+      "seconds": 1.184,
+      "channels": 1,
+      "peak_dbfs": -6.0,
+      "true_peak_dbtp": -5.99,
+      "lufs": -22.937087238059256,
+      "dc": -0.0,
+      "lf_share": 0.895,
+      "clipped_pct": 0.0,
+      "crest_db": 11.36,
+      "edge": 4.0650367736816406e-05,
+      "holes": 0,
+      "flatness": 0.0,
+      "alias_db": -99.0,
+      "fails": [],
+      "ok": true
+    }
+  },
+  {
+    "id": "sub_1054",
+    "family": "sub",
+    "params": {
+      "archetype": "pulse",
+      "root": 51.408999543464894,
+      "dur": 0.51487072174369,
+      "pitch_mul": 1.104713772392486,
+      "settle_s": 0.021528795603835384,
+      "attack": 0.0016346193306241226,
+      "tau": 0.21444724504033,
+      "pulse_hz": 4.393671443941095,
+      "drive": 1.3932853212009608,
+      "body_K": 2,
+      "body_mix": 0.3604945165974642,
+      "print_hz": [
+        1460.6107956982207,
+        518.7840831989806,
+        302.7843952250285,
+        1344.3264368974278
+      ],
+      "print_tau": [
+        0.08,
+        0.2,
+        0.2,
+        0.02
+      ],
+      "print_gain": [
+        0.08760209035565371,
+        0.06752318608168899,
+        0.04606543863137273,
+        0.05656311227605851
+      ],
+      "click": 0.04228564899773533,
+      "curve": 1.5092424248659886
+    },
+    "meta": {
+      "family": "sub",
+      "archetype": "pulse",
+      "loop": false,
+      "descriptor": "pulse51",
+      "print_hz": [
+        1460.6,
+        518.8,
+        302.8,
+        1344.3
+      ],
+      "body_K": 2,
+      "root": 51.41,
+      "drive": 1.393,
+      "seed": 1054,
+      "seconds": 0.5149,
+      "peak_dbfs": -6.0,
+      "true_peak_dbtp": -5.99,
+      "lufs": -23.98596698636905,
+      "channels": 1
+    },
+    "wav": "out/_qa/sub/sub_1054.wav",
+    "png": "",
+    "audit": {
+      "file": "/Users/utkarshdixit/sfx-pack/out/_qa/sub/sub_1054.wav",
+      "seconds": 0.5149,
+      "channels": 1,
+      "peak_dbfs": -6.0,
+      "true_peak_dbtp": -5.99,
+      "lufs": -23.98596701347544,
+      "dc": -0.0,
+      "lf_share": 0.264,
+      "clipped_pct": 0.0,
+      "crest_db": 13.71,
+      "edge": 1.800060272216797e-05,
+      "holes": 0,
+      "flatness": 0.0011,
+      "alias_db": -99.0,
+      "fails": [],
+      "ok": true
+    }
+  },
+  {
+    "id": "sub_1055",
+    "family": "sub",
+    "params": {
+      "archetype": "steady",
+      "root": 50.445366495816735,
+      "dur": 0.3674775183376163,
+      "pitch_mul": 1.2497110859439204,
+      "settle_s": 0.033802780866467486,
+      "attack": 0.003362805143636385,
+      "tau": 0.04847959154580543,
+      "pulse_hz": 0.0,
+      "drive": 1.7438344089550573,
+      "body_K": 32,
+      "body_mix": 0.2839161160313174,
+      "print_hz": [
+        2055.3577304511878,
+        472.5912249332283,
+        556.1241012309735,
+        1638.731368841736
+      ],
+      "print_tau": [
+        0.02,
+        0.02,
+        0.08,
+        0.08
+      ],
+      "print_gain": [
+        0.07783236825405143,
+        0.055736823888462975,
+        0.05197954847024103,
+        0.05617772320273468
+      ],
+      "click": 0.12005190447360704,
+      "curve": 1.0635245935520903
+    },
+    "meta": {
+      "family": "sub",
+      "archetype": "steady",
+      "loop": false,
+      "descriptor": "steady50",
+      "print_hz": [
+        2055.4,
+        472.6,
+        556.1,
+        1638.7
+      ],
+      "body_K": 32,
+      "root": 50.45,
+      "drive": 1.744,
+      "seed": 1055,
+      "seconds": 0.3675,
+      "peak_dbfs": -6.0,
+      "true_peak_dbtp": -5.99,
+      "lufs": null,
+      "channels": 1
+    },
+    "wav": "out/_qa/sub/sub_1055.wav",
+    "png": "",
+    "audit": {
+      "file": "/Users/utkarshdixit/sfx-pack/out/_qa/sub/sub_1055.wav",
+      "seconds": 0.3675,
+      "channels": 1,
+      "peak_dbfs": -6.0,
+      "true_peak_dbtp": -5.99,
+      "lufs": null,
+      "dc": -0.0,
+      "lf_share": 0.019,
+      "clipped_pct": 0.0,
+      "crest_db": 11.75,
+      "edge": 3.337860107421875e-06,
+      "holes": 0,
+      "flatness": 0.0,
+      "alias_db": -99.0,
+      "fails": [],
+      "ok": true
+    }
+  },
+  {
+    "id": "sub_1056",
+    "family": "sub",
+    "params": {
+      "archetype": "drop",
+      "root": 39.033470352968834,
+      "dur": 0.8928157312894243,
+      "pitch_mul": 2.6201723981647382,
+      "settle_s": 0.5142742731510737,
+      "attack": 0.007383812261330476,
+      "tau": 0.24115170696007932,
+      "pulse_hz": 0.0,
+      "drive": 1.960312229379166,
+      "body_K": 8,
+      "body_mix": 0.32590499123548744,
+      "print_hz": [
+        2377.162153890743,
+        1512.826230308594,
+        568.4890760193646,
+        2445.5571215118152
+      ],
+      "print_tau": [
+        0.08,
+        0.2,
+        0.2,
+        0.02
+      ],
+      "print_gain": [
+        0.07065324405117011,
+        0.07968861799364232,
+        0.08701944934718264,
+        0.062000654745332034
+      ],
+      "click": 0.01428707144154998,
+      "curve": 1.084959645425893
+    },
+    "meta": {
+      "family": "sub",
+      "archetype": "drop",
+      "loop": false,
+      "descriptor": "drop39",
+      "print_hz": [
+        2377.2,
+        1512.8,
+        568.5,
+        2445.6
+      ],
+      "body_K": 8,
+      "root": 39.03,
+      "drive": 1.96,
+      "seed": 1056,
+      "seconds": 0.8928,
+      "peak_dbfs": -6.0,
+      "true_peak_dbtp": -5.99,
+      "lufs": -19.907089132490306,
+      "channels": 1
+    },
+    "wav": "out/_qa/sub/sub_1056.wav",
+    "png": "",
+    "audit": {
+      "file": "/Users/utkarshdixit/sfx-pack/out/_qa/sub/sub_1056.wav",
+      "seconds": 0.8928,
+      "channels": 1,
+      "peak_dbfs": -6.0,
+      "true_peak_dbtp": -5.99,
+      "lufs": -19.907089129701024,
+      "dc": -0.0,
+      "lf_share": 0.048,
+      "clipped_pct": 0.0,
+      "crest_db": 10.58,
+      "edge": 5.841255187988281e-05,
+      "holes": 0,
+      "flatness": 0.0,
+      "alias_db": -99.0,
+      "fails": [],
+      "ok": true
+    }
+  },
+  {
+    "id": "sub_1057",
+    "family": "sub",
+    "params": {
+      "archetype": "pulse",
+      "root": 53.91785129726961,
+      "dur": 0.6221710634075706,
+      "pitch_mul": 1.1369031568552475,
+      "settle_s": 0.03218480782245953,
+      "attack": 0.001453118906214084,
+      "tau": 0.2397912102604114,
+      "pulse_hz": 9.146022920571795,
+      "drive": 1.5309803961998694,
+      "body_K": 2,
+      "body_mix": 0.25594342042661383,
+      "print_hz": [
+        1782.1961860292363,
+        2529.4868221404454,
+        1989.8474299060128,
+        369.73254693158515
+      ],
+      "print_tau": [
+        0.2,
+        0.02,
+        0.08,
+        0.08
+      ],
+      "print_gain": [
+        0.06340134073062335,
+        0.06415441734195831,
+        0.07355947477080349,
+        0.04191576688419413
+      ],
+      "click": 0.10822578645026489,
+      "curve": 1.7642253629566114
+    },
+    "meta": {
+      "family": "sub",
+      "archetype": "pulse",
+      "loop": false,
+      "descriptor": "pulse54",
+      "print_hz": [
+        1782.2,
+        2529.5,
+        1989.8,
+        369.7
+      ],
+      "body_K": 2,
+      "root": 53.92,
+      "drive": 1.531,
+      "seed": 1057,
+      "seconds": 0.6222,
+      "peak_dbfs": -6.0,
+      "true_peak_dbtp": -5.99,
+      "lufs": -22.26790859097407,
+      "channels": 1
+    },
+    "wav": "out/_qa/sub/sub_1057.wav",
+    "png": "",
+    "audit": {
+      "file": "/Users/utkarshdixit/sfx-pack/out/_qa/sub/sub_1057.wav",
+      "seconds": 0.6222,
+      "channels": 1,
+      "peak_dbfs": -6.0,
+      "true_peak_dbtp": -5.99,
+      "lufs": -22.2679085921556,
+      "dc": -0.0,
+      "lf_share": 0.103,
+      "clipped_pct": 0.0,
+      "crest_db": 12.24,
+      "edge": 2.562999725341797e-05,
+      "holes": 0,
+      "flatness": 0.0039,
+      "alias_db": -99.0,
+      "fails": [],
+      "ok": true
+    }
+  },
+  {
+    "id": "sub_1058",
+    "family": "sub",
+    "params": {
+      "archetype": "tail",
+      "root": 27.40782930156263,
+      "dur": 1.282351396862879,
+      "pitch_mul": 1.0532426969497093,
+      "settle_s": 0.039510952182089804,
+      "attack": 0.01377915030486819,
+      "tau": 0.32422308386721793,
+      "pulse_hz": 0.0,
+      "drive": 2.383604685668233,
+      "body_K": 16,
+      "body_mix": 0.525360486718173,
+      "print_hz": [
+        1205.4967657831305,
+        1703.0584861778846,
+        1109.2378262297532,
+        4404.925150551698
+      ],
+      "print_tau": [
+        0.2,
+        0.02,
+        0.2,
+        0.02
+      ],
+      "print_gain": [
+        0.06990995886943605,
+        0.04755881439209237,
+        0.08337214255656132,
+        0.047619587171183815
+      ],
+      "click": 0.018941074817203002,
+      "curve": 1.5756608530834035
+    },
+    "meta": {
+      "family": "sub",
+      "archetype": "tail",
+      "loop": false,
+      "descriptor": "tail27",
+      "print_hz": [
+        1205.5,
+        1703.1,
+        1109.2,
+        4404.9
+      ],
+      "body_K": 16,
+      "root": 27.41,
+      "drive": 2.384,
+      "seed": 1058,
+      "seconds": 1.2823,
+      "peak_dbfs": -6.0,
+      "true_peak_dbtp": -5.99,
+      "lufs": -24.68170636825211,
+      "channels": 1
+    },
+    "wav": "out/_qa/sub/sub_1058.wav",
+    "png": "",
+    "audit": {
+      "file": "/Users/utkarshdixit/sfx-pack/out/_qa/sub/sub_1058.wav",
+      "seconds": 1.2823,
+      "channels": 1,
+      "peak_dbfs": -6.0,
+      "true_peak_dbtp": -5.99,
+      "lufs": -24.68170638550457,
+      "dc": -0.0,
+      "lf_share": 0.86,
+      "clipped_pct": 0.0,
+      "crest_db": 10.75,
+      "edge": 6.222724914550781e-05,
+      "holes": 0,
+      "flatness": 0.0,
+      "alias_db": -99.0,
+      "fails": [],
+      "ok": true
+    }
+  },
+  {
+    "id": "sub_1059",
+    "family": "sub",
+    "params": {
+      "archetype": "steady",
+      "root": 42.462638515244954,
+      "dur": 0.38947969726876075,
+      "pitch_mul": 1.3346172789835138,
+      "settle_s": 0.05837912904928247,
+      "attack": 0.003775417767538432,
+      "tau": 0.05781945612415549,
+      "pulse_hz": 0.0,
+      "drive": 1.8523652098962335,
+      "body_K": 16,
+      "body_mix": 0.3769316786107913,
+      "print_hz": [
+        312.7486171481695,
+        551.0696749846874,
+        750.8914703179739,
+        1818.4337341644477
+      ],
+      "print_tau": [
+        0.08,
+        0.02,
+        0.02,
+        0.2
+      ],
+      "print_gain": [
+        0.0839135006044697,
+        0.0694765573392448,
+        0.05157122444234752,
+        0.07146242861297482
+      ],
+      "click": 0.10958556584387373,
+      "curve": 1.0252110815811994
+    },
+    "meta": {
+      "family": "sub",
+      "archetype": "steady",
+      "loop": false,
+      "descriptor": "steady42",
+      "print_hz": [
+        312.7,
+        551.1,
+        750.9,
+        1818.4
+      ],
+      "body_K": 16,
+      "root": 42.46,
+      "drive": 1.852,
+      "seed": 1059,
+      "seconds": 0.3895,
+      "peak_dbfs": -6.0,
+      "true_peak_dbtp": -5.99,
+      "lufs": null,
+      "channels": 1
+    },
+    "wav": "out/_qa/sub/sub_1059.wav",
+    "png": "",
+    "audit": {
+      "file": "/Users/utkarshdixit/sfx-pack/out/_qa/sub/sub_1059.wav",
+      "seconds": 0.3895,
+      "channels": 1,
+      "peak_dbfs": -6.0,
+      "true_peak_dbtp": -5.99,
+      "lufs": null,
+      "dc": -0.0,
+      "lf_share": 0.437,
+      "clipped_pct": 0.0,
+      "crest_db": 11.83,
+      "edge": 7.152557373046875e-07,
+      "holes": 0,
+      "flatness": 0.0,
+      "alias_db": -99.0,
+      "fails": [],
+      "ok": true
+    }
+  },
+  {
+    "id": "sub_1060",
+    "family": "sub",
+    "params": {
+      "archetype": "steady",
+      "root": 49.46026245147236,
+      "dur": 0.36198835337454616,
+      "pitch_mul": 1.3184599337457343,
+      "settle_s": 0.022130954444443126,
+      "attack": 0.0013303120954890413,
+      "tau": 0.070824381397519,
+      "pulse_hz": 0.0,
+      "drive": 2.1769824416484282,
+      "body_K": 8,
+      "body_mix": 0.46470408949794906,
+      "print_hz": [
+        4777.475838789592,
+        958.2863818285416,
+        393.01654178192985,
+        1835.2017645857952
+      ],
+      "print_tau": [
+        0.02,
+        0.2,
+        0.08,
+        0.02
+      ],
+      "print_gain": [
+        0.08724321495124898,
+        0.05839791323537838,
+        0.05383692236175664,
+        0.05028077248613121
+      ],
+      "click": 0.09318318140346539,
+      "curve": 1.0023943896105165
+    },
+    "meta": {
+      "family": "sub",
+      "archetype": "steady",
+      "loop": false,
+      "descriptor": "steady49",
+      "print_hz": [
+        4777.5,
+        958.3,
+        393.0,
+        1835.2
+      ],
+      "body_K": 8,
+      "root": 49.46,
+      "drive": 2.177,
+      "seed": 1060,
+      "seconds": 0.362,
+      "peak_dbfs": -6.0,
+      "true_peak_dbtp": -5.99,
+      "lufs": null,
+      "channels": 1
+    },
+    "wav": "out/_qa/sub/sub_1060.wav",
+    "png": "",
+    "audit": {
+      "file": "/Users/utkarshdixit/sfx-pack/out/_qa/sub/sub_1060.wav",
+      "seconds": 0.362,
+      "channels": 1,
+      "peak_dbfs": -6.0,
+      "true_peak_dbtp": -5.99,
+      "lufs": null,
+      "dc": -0.0,
+      "lf_share": 0.048,
+      "clipped_pct": 0.0,
+      "crest_db": 12.14,
+      "edge": 9.5367431640625e-06,
+      "holes": 0,
+      "flatness": 0.0,
+      "alias_db": -99.0,
+      "fails": [],
+      "ok": true
+    }
+  },
+  {
+    "id": "sub_1061",
+    "family": "sub",
+    "params": {
+      "archetype": "drop",
+      "root": 27.94805116009411,
+      "dur": 0.7394704977019655,
+      "pitch_mul": 3.1360398447999165,
+      "settle_s": 0.5849468610490236,
+      "attack": 0.004984008060730335,
+      "tau": 0.1692310799181649,
+      "pulse_hz": 0.0,
+      "drive": 2.0231979437501684,
+      "body_K": 32,
+      "body_mix": 0.4534165828491099,
+      "print_hz": [
+        2882.508822065844,
+        1267.9914006071683,
+        4034.2446002144775,
+        528.1559959502891
+      ],
+      "print_tau": [
+        0.08,
+        0.2,
+        0.02,
+        0.2
+      ],
+      "print_gain": [
+        0.055235335763871164,
+        0.04311746910760412,
+        0.08849999789333005,
+        0.05235626338575994
+      ],
+      "click": 0.13206037004691537,
+      "curve": 1.4419992530478387
+    },
+    "meta": {
+      "family": "sub",
+      "archetype": "drop",
+      "loop": false,
+      "descriptor": "drop28",
+      "print_hz": [
+        2882.5,
+        1268.0,
+        4034.2,
+        528.2
+      ],
+      "body_K": 32,
+      "root": 27.95,
+      "drive": 2.023,
+      "seed": 1061,
+      "seconds": 0.7395,
+      "peak_dbfs": -6.0,
+      "true_peak_dbtp": -5.99,
+      "lufs": -20.690120048141317,
+      "channels": 1
+    },
+    "wav": "out/_qa/sub/sub_1061.wav",
+    "png": "",
+    "audit": {
+      "file": "/Users/utkarshdixit/sfx-pack/out/_qa/sub/sub_1061.wav",
+      "seconds": 0.7395,
+      "channels": 1,
+      "peak_dbfs": -6.0,
+      "true_peak_dbtp": -5.99,
+      "lufs": -20.690120059469738,
+      "dc": -0.0,
+      "lf_share": 0.034,
+      "clipped_pct": 0.0,
+      "crest_db": 11.89,
+      "edge": 4.57763671875e-05,
+      "holes": 0,
+      "flatness": 0.0,
+      "alias_db": -99.0,
+      "fails": [],
+      "ok": true
+    }
+  },
+  {
+    "id": "sub_1062",
+    "family": "sub",
+    "params": {
+      "archetype": "drop",
+      "root": 40.067029081996175,
+      "dur": 0.9001748965144646,
+      "pitch_mul": 2.5365002431382173,
+      "settle_s": 0.2867640963723865,
+      "attack": 0.006110318131639965,
+      "tau": 0.18527467909979414,
+      "pulse_hz": 0.0,
+      "drive": 1.6544757065139406,
+      "body_K": 32,
+      "body_mix": 0.25286750262630114,
+      "print_hz": [
+        2089.913521664742,
+        2892.9927817181574,
+        3846.5637974041892,
+        333.2471568274588
+      ],
+      "print_tau": [
+        0.02,
+        0.08,
+        0.02,
+        0.2
+      ],
+      "print_gain": [
+        0.04945062441241636,
+        0.04811300768301771,
+        0.08016176160797843,
+        0.07220948553896447
+      ],
+      "click": 0.001930906431248247,
+      "curve": 1.0760425431223086
+    },
+    "meta": {
+      "family": "sub",
+      "archetype": "drop",
+      "loop": false,
+      "descriptor": "drop40",
+      "print_hz": [
+        2089.9,
+        2893.0,
+        3846.6,
+        333.2
+      ],
+      "body_K": 32,
+      "root": 40.07,
+      "drive": 1.654,
+      "seed": 1062,
+      "seconds": 0.9002,
+      "peak_dbfs": -6.0,
+      "true_peak_dbtp": -5.99,
+      "lufs": -21.788910285291056,
+      "channels": 1
+    },
+    "wav": "out/_qa/sub/sub_1062.wav",
+    "png": "",
+    "audit": {
+      "file": "/Users/utkarshdixit/sfx-pack/out/_qa/sub/sub_1062.wav",
+      "seconds": 0.9002,
+      "channels": 1,
+      "peak_dbfs": -6.0,
+      "true_peak_dbtp": -5.99,
+      "lufs": -21.788910281417458,
+      "dc": -0.0,
+      "lf_share": 0.112,
+      "clipped_pct": 0.0,
+      "crest_db": 12.28,
+      "edge": 1.7404556274414062e-05,
+      "holes": 0,
+      "flatness": 0.0,
+      "alias_db": -99.0,
+      "fails": [],
+      "ok": true
+    }
+  },
+  {
+    "id": "sub_1063",
+    "family": "sub",
+    "params": {
+      "archetype": "steady",
+      "root": 34.738138904248416,
+      "dur": 0.48406362363234423,
+      "pitch_mul": 1.3479501628504926,
+      "settle_s": 0.053415974455084114,
+      "attack": 0.0022834818559126116,
+      "tau": 0.06659345619032435,
+      "pulse_hz": 0.0,
+      "drive": 1.7446877637252636,
+      "body_K": 32,
+      "body_mix": 0.33961514308523,
+      "print_hz": [
+        957.7739150533469,
+        386.8295102009485,
+        736.6637812948868,
+        4722.389123849166
+      ],
+      "print_tau": [
+        0.2,
+        0.08,
+        0.08,
+        0.08
+      ],
+      "print_gain": [
+        0.06278225936948575,
+        0.06613710341225197,
+        0.08041375817351971,
+        0.06045075486966076
+      ],
+      "click": 0.04289203535241824,
+      "curve": 1.7862708882471656
+    },
+    "meta": {
+      "family": "sub",
+      "archetype": "steady",
+      "loop": false,
+      "descriptor": "steady35",
+      "print_hz": [
+        957.8,
+        386.8,
+        736.7,
+        4722.4
+      ],
+      "body_K": 32,
+      "root": 34.74,
+      "drive": 1.745,
+      "seed": 1063,
+      "seconds": 0.4841,
+      "peak_dbfs": -6.0,
+      "true_peak_dbtp": -5.99,
+      "lufs": -26.438267750993283,
+      "channels": 1
+    },
+    "wav": "out/_qa/sub/sub_1063.wav",
+    "png": "",
+    "audit": {
+      "file": "/Users/utkarshdixit/sfx-pack/out/_qa/sub/sub_1063.wav",
+      "seconds": 0.4841,
+      "channels": 1,
+      "peak_dbfs": -6.0,
+      "true_peak_dbtp": -5.99,
+      "lufs": -26.438267772710315,
+      "dc": -0.0,
+      "lf_share": 0.843,
+      "clipped_pct": 0.0,
+      "crest_db": 12.76,
+      "edge": 4.410743713378906e-06,
+      "holes": 0,
+      "flatness": 0.0,
+      "alias_db": -99.0,
+      "fails": [],
+      "ok": true
+    }
+  },
+  {
+    "id": "sub_1064",
+    "family": "sub",
+    "params": {
+      "archetype": "tail",
+      "root": 30.09670685038266,
+      "dur": 1.0444481103442531,
+      "pitch_mul": 1.0434150206528547,
+      "settle_s": 0.03795006618177408,
+      "attack": 0.009632481361614476,
+      "tau": 0.3013680144358324,
+      "pulse_hz": 0.0,
+      "drive": 1.6790394378661184,
+      "body_K": 16,
+      "body_mix": 0.5275080370647205,
+      "print_hz": [
+        1177.116699116371,
+        309.84979499025343,
+        2456.8083525592224,
+        3450.603214563207
+      ],
+      "print_tau": [
+        0.02,
+        0.08,
+        0.2,
+        0.08
+      ],
+      "print_gain": [
+        0.0602219158474137,
+        0.06259709055322735,
+        0.056824822010469976,
+        0.045317212284121576
+      ],
+      "click": 0.13770499669822556,
+      "curve": 0.8691497324432492
+    },
+    "meta": {
+      "family": "sub",
+      "archetype": "tail",
+      "loop": false,
+      "descriptor": "tail30",
+      "print_hz": [
+        1177.1,
+        309.8,
+        2456.8,
+        3450.6
+      ],
+      "body_K": 16,
+      "root": 30.1,
+      "drive": 1.679,
+      "seed": 1064,
+      "seconds": 1.0444,
+      "peak_dbfs": -6.0,
+      "true_peak_dbtp": -5.99,
+      "lufs": -24.50275765029047,
+      "channels": 1
+    },
+    "wav": "out/_qa/sub/sub_1064.wav",
+    "png": "",
+    "audit": {
+      "file": "/Users/utkarshdixit/sfx-pack/out/_qa/sub/sub_1064.wav",
+      "seconds": 1.0444,
+      "channels": 1,
+      "peak_dbfs": -6.0,
+      "true_peak_dbtp": -5.99,
+      "lufs": -24.502757662613266,
+      "dc": -0.0,
+      "lf_share": 0.881,
+      "clipped_pct": 0.0,
+      "crest_db": 10.91,
+      "edge": 6.365776062011719e-05,
+      "holes": 0,
+      "flatness": 0.0,
+      "alias_db": -99.0,
+      "fails": [],
+      "ok": true
+    }
+  },
+  {
+    "id": "sub_1065",
+    "family": "sub",
+    "params": {
+      "archetype": "tail",
+      "root": 27.698126309167655,
+      "dur": 1.0070987771792779,
+      "pitch_mul": 1.0166249520376536,
+      "settle_s": 0.07448074435801987,
+      "attack": 0.015012745415071267,
+      "tau": 0.2547954232403505,
+      "pulse_hz": 0.0,
+      "drive": 1.8398117285887543,
+      "body_K": 32,
+      "body_mix": 0.38445222039440635,
+      "print_hz": [
+        1298.4720852855883,
+        781.6229793536693,
+        4142.353947516189,
+        2156.4541960481115
+      ],
+      "print_tau": [
+        0.2,
+        0.2,
+        0.08,
+        0.2
+      ],
+      "print_gain": [
+        0.0778661059211535,
+        0.04246794467505363,
+        0.08089078432968627,
+        0.07716343446912911
+      ],
+      "click": 0.11425410906283244,
+      "curve": 0.9860570171371326
+    },
+    "meta": {
+      "family": "sub",
+      "archetype": "tail",
+      "loop": false,
+      "descriptor": "tail28",
+      "print_hz": [
+        1298.5,
+        781.6,
+        4142.4,
+        2156.5
+      ],
+      "body_K": 32,
+      "root": 27.7,
+      "drive": 1.84,
+      "seed": 1065,
+      "seconds": 1.0071,
+      "peak_dbfs": -6.0,
+      "true_peak_dbtp": -5.99,
+      "lufs": -24.842555876396577,
+      "channels": 1
+    },
+    "wav": "out/_qa/sub/sub_1065.wav",
+    "png": "",
+    "audit": {
+      "file": "/Users/utkarshdixit/sfx-pack/out/_qa/sub/sub_1065.wav",
+      "seconds": 1.0071,
+      "channels": 1,
+      "peak_dbfs": -6.0,
+      "true_peak_dbtp": -5.99,
+      "lufs": -24.842555887705117,
+      "dc": -0.0,
+      "lf_share": 0.902,
+      "clipped_pct": 0.0,
+      "crest_db": 10.75,
+      "edge": 6.16312026977539e-05,
+      "holes": 0,
+      "flatness": 0.0,
+      "alias_db": -99.0,
+      "fails": [],
+      "ok": true
+    }
+  },
+  {
+    "id": "sub_1066",
+    "family": "sub",
+    "params": {
+      "archetype": "drop",
+      "root": 27.34232164515653,
+      "dur": 1.0923417468661505,
+      "pitch_mul": 3.1135805090511552,
+      "settle_s": 0.46825913143263503,
+      "attack": 0.004320114540698452,
+      "tau": 0.3488012311643395,
+      "pulse_hz": 0.0,
+      "drive": 2.0572646734079783,
+      "body_K": 8,
+      "body_mix": 0.48615247778222065,
+      "print_hz": [
+        3448.0753613073725,
+        3773.8711056894776,
+        1918.0834984750954,
+        2919.4253867375846
+      ],
+      "print_tau": [
+        0.08,
+        0.2,
+        0.02,
+        0.2
+      ],
+      "print_gain": [
+        0.0752428162715652,
+        0.07066851057408,
+        0.040399874057795486,
+        0.05304087002701832
+      ],
+      "click": 0.12271350235164492,
+      "curve": 1.5895684122382958
+    },
+    "meta": {
+      "family": "sub",
+      "archetype": "drop",
+      "loop": false,
+      "descriptor": "drop27",
+      "print_hz": [
+        3448.1,
+        3773.9,
+        1918.1,
+        2919.4
+      ],
+      "body_K": 8,
+      "root": 27.34,
+      "drive": 2.057,
+      "seed": 1066,
+      "seconds": 1.0923,
+      "peak_dbfs": -6.0,
+      "true_peak_dbtp": -5.99,
+      "lufs": -21.567452945785224,
+      "channels": 1
+    },
+    "wav": "out/_qa/sub/sub_1066.wav",
+    "png": "",
+    "audit": {
+      "file": "/Users/utkarshdixit/sfx-pack/out/_qa/sub/sub_1066.wav",
+      "seconds": 1.0923,
+      "channels": 1,
+      "peak_dbfs": -6.0,
+      "true_peak_dbtp": -5.99,
+      "lufs": -21.567452937049133,
+      "dc": -0.0,
+      "lf_share": 0.268,
+      "clipped_pct": 0.0,
+      "crest_db": 11.25,
+      "edge": 8.273124694824219e-05,
+      "holes": 0,
+      "flatness": 0.0,
+      "alias_db": -99.0,
+      "fails": [],
+      "ok": true
+    }
+  },
+  {
+    "id": "sub_1067",
+    "family": "sub",
+    "params": {
+      "archetype": "steady",
+      "root": 33.41034354053487,
+      "dur": 0.564424857358734,
+      "pitch_mul": 1.1641899034543406,
+      "settle_s": 0.050006643799954086,
+      "attack": 0.0022774276072069456,
+      "tau": 0.08745235770903145,
+      "pulse_hz": 0.0,
+      "drive": 2.0201130046814892,
+      "body_K": 8,
+      "body_mix": 0.5026891880730061,
+      "print_hz": [
+        386.10136997410416,
+        649.9041546583721,
+        1217.9514666217542,
+        2220.585155135805
+      ],
+      "print_tau": [
+        0.02,
+        0.08,
+        0.2,
+        0.08
+      ],
+      "print_gain": [
+        0.08272082649014814,
+        0.07894288024131871,
+        0.04908959617156506,
+        0.08353644597803134
+      ],
+      "click": 0.020185878654857298,
+      "curve": 1.2851424742407103
+    },
+    "meta": {
+      "family": "sub",
+      "archetype": "steady",
+      "loop": false,
+      "descriptor": "steady33",
+      "print_hz": [
+        386.1,
+        649.9,
+        1218.0,
+        2220.6
+      ],
+      "body_K": 8,
+      "root": 33.41,
+      "drive": 2.02,
+      "seed": 1067,
+      "seconds": 0.5644,
+      "peak_dbfs": -6.0,
+      "true_peak_dbtp": -5.99,
+      "lufs": -26.355389669122946,
+      "channels": 1
+    },
+    "wav": "out/_qa/sub/sub_1067.wav",
+    "png": "",
+    "audit": {
+      "file": "/Users/utkarshdixit/sfx-pack/out/_qa/sub/sub_1067.wav",
+      "seconds": 0.5644,
+      "channels": 1,
+      "peak_dbfs": -6.0,
+      "true_peak_dbtp": -5.99,
+      "lufs": -26.355389690716017,
+      "dc": -0.0,
+      "lf_share": 0.896,
+      "clipped_pct": 0.0,
+      "crest_db": 11.86,
+      "edge": 1.2159347534179688e-05,
+      "holes": 0,
+      "flatness": 0.0,
+      "alias_db": -99.0,
+      "fails": [],
+      "ok": true
+    }
+  },
+  {
+    "id": "sub_1068",
+    "family": "sub",
+    "params": {
+      "archetype": "tail",
+      "root": 35.69304312781691,
+      "dur": 1.0185825199104213,
+      "pitch_mul": 1.0503096352024703,
+      "settle_s": 0.07971728550260823,
+      "attack": 0.013699958918794069,
+      "tau": 0.3011756478332266,
+      "pulse_hz": 0.0,
+      "drive": 1.3944829073700125,
+      "body_K": 2,
+      "body_mix": 0.3869886976437145,
+      "print_hz": [
+        4090.2844649202775,
+        372.0544053636996,
+        1394.6822437024402,
+        690.7006348460486
+      ],
+      "print_tau": [
+        0.02,
+        0.02,
+        0.2,
+        0.08
+      ],
+      "print_gain": [
+        0.08228367812634026,
+        0.06757681307437703,
+        0.042675959599955085,
+        0.042215433037089536
+      ],
+      "click": 0.006937886043259928,
+      "curve": 0.9730083630002156
+    },
+    "meta": {
+      "family": "sub",
+      "archetype": "tail",
+      "loop": false,
+      "descriptor": "tail36",
+      "print_hz": [
+        4090.3,
+        372.1,
+        1394.7,
+        690.7
+      ],
+      "body_K": 2,
+      "root": 35.69,
+      "drive": 1.394,
+      "seed": 1068,
+      "seconds": 1.0186,
+      "peak_dbfs": -6.0,
+      "true_peak_dbtp": -5.99,
+      "lufs": -23.764385401435273,
+      "channels": 1
+    },
+    "wav": "out/_qa/sub/sub_1068.wav",
+    "png": "",
+    "audit": {
+      "file": "/Users/utkarshdixit/sfx-pack/out/_qa/sub/sub_1068.wav",
+      "seconds": 1.0186,
+      "channels": 1,
+      "peak_dbfs": -6.0,
+      "true_peak_dbtp": -5.99,
+      "lufs": -23.764385399352093,
+      "dc": -0.0,
+      "lf_share": 0.954,
+      "clipped_pct": 0.0,
+      "crest_db": 10.16,
+      "edge": 0.0001081228256225586,
+      "holes": 0,
+      "flatness": 0.0,
+      "alias_db": -99.0,
+      "fails": [],
+      "ok": true
+    }
+  },
+  {
+    "id": "sub_1069",
+    "family": "sub",
+    "params": {
+      "archetype": "steady",
+      "root": 52.326658075560346,
+      "dur": 0.440183546204562,
+      "pitch_mul": 1.1996859865361549,
+      "settle_s": 0.04170556068517243,
+      "attack": 0.00316822793194911,
+      "tau": 0.06279182169462559,
+      "pulse_hz": 0.0,
+      "drive": 1.933537022950714,
+      "body_K": 16,
+      "body_mix": 0.38256152139261873,
+      "print_hz": [
+        677.6573536186328,
+        694.6107344007529,
+        2307.923903678085,
+        1013.1994978348339
+      ],
+      "print_tau": [
+        0.2,
+        0.08,
+        0.08,
+        0.08
+      ],
+      "print_gain": [
+        0.06770169187734147,
+        0.04484633268491562,
+        0.060508014292839266,
+        0.06423042230111485
+      ],
+      "click": 0.05354561662701531,
+      "curve": 1.7368356050461793
+    },
+    "meta": {
+      "family": "sub",
+      "archetype": "steady",
+      "loop": false,
+      "descriptor": "steady52",
+      "print_hz": [
+        677.7,
+        694.6,
+        2307.9,
+        1013.2
+      ],
+      "body_K": 16,
+      "root": 52.33,
+      "drive": 1.934,
+      "seed": 1069,
+      "seconds": 0.4402,
+      "peak_dbfs": -6.0,
+      "true_peak_dbtp": -5.99,
+      "lufs": -21.051845554336307,
+      "channels": 1
+    },
+    "wav": "out/_qa/sub/sub_1069.wav",
+    "png": "",
+    "audit": {
+      "file": "/Users/utkarshdixit/sfx-pack/out/_qa/sub/sub_1069.wav",
+      "seconds": 0.4402,
+      "channels": 1,
+      "peak_dbfs": -6.0,
+      "true_peak_dbtp": -5.99,
+      "lufs": -21.051845544913935,
+      "dc": -0.0,
+      "lf_share": 0.008,
+      "clipped_pct": 0.0,
+      "crest_db": 11.62,
+      "edge": 6.318092346191406e-06,
+      "holes": 0,
+      "flatness": 0.0,
+      "alias_db": -99.0,
+      "fails": [],
+      "ok": true
+    }
+  },
+  {
+    "id": "sub_1070",
+    "family": "sub",
+    "params": {
+      "archetype": "steady",
+      "root": 43.5921791327757,
+      "dur": 0.5807554638609711,
+      "pitch_mul": 1.244587050534113,
+      "settle_s": 0.054380595535699926,
+      "attack": 0.0013241474989159837,
+      "tau": 0.08369267123605084,
+      "pulse_hz": 0.0,
+      "drive": 1.6935155269174855,
+      "body_K": 4,
+      "body_mix": 0.47480852816977864,
+      "print_hz": [
+        698.6475765111512,
+        687.8653598002007,
+        324.74992959091014,
+        1078.74136932427
+      ],
+      "print_tau": [
+        0.2,
+        0.02,
+        0.02,
+        0.2
+      ],
+      "print_gain": [
+        0.089855993324605,
+        0.087660029101303,
+        0.07063005354954975,
+        0.08841981167548905
+      ],
+      "click": 0.0074891345080294654,
+      "curve": 1.1346564840026114
+    },
+    "meta": {
+      "family": "sub",
+      "archetype": "steady",
+      "loop": false,
+      "descriptor": "steady44",
+      "print_hz": [
+        698.6,
+        687.9,
+        324.7,
+        1078.7
+      ],
+      "body_K": 4,
+      "root": 43.59,
+      "drive": 1.694,
+      "seed": 1070,
+      "seconds": 0.5807,
+      "peak_dbfs": -6.0,
+      "true_peak_dbtp": -5.99,
+      "lufs": -23.83583771315541,
+      "channels": 1
+    },
+    "wav": "out/_qa/sub/sub_1070.wav",
+    "png": "",
+    "audit": {
+      "file": "/Users/utkarshdixit/sfx-pack/out/_qa/sub/sub_1070.wav",
+      "seconds": 0.5807,
+      "channels": 1,
+      "peak_dbfs": -6.0,
+      "true_peak_dbtp": -5.99,
+      "lufs": -23.83583773910699,
+      "dc": -0.0,
+      "lf_share": 0.6,
+      "clipped_pct": 0.0,
+      "crest_db": 12.57,
+      "edge": 3.6954879760742188e-06,
+      "holes": 0,
+      "flatness": 0.0,
+      "alias_db": -99.0,
+      "fails": [],
+      "ok": true
+    }
+  },
+  {
+    "id": "sub_1071",
+    "family": "sub",
+    "params": {
+      "archetype": "steady",
+      "root": 43.83377559923489,
+      "dur": 0.515111610470065,
+      "pitch_mul": 1.3395841772047612,
+      "settle_s": 0.034714641406058934,
+      "attack": 0.0019188186713637132,
+      "tau": 0.0946784892075272,
+      "pulse_hz": 0.0,
+      "drive": 2.00170432703084,
+      "body_K": 8,
+      "body_mix": 0.32960974690571754,
+      "print_hz": [
+        4710.125971675313,
+        1622.0937112290676,
+        2175.9897155874532,
+        1357.486403310508
+      ],
+      "print_tau": [
+        0.02,
+        0.08,
+        0.02,
+        0.2
+      ],
+      "print_gain": [
+        0.07442123471960396,
+        0.05407550082286244,
+        0.08161261183259738,
+        0.06996550737337
+      ],
+      "click": 0.13727252075735177,
+      "curve": 1.537092098712856
+    },
+    "meta": {
+      "family": "sub",
+      "archetype": "steady",
+      "loop": false,
+      "descriptor": "steady44",
+      "print_hz": [
+        4710.1,
+        1622.1,
+        2176.0,
+        1357.5
+      ],
+      "body_K": 8,
+      "root": 43.83,
+      "drive": 2.002,
+      "seed": 1071,
+      "seconds": 0.5151,
+      "peak_dbfs": -6.0,
+      "true_peak_dbtp": -5.99,
+      "lufs": -24.879934131141187,
+      "channels": 1
+    },
+    "wav": "out/_qa/sub/sub_1071.wav",
+    "png": "",
+    "audit": {
+      "file": "/Users/utkarshdixit/sfx-pack/out/_qa/sub/sub_1071.wav",
+      "seconds": 0.5151,
+      "channels": 1,
+      "peak_dbfs": -6.0,
+      "true_peak_dbtp": -5.99,
+      "lufs": -24.879934143121343,
+      "dc": -0.0,
+      "lf_share": 0.668,
+      "clipped_pct": 0.0,
+      "crest_db": 13.17,
+      "edge": 1.1444091796875e-05,
+      "holes": 0,
+      "flatness": 0.0,
+      "alias_db": -99.0,
+      "fails": [],
+      "ok": true
+    }
+  },
+  {
+    "id": "sub_1072",
+    "family": "sub",
+    "params": {
+      "archetype": "steady",
+      "root": 54.73855954198658,
+      "dur": 0.5001596438225521,
+      "pitch_mul": 1.1055220822086504,
+      "settle_s": 0.05285716271686584,
+      "attack": 0.0036561431829888005,
+      "tau": 0.0800101949333049,
+      "pulse_hz": 0.0,
+      "drive": 2.3678976064109367,
+      "body_K": 32,
+      "body_mix": 0.5287066847884351,
+      "print_hz": [
+        3373.106056044516,
+        392.5991005731543,
+        1239.7810403950944,
+        1731.5527237521612
+      ],
+      "print_tau": [
+        0.08,
+        0.2,
+        0.08,
+        0.02
+      ],
+      "print_gain": [
+        0.05732318292351619,
+        0.06572222914090627,
+        0.05380839331013105,
+        0.08896921655469943
+      ],
+      "click": 0.14249384414529412,
+      "curve": 1.333696667612955
+    },
+    "meta": {
+      "family": "sub",
+      "archetype": "steady",
+      "loop": false,
+      "descriptor": "steady55",
+      "print_hz": [
+        3373.1,
+        392.6,
+        1239.8,
+        1731.6
+      ],
+      "body_K": 32,
+      "root": 54.74,
+      "drive": 2.368,
+      "seed": 1072,
+      "seconds": 0.5001,
+      "peak_dbfs": -6.0,
+      "true_peak_dbtp": -5.99,
+      "lufs": -22.600656359491897,
+      "channels": 1
+    },
+    "wav": "out/_qa/sub/sub_1072.wav",
+    "png": "",
+    "audit": {
+      "file": "/Users/utkarshdixit/sfx-pack/out/_qa/sub/sub_1072.wav",
+      "seconds": 0.5001,
+      "channels": 1,
+      "peak_dbfs": -6.0,
+      "true_peak_dbtp": -5.99,
+      "lufs": -22.600656342451675,
+      "dc": -0.0,
+      "lf_share": 0.01,
+      "clipped_pct": 0.0,
+      "crest_db": 12.05,
+      "edge": 1.1086463928222656e-05,
+      "holes": 0,
+      "flatness": 0.0,
+      "alias_db": -99.0,
+      "fails": [],
+      "ok": true
+    }
+  },
+  {
+    "id": "sub_1073",
+    "family": "sub",
+    "params": {
+      "archetype": "steady",
+      "root": 54.38210241109792,
+      "dur": 0.5103109909059633,
+      "pitch_mul": 1.1408438457405568,
+      "settle_s": 0.023317717699527868,
+      "attack": 0.0023529877926225596,
+      "tau": 0.11000677302654666,
+      "pulse_hz": 0.0,
+      "drive": 1.655832488474696,
+      "body_K": 32,
+      "body_mix": 0.272094003540346,
+      "print_hz": [
+        347.6935732630939,
+        4394.731781764266,
+        3077.0555444964834,
+        439.0379319732522
+      ],
+      "print_tau": [
+        0.02,
+        0.08,
+        0.08,
+        0.08
+      ],
+      "print_gain": [
+        0.052991874811229946,
+        0.06611303915987517,
+        0.040465368094508194,
+        0.054381194463264414
+      ],
+      "click": 0.10645045375826981,
+      "curve": 1.6642647306210252
+    },
+    "meta": {
+      "family": "sub",
+      "archetype": "steady",
+      "loop": false,
+      "descriptor": "steady54",
+      "print_hz": [
+        347.7,
+        4394.7,
+        3077.1,
+        439.0
+      ],
+      "body_K": 32,
+      "root": 54.38,
+      "drive": 1.656,
+      "seed": 1073,
+      "seconds": 0.5103,
+      "peak_dbfs": -6.0,
+      "true_peak_dbtp": -5.99,
+      "lufs": -23.205521576545788,
+      "channels": 1
+    },
+    "wav": "out/_qa/sub/sub_1073.wav",
+    "png": "",
+    "audit": {
+      "file": "/Users/utkarshdixit/sfx-pack/out/_qa/sub/sub_1073.wav",
+      "seconds": 0.5103,
+      "channels": 1,
+      "peak_dbfs": -6.0,
+      "true_peak_dbtp": -5.99,
+      "lufs": -23.20552158246414,
+      "dc": -0.0,
+      "lf_share": 0.011,
+      "clipped_pct": 0.0,
+      "crest_db": 12.54,
+      "edge": 2.7418136596679688e-06,
+      "holes": 0,
+      "flatness": 0.0,
+      "alias_db": -99.0,
+      "fails": [],
+      "ok": true
+    }
+  },
+  {
+    "id": "sub_1074",
+    "family": "sub",
+    "params": {
+      "archetype": "steady",
+      "root": 40.449796450995265,
+      "dur": 0.3502693784484202,
+      "pitch_mul": 1.2401582451983626,
+      "settle_s": 0.05887131609578849,
+      "attack": 0.002576839441946818,
+      "tau": 0.05397439053333318,
+      "pulse_hz": 0.0,
+      "drive": 1.402453214985366,
+      "body_K": 8,
+      "body_mix": 0.26789113753924276,
+      "print_hz": [
+        345.6460968937787,
+        463.8179604906305,
+        4153.84980082649,
+        300.92688706498063
+      ],
+      "print_tau": [
+        0.2,
+        0.08,
+        0.2,
+        0.08
+      ],
+      "print_gain": [
+        0.06443716202536044,
+        0.07818495499325386,
+        0.0789122168850302,
+        0.04506715846333239
+      ],
+      "click": 0.09564467142284588,
+      "curve": 0.8921805905415074
+    },
+    "meta": {
+      "family": "sub",
+      "archetype": "steady",
+      "loop": false,
+      "descriptor": "steady40",
+      "print_hz": [
+        345.6,
+        463.8,
+        4153.8,
+        300.9
+      ],
+      "body_K": 8,
+      "root": 40.45,
+      "drive": 1.402,
+      "seed": 1074,
+      "seconds": 0.3503,
+      "peak_dbfs": -6.0,
+      "true_peak_dbtp": -5.99,
+      "lufs": null,
+      "channels": 1
+    },
+    "wav": "out/_qa/sub/sub_1074.wav",
+    "png": "",
+    "audit": {
+      "file": "/Users/utkarshdixit/sfx-pack/out/_qa/sub/sub_1074.wav",
+      "seconds": 0.3503,
+      "channels": 1,
+      "peak_dbfs": -6.0,
+      "true_peak_dbtp": -5.99,
+      "lufs": null,
+      "dc": -0.0,
+      "lf_share": 0.632,
+      "clipped_pct": 0.0,
+      "crest_db": 11.2,
+      "edge": 2.2649765014648438e-06,
+      "holes": 0,
+      "flatness": 0.0,
+      "alias_db": -99.0,
+      "fails": [],
+      "ok": true
+    }
+  },
+  {
+    "id": "sub_1075",
+    "family": "sub",
+    "params": {
+      "archetype": "drop",
+      "root": 44.69281823236479,
+      "dur": 0.8769683260305633,
+      "pitch_mul": 2.9613988228062333,
+      "settle_s": 0.16285370767876395,
+      "attack": 0.0020132172068258723,
+      "tau": 0.2654432834820709,
+      "pulse_hz": 0.0,
+      "drive": 1.7830094813130928,
+      "body_K": 4,
+      "body_mix": 0.5203891707903672,
+      "print_hz": [
+        481.80783344933764,
+        1304.9076116204023,
+        446.12906425567587,
+        518.8418765553582
+      ],
+      "print_tau": [
+        0.02,
+        0.2,
+        0.08,
+        0.02
+      ],
+      "print_gain": [
+        0.0898178968895018,
+        0.061128910909988704,
+        0.06467331322860866,
+        0.060935396480800035
+      ],
+      "click": 0.048543392161367833,
+      "curve": 1.565577795806912
+    },
+    "meta": {
+      "family": "sub",
+      "archetype": "drop",
+      "loop": false,
+      "descriptor": "drop45",
+      "print_hz": [
+        481.8,
+        1304.9,
+        446.1,
+        518.8
+      ],
+      "body_K": 4,
+      "root": 44.69,
+      "drive": 1.783,
+      "seed": 1075,
+      "seconds": 0.877,
+      "peak_dbfs": -6.0,
+      "true_peak_dbtp": -5.99,
+      "lufs": -22.486988852648913,
+      "channels": 1
+    },
+    "wav": "out/_qa/sub/sub_1075.wav",
+    "png": "",
+    "audit": {
+      "file": "/Users/utkarshdixit/sfx-pack/out/_qa/sub/sub_1075.wav",
+      "seconds": 0.877,
+      "channels": 1,
+      "peak_dbfs": -6.0,
+      "true_peak_dbtp": -5.99,
+      "lufs": -22.486988850363417,
+      "dc": -0.0,
+      "lf_share": 0.221,
+      "clipped_pct": 0.0,
+      "crest_db": 12.1,
+      "edge": 6.389617919921875e-05,
+      "holes": 0,
+      "flatness": 0.0,
+      "alias_db": -99.0,
+      "fails": [],
+      "ok": true
+    }
+  },
+  {
+    "id": "sub_1076",
+    "family": "sub",
+    "params": {
+      "archetype": "drop",
+      "root": 34.44690286424325,
+      "dur": 1.1611087656363945,
+      "pitch_mul": 2.191528422528533,
+      "settle_s": 0.400699469971873,
+      "attack": 0.002564594394972172,
+      "tau": 0.25377159194624693,
+      "pulse_hz": 0.0,
+      "drive": 2.5043967021445446,
+      "body_K": 2,
+      "body_mix": 0.3908927714352085,
+      "print_hz": [
+        2315.2198057573714,
+        663.3469117000664,
+        899.3191411002578,
+        1409.910398722448
+      ],
+      "print_tau": [
+        0.2,
+        0.2,
+        0.2,
+        0.2
+      ],
+      "print_gain": [
+        0.06960438241609943,
+        0.06563490232450776,
+        0.04428283940723813,
+        0.06005169013741268
+      ],
+      "click": 0.05326134469358078,
+      "curve": 0.9111843561751907
+    },
+    "meta": {
+      "family": "sub",
+      "archetype": "drop",
+      "loop": false,
+      "descriptor": "drop34",
+      "print_hz": [
+        2315.2,
+        663.3,
+        899.3,
+        1409.9
+      ],
+      "body_K": 2,
+      "root": 34.45,
+      "drive": 2.504,
+      "seed": 1076,
+      "seconds": 1.1611,
+      "peak_dbfs": -6.0,
+      "true_peak_dbtp": -5.99,
+      "lufs": -20.974632688410875,
+      "channels": 1
+    },
+    "wav": "out/_qa/sub/sub_1076.wav",
+    "png": "",
+    "audit": {
+      "file": "/Users/utkarshdixit/sfx-pack/out/_qa/sub/sub_1076.wav",
+      "seconds": 1.1611,
+      "channels": 1,
+      "peak_dbfs": -6.0,
+      "true_peak_dbtp": -5.99,
+      "lufs": -20.974632712585088,
+      "dc": -0.0,
+      "lf_share": 0.237,
+      "clipped_pct": 0.0,
+      "crest_db": 11.39,
+      "edge": 3.5762786865234375e-06,
+      "holes": 0,
+      "flatness": 0.0,
+      "alias_db": -99.0,
+      "fails": [],
+      "ok": true
+    }
+  },
+  {
+    "id": "sub_1077",
+    "family": "sub",
+    "params": {
+      "archetype": "drop",
+      "root": 32.497554627850334,
+      "dur": 0.9017543329686081,
+      "pitch_mul": 3.0833636683219905,
+      "settle_s": 0.36490522618889654,
+      "attack": 0.0044000838423360064,
+      "tau": 0.2297299972722906,
+      "pulse_hz": 0.0,
+      "drive": 1.8691880895622344,
+      "body_K": 16,
+      "body_mix": 0.2909370759373283,
+      "print_hz": [
+        1052.836894748401,
+        2392.9140619702953,
+        1353.0007652798265,
+        1323.9422093515764
+      ],
+      "print_tau": [
+        0.08,
+        0.08,
+        0.02,
+        0.08
+      ],
+      "print_gain": [
+        0.0572356999511696,
+        0.06779332054240603,
+        0.053834121546334324,
+        0.07644898407415296
+      ],
+      "click": 0.04872151914987158,
+      "curve": 1.7611195978642786
+    },
+    "meta": {
+      "family": "sub",
+      "archetype": "drop",
+      "loop": false,
+      "descriptor": "drop32",
+      "print_hz": [
+        1052.8,
+        2392.9,
+        1353.0,
+        1323.9
+      ],
+      "body_K": 16,
+      "root": 32.5,
+      "drive": 1.869,
+      "seed": 1077,
+      "seconds": 0.9018,
+      "peak_dbfs": -6.0,
+      "true_peak_dbtp": -5.99,
+      "lufs": -20.60225688403035,
+      "channels": 1
+    },
+    "wav": "out/_qa/sub/sub_1077.wav",
+    "png": "",
+    "audit": {
+      "file": "/Users/utkarshdixit/sfx-pack/out/_qa/sub/sub_1077.wav",
+      "seconds": 0.9018,
+      "channels": 1,
+      "peak_dbfs": -6.0,
+      "true_peak_dbtp": -5.99,
+      "lufs": -20.60225688899673,
+      "dc": -0.0,
+      "lf_share": 0.159,
+      "clipped_pct": 0.0,
+      "crest_db": 11.13,
+      "edge": 7.224082946777344e-05,
+      "holes": 0,
+      "flatness": 0.0,
+      "alias_db": -99.0,
+      "fails": [],
+      "ok": true
+    }
+  },
+  {
+    "id": "sub_1078",
+    "family": "sub",
+    "params": {
+      "archetype": "steady",
+      "root": 57.39082140605826,
+      "dur": 0.5339618419586237,
+      "pitch_mul": 1.3372971387107133,
+      "settle_s": 0.05239924869816672,
+      "attack": 0.0035233197419673257,
+      "tau": 0.0807156999363174,
+      "pulse_hz": 0.0,
+      "drive": 2.1600491766834153,
+      "body_K": 32,
+      "body_mix": 0.31210108773582185,
+      "print_hz": [
+        2286.9505934889216,
+        1049.777949055461,
+        3201.4025900117585,
+        550.7642704052273
+      ],
+      "print_tau": [
+        0.2,
+        0.08,
+        0.2,
+        0.08
+      ],
+      "print_gain": [
+        0.043081748660089375,
+        0.06992952663034442,
+        0.06556083558311736,
+        0.06656279210834225
+      ],
+      "click": 0.004125369549585578,
+      "curve": 1.3901565901177408
+    },
+    "meta": {
+      "family": "sub",
+      "archetype": "steady",
+      "loop": false,
+      "descriptor": "steady57",
+      "print_hz": [
+        2287.0,
+        1049.8,
+        3201.4,
+        550.8
+      ],
+      "body_K": 32,
+      "root": 57.39,
+      "drive": 2.16,
+      "seed": 1078,
+      "seconds": 0.534,
+      "peak_dbfs": -6.0,
+      "true_peak_dbtp": -5.99,
+      "lufs": -23.181307142578387,
+      "channels": 1
+    },
+    "wav": "out/_qa/sub/sub_1078.wav",
+    "png": "",
+    "audit": {
+      "file": "/Users/utkarshdixit/sfx-pack/out/_qa/sub/sub_1078.wav",
+      "seconds": 0.534,
+      "channels": 1,
+      "peak_dbfs": -6.0,
+      "true_peak_dbtp": -5.99,
+      "lufs": -23.181307144560147,
+      "dc": -0.0,
+      "lf_share": 0.005,
+      "clipped_pct": 0.0,
+      "crest_db": 13.05,
+      "edge": 5.602836608886719e-06,
+      "holes": 0,
+      "flatness": 0.0,
+      "alias_db": -99.0,
+      "fails": [],
+      "ok": true
+    }
+  },
+  {
+    "id": "sub_1079",
+    "family": "sub",
+    "params": {
+      "archetype": "tail",
+      "root": 28.20329170089075,
+      "dur": 1.3885117964971605,
+      "pitch_mul": 1.0731946749919967,
+      "settle_s": 0.07027878221170396,
+      "attack": 0.00907035533916183,
+      "tau": 0.3322044000182642,
+      "pulse_hz": 0.0,
+      "drive": 2.3007296500674586,
+      "body_K": 32,
+      "body_mix": 0.2631987692673579,
+      "print_hz": [
+        2705.122786905063,
+        3029.258238410321,
+        1995.068808649763,
+        747.4639343944908
+      ],
+      "print_tau": [
+        0.2,
+        0.02,
+        0.08,
+        0.02
+      ],
+      "print_gain": [
+        0.07651149771185638,
+        0.061244213224104053,
+        0.042702853662157945,
+        0.07982067131221143
+      ],
+      "click": 0.04941404734861216,
+      "curve": 0.7649243385203347
+    },
+    "meta": {
+      "family": "sub",
+      "archetype": "tail",
+      "loop": false,
+      "descriptor": "tail28",
+      "print_hz": [
+        2705.1,
+        3029.3,
+        1995.1,
+        747.5
+      ],
+      "body_K": 32,
+      "root": 28.2,
+      "drive": 2.301,
+      "seed": 1079,
+      "seconds": 1.3885,
+      "peak_dbfs": -6.0,
+      "true_peak_dbtp": -5.99,
+      "lufs": -24.554023577320162,
+      "channels": 1
+    },
+    "wav": "out/_qa/sub/sub_1079.wav",
+    "png": "",
+    "audit": {
+      "file": "/Users/utkarshdixit/sfx-pack/out/_qa/sub/sub_1079.wav",
+      "seconds": 1.3885,
+      "channels": 1,
+      "peak_dbfs": -6.0,
+      "true_peak_dbtp": -5.99,
+      "lufs": -24.554023585448515,
+      "dc": -0.0,
+      "lf_share": 0.943,
+      "clipped_pct": 0.0,
+      "crest_db": 10.15,
+      "edge": 6.818771362304688e-05,
+      "holes": 0,
+      "flatness": 0.0,
+      "alias_db": -99.0,
+      "fails": [],
+      "ok": true
+    }
+  },
+  {
+    "id": "sub_1080",
+    "family": "sub",
+    "params": {
+      "archetype": "drop",
+      "root": 41.49371348998628,
+      "dur": 0.8010314232351663,
+      "pitch_mul": 2.9342930456150724,
+      "settle_s": 0.4027133881020693,
+      "attack": 0.004273092157953679,
+      "tau": 0.20129962784017044,
+      "pulse_hz": 0.0,
+      "drive": 1.667702055405922,
+      "body_K": 16,
+      "body_mix": 0.46138742269331245,
+      "print_hz": [
+        509.335364700163,
+        2636.2280071787895,
+        4871.418271493934,
+        654.0243144930405
+      ],
+      "print_tau": [
+        0.02,
+        0.02,
+        0.08,
+        0.02
+      ],
+      "print_gain": [
+        0.07829369742974432,
+        0.0614546381175595,
+        0.08614681284282025,
+        0.08989737078453575
+      ],
+      "click": 0.028803685444859548,
+      "curve": 1.1939824408892556
+    },
+    "meta": {
+      "family": "sub",
+      "archetype": "drop",
+      "loop": false,
+      "descriptor": "drop41",
+      "print_hz": [
+        509.3,
+        2636.2,
+        4871.4,
+        654.0
+      ],
+      "body_K": 16,
+      "root": 41.49,
+      "drive": 1.668,
+      "seed": 1080,
+      "seconds": 0.801,
+      "peak_dbfs": -6.0,
+      "true_peak_dbtp": -5.99,
+      "lufs": -20.371781378999376,
+      "channels": 1
+    },
+    "wav": "out/_qa/sub/sub_1080.wav",
+    "png": "",
+    "audit": {
+      "file": "/Users/utkarshdixit/sfx-pack/out/_qa/sub/sub_1080.wav",
+      "seconds": 0.801,
+      "channels": 1,
+      "peak_dbfs": -6.0,
+      "true_peak_dbtp": -5.99,
+      "lufs": -20.371781366097533,
+      "dc": -0.0,
+      "lf_share": 0.041,
+      "clipped_pct": 0.0,
+      "crest_db": 11.44,
+      "edge": 4.2319297790527344e-05,
+      "holes": 0,
+      "flatness": 0.0,
+      "alias_db": -99.0,
+      "fails": [],
+      "ok": true
+    }
+  },
+  {
+    "id": "sub_1081",
+    "family": "sub",
+    "params": {
+      "archetype": "drop",
+      "root": 35.11476221821219,
+      "dur": 0.957392018918756,
+      "pitch_mul": 3.070466460659668,
+      "settle_s": 0.25218120026025764,
+      "attack": 0.007451650579036491,
+      "tau": 0.19451039368919368,
+      "pulse_hz": 0.0,
+      "drive": 1.7887612840828229,
+      "body_K": 4,
+      "body_mix": 0.46757987222412356,
+      "print_hz": [
+        730.0818165804722,
+        511.8878595539698,
+        2148.994102856278,
+        4168.9284397193705
+      ],
+      "print_tau": [
+        0.02,
+        0.02,
+        0.2,
+        0.2
+      ],
+      "print_gain": [
+        0.07113914238789691,
+        0.04703237862024224,
+        0.08016244142576329,
+        0.08647581190629781
+      ],
+      "click": 0.1406467365730022,
+      "curve": 1.765365481122794
+    },
+    "meta": {
+      "family": "sub",
+      "archetype": "drop",
+      "loop": false,
+      "descriptor": "drop35",
+      "print_hz": [
+        730.1,
+        511.9,
+        2149.0,
+        4168.9
+      ],
+      "body_K": 4,
+      "root": 35.11,
+      "drive": 1.789,
+      "seed": 1081,
+      "seconds": 0.9574,
+      "peak_dbfs": -6.0,
+      "true_peak_dbtp": -5.99,
+      "lufs": -20.638606660464504,
+      "channels": 1
+    },
+    "wav": "out/_qa/sub/sub_1081.wav",
+    "png": "",
+    "audit": {
+      "file": "/Users/utkarshdixit/sfx-pack/out/_qa/sub/sub_1081.wav",
+      "seconds": 0.9574,
+      "channels": 1,
+      "peak_dbfs": -6.0,
+      "true_peak_dbtp": -5.99,
+      "lufs": -20.638606659851686,
+      "dc": -0.0,
+      "lf_share": 0.221,
+      "clipped_pct": 0.0,
+      "crest_db": 11.1,
+      "edge": 9.179115295410156e-06,
+      "holes": 0,
+      "flatness": 0.0,
+      "alias_db": -99.0,
+      "fails": [],
+      "ok": true
+    }
+  },
+  {
+    "id": "sub_1082",
+    "family": "sub",
+    "params": {
+      "archetype": "steady",
+      "root": 55.49396863422746,
+      "dur": 0.5965990744605233,
+      "pitch_mul": 1.343373136345071,
+      "settle_s": 0.032530417551210104,
+      "attack": 0.0016698502311136754,
+      "tau": 0.09168488760626305,
+      "pulse_hz": 0.0,
+      "drive": 1.3798822646020101,
+      "body_K": 2,
+      "body_mix": 0.47282062123856067,
+      "print_hz": [
+        1949.5618983234112,
+        3638.9119633634455,
+        591.80626003252,
+        3021.0619434711352
+      ],
+      "print_tau": [
+        0.02,
+        0.02,
+        0.02,
+        0.02
+      ],
+      "print_gain": [
+        0.05955535947349766,
+        0.07705802687853616,
+        0.0467902727925989,
+        0.04689017117301004
+      ],
+      "click": 0.08969533223461908,
+      "curve": 1.3042949030438158
+    },
+    "meta": {
+      "family": "sub",
+      "archetype": "steady",
+      "loop": false,
+      "descriptor": "steady55",
+      "print_hz": [
+        1949.6,
+        3638.9,
+        591.8,
+        3021.1
+      ],
+      "body_K": 2,
+      "root": 55.49,
+      "drive": 1.38,
+      "seed": 1082,
+      "seconds": 0.5966,
+      "peak_dbfs": -6.0,
+      "true_peak_dbtp": -5.99,
+      "lufs": -23.164001823984886,
+      "channels": 1
+    },
+    "wav": "out/_qa/sub/sub_1082.wav",
+    "png": "",
+    "audit": {
+      "file": "/Users/utkarshdixit/sfx-pack/out/_qa/sub/sub_1082.wav",
+      "seconds": 0.5966,
+      "channels": 1,
+      "peak_dbfs": -6.0,
+      "true_peak_dbtp": -5.99,
+      "lufs": -23.164001816543927,
+      "dc": -0.0,
+      "lf_share": 0.007,
+      "clipped_pct": 0.0,
+      "crest_db": 13.09,
+      "edge": 2.0265579223632812e-06,
+      "holes": 0,
+      "flatness": 0.0,
+      "alias_db": -99.0,
+      "fails": [],
+      "ok": true
+    }
+  },
+  {
+    "id": "sub_1083",
+    "family": "sub",
+    "params": {
+      "archetype": "steady",
+      "root": 55.769378923559785,
+      "dur": 0.282216995513449,
+      "pitch_mul": 1.253945091174131,
+      "settle_s": 0.057475961778961915,
+      "attack": 0.0014585507492383362,
+      "tau": 0.056457922101831155,
+      "pulse_hz": 0.0,
+      "drive": 1.3867660440032967,
+      "body_K": 32,
+      "body_mix": 0.28416034577183585,
+      "print_hz": [
+        535.8251725868765,
+        328.0627553256606,
+        323.29642325935583,
+        514.6155971641233
+      ],
+      "print_tau": [
+        0.2,
+        0.2,
+        0.02,
+        0.02
+      ],
+      "print_gain": [
+        0.07531771105200433,
+        0.046010056849418564,
+        0.058018171528570944,
+        0.07137426741442425
+      ],
+      "click": 0.11654537134959736,
+      "curve": 0.8106768926378312
+    },
+    "meta": {
+      "family": "sub",
+      "archetype": "steady",
+      "loop": false,
+      "descriptor": "steady56",
+      "print_hz": [
+        535.8,
+        328.1,
+        323.3,
+        514.6
+      ],
+      "body_K": 32,
+      "root": 55.77,
+      "drive": 1.387,
+      "seed": 1083,
+      "seconds": 0.2822,
+      "peak_dbfs": -6.0,
+      "true_peak_dbtp": -5.99,
+      "lufs": null,
+      "channels": 1
+    },
+    "wav": "out/_qa/sub/sub_1083.wav",
+    "png": "",
+    "audit": {
+      "file": "/Users/utkarshdixit/sfx-pack/out/_qa/sub/sub_1083.wav",
+      "seconds": 0.2822,
+      "channels": 1,
+      "peak_dbfs": -6.0,
+      "true_peak_dbtp": -5.99,
+      "lufs": null,
+      "dc": -0.0,
+      "lf_share": 0.019,
+      "clipped_pct": 0.0,
+      "crest_db": 11.7,
+      "edge": 2.1457672119140625e-05,
+      "holes": 0,
+      "flatness": 0.0,
+      "alias_db": -99.0,
+      "fails": [],
+      "ok": true
+    }
+  },
+  {
+    "id": "sub_1084",
+    "family": "sub",
+    "params": {
+      "archetype": "pulse",
+      "root": 45.50446793657619,
+      "dur": 0.8059057758154338,
+      "pitch_mul": 1.0291742652261175,
+      "settle_s": 0.03960747045737,
+      "attack": 0.0021179472350258133,
+      "tau": 0.37215659619562463,
+      "pulse_hz": 9.633271026358356,
+      "drive": 2.588238898792363,
+      "body_K": 32,
+      "body_mix": 0.2738654965382513,
+      "print_hz": [
+        1460.0413560152845,
+        2834.2736774193727,
+        1123.8535558133765,
+        2584.461551273389
+      ],
+      "print_tau": [
+        0.08,
+        0.2,
+        0.08,
+        0.08
+      ],
+      "print_gain": [
+        0.04443722129265845,
+        0.051173869164641714,
+        0.08148283724139181,
+        0.05040002389814496
+      ],
+      "click": 0.08819464017818116,
+      "curve": 1.5482845247978214
+    },
+    "meta": {
+      "family": "sub",
+      "archetype": "pulse",
+      "loop": false,
+      "descriptor": "pulse46",
+      "print_hz": [
+        1460.0,
+        2834.3,
+        1123.9,
+        2584.5
+      ],
+      "body_K": 32,
+      "root": 45.5,
+      "drive": 2.588,
+      "seed": 1084,
+      "seconds": 0.8059,
+      "peak_dbfs": -6.0,
+      "true_peak_dbtp": -5.99,
+      "lufs": -23.229961729686092,
+      "channels": 1
+    },
+    "wav": "out/_qa/sub/sub_1084.wav",
+    "png": "",
+    "audit": {
+      "file": "/Users/utkarshdixit/sfx-pack/out/_qa/sub/sub_1084.wav",
+      "seconds": 0.8059,
+      "channels": 1,
+      "peak_dbfs": -6.0,
+      "true_peak_dbtp": -5.99,
+      "lufs": -23.22996174209068,
+      "dc": -0.0,
+      "lf_share": 0.347,
+      "clipped_pct": 0.0,
+      "crest_db": 12.62,
+      "edge": 4.76837158203125e-06,
+      "holes": 0,
+      "flatness": 0.0016,
+      "alias_db": -99.0,
+      "fails": [],
+      "ok": true
+    }
+  },
+  {
+    "id": "sub_1085",
+    "family": "sub",
+    "params": {
+      "archetype": "steady",
+      "root": 38.4941518308051,
+      "dur": 0.47831586133847265,
+      "pitch_mul": 1.276821577372602,
+      "settle_s": 0.03354803959408232,
+      "attack": 0.0015905492411092744,
+      "tau": 0.10116177957270901,
+      "pulse_hz": 0.0,
+      "drive": 1.4915503293211363,
+      "body_K": 4,
+      "body_mix": 0.4208042452427874,
+      "print_hz": [
+        444.3666643942027,
+        823.4057790625365,
+        366.7612172492188,
+        944.781598732007
+      ],
+      "print_tau": [
+        0.2,
+        0.02,
+        0.08,
+        0.2
+      ],
+      "print_gain": [
+        0.07592807931466279,
+        0.08935724794122353,
+        0.06225597148105692,
+        0.07677365505970707
+      ],
+      "click": 0.11210192582572603,
+      "curve": 1.6901996015400715
+    },
+    "meta": {
+      "family": "sub",
+      "archetype": "steady",
+      "loop": false,
+      "descriptor": "steady38",
+      "print_hz": [
+        444.4,
+        823.4,
+        366.8,
+        944.8
+      ],
+      "body_K": 4,
+      "root": 38.49,
+      "drive": 1.492,
+      "seed": 1085,
+      "seconds": 0.4783,
+      "peak_dbfs": -6.0,
+      "true_peak_dbtp": -5.99,
+      "lufs": -25.346812800625425,
+      "channels": 1
+    },
+    "wav": "out/_qa/sub/sub_1085.wav",
+    "png": "",
+    "audit": {
+      "file": "/Users/utkarshdixit/sfx-pack/out/_qa/sub/sub_1085.wav",
+      "seconds": 0.4783,
+      "channels": 1,
+      "peak_dbfs": -6.0,
+      "true_peak_dbtp": -5.99,
+      "lufs": -25.346812819695476,
+      "dc": -0.0,
+      "lf_share": 0.862,
+      "clipped_pct": 0.0,
+      "crest_db": 12.36,
+      "edge": 2.7060508728027344e-05,
+      "holes": 0,
+      "flatness": 0.0,
+      "alias_db": -99.0,
+      "fails": [],
+      "ok": true
+    }
+  },
+  {
+    "id": "sub_1086",
+    "family": "sub",
+    "params": {
+      "archetype": "pulse",
+      "root": 51.984940874135766,
+      "dur": 0.8253048426886297,
+      "pitch_mul": 1.0864561983922443,
+      "settle_s": 0.026434831662204936,
+      "attack": 0.0010884624033249885,
+      "tau": 0.31506425210701494,
+      "pulse_hz": 10.7057642242115,
+      "drive": 2.5064334751820314,
+      "body_K": 2,
+      "body_mix": 0.25656718212067,
+      "print_hz": [
+        1713.3867098005624,
+        464.5179504556315,
+        1769.078017074931,
+        674.7701234662396
+      ],
+      "print_tau": [
+        0.2,
+        0.08,
+        0.02,
+        0.2
+      ],
+      "print_gain": [
+        0.08959632181955576,
+        0.050007280405404086,
+        0.06649471746228114,
+        0.07624225079425333
+      ],
+      "click": 0.03903603648373087,
+      "curve": 1.3349347697482368
+    },
+    "meta": {
+      "family": "sub",
+      "archetype": "pulse",
+      "loop": false,
+      "descriptor": "pulse52",
+      "print_hz": [
+        1713.4,
+        464.5,
+        1769.1,
+        674.8
+      ],
+      "body_K": 2,
+      "root": 51.98,
+      "drive": 2.506,
+      "seed": 1086,
+      "seconds": 0.8253,
+      "peak_dbfs": -6.0,
+      "true_peak_dbtp": -5.99,
+      "lufs": -22.922763979464882,
+      "channels": 1
+    },
+    "wav": "out/_qa/sub/sub_1086.wav",
+    "png": "",
+    "audit": {
+      "file": "/Users/utkarshdixit/sfx-pack/out/_qa/sub/sub_1086.wav",
+      "seconds": 0.8253,
+      "channels": 1,
+      "peak_dbfs": -6.0,
+      "true_peak_dbtp": -5.99,
+      "lufs": -22.922764002645042,
+      "dc": -0.0,
+      "lf_share": 0.242,
+      "clipped_pct": 0.0,
+      "crest_db": 12.72,
+      "edge": 2.6226043701171875e-06,
+      "holes": 0,
+      "flatness": 0.0033,
+      "alias_db": -99.0,
+      "fails": [],
+      "ok": true
+    }
+  },
+  {
+    "id": "sub_1087",
+    "family": "sub",
+    "params": {
+      "archetype": "steady",
+      "root": 33.00435134642154,
+      "dur": 0.3332314871758441,
+      "pitch_mul": 1.2479700178429975,
+      "settle_s": 0.02056552910317019,
+      "attack": 0.0032836316924047273,
+      "tau": 0.07329920494711899,
+      "pulse_hz": 0.0,
+      "drive": 2.504265645775838,
+      "body_K": 2,
+      "body_mix": 0.2850763506834476,
+      "print_hz": [
+        1009.8660408272129,
+        669.9476046244256,
+        2607.2389893134773,
+        2680.957150776722
+      ],
+      "print_tau": [
+        0.02,
+        0.02,
+        0.08,
+        0.2
+      ],
+      "print_gain": [
+        0.08971656648058926,
+        0.04694668005109405,
+        0.07408036577912214,
+        0.047297146001155456
+      ],
+      "click": 0.10047845116806582,
+      "curve": 1.6317493532843517
+    },
+    "meta": {
+      "family": "sub",
+      "archetype": "steady",
+      "loop": false,
+      "descriptor": "steady33",
+      "print_hz": [
+        1009.9,
+        669.9,
+        2607.2,
+        2681.0
+      ],
+      "body_K": 2,
+      "root": 33.0,
+      "drive": 2.504,
+      "seed": 1087,
+      "seconds": 0.3332,
+      "peak_dbfs": -6.0,
+      "true_peak_dbtp": -5.99,
+      "lufs": null,
+      "channels": 1
+    },
+    "wav": "out/_qa/sub/sub_1087.wav",
+    "png": "",
+    "audit": {
+      "file": "/Users/utkarshdixit/sfx-pack/out/_qa/sub/sub_1087.wav",
+      "seconds": 0.3332,
+      "channels": 1,
+      "peak_dbfs": -6.0,
+      "true_peak_dbtp": -5.99,
+      "lufs": null,
+      "dc": -0.0,
+      "lf_share": 0.927,
+      "clipped_pct": 0.0,
+      "crest_db": 10.04,
+      "edge": 0.00010251998901367188,
+      "holes": 0,
+      "flatness": 0.0,
+      "alias_db": -99.0,
+      "fails": [],
+      "ok": true
+    }
+  },
+  {
+    "id": "sub_1088",
+    "family": "sub",
+    "params": {
+      "archetype": "pulse",
+      "root": 46.5958597561512,
+      "dur": 0.7565691155255686,
+      "pitch_mul": 1.141209011736518,
+      "settle_s": 0.0484191629822489,
+      "attack": 0.0025182032533276086,
+      "tau": 0.3466676642661057,
+      "pulse_hz": 5.772225138292784,
+      "drive": 2.0120817171842944,
+      "body_K": 4,
+      "body_mix": 0.407527792910415,
+      "print_hz": [
+        3507.478266373747,
+        424.13905083831764,
+        2036.632333114916,
+        2127.8601698478856
+      ],
+      "print_tau": [
+        0.08,
+        0.08,
+        0.08,
+        0.2
+      ],
+      "print_gain": [
+        0.06842600255530651,
+        0.07557253676750303,
+        0.07630507399060599,
+        0.06823406335180861
+      ],
+      "click": 0.14293204889598615,
+      "curve": 1.5987963732956352
+    },
+    "meta": {
+      "family": "sub",
+      "archetype": "pulse",
+      "loop": false,
+      "descriptor": "pulse47",
+      "print_hz": [
+        3507.5,
+        424.1,
+        2036.6,
+        2127.9
+      ],
+      "body_K": 4,
+      "root": 46.6,
+      "drive": 2.012,
+      "seed": 1088,
+      "seconds": 0.7566,
+      "peak_dbfs": -6.0,
+      "true_peak_dbtp": -5.99,
+      "lufs": -24.67566113681887,
+      "channels": 1
+    },
+    "wav": "out/_qa/sub/sub_1088.wav",
+    "png": "",
+    "audit": {
+      "file": "/Users/utkarshdixit/sfx-pack/out/_qa/sub/sub_1088.wav",
+      "seconds": 0.7566,
+      "channels": 1,
+      "peak_dbfs": -6.0,
+      "true_peak_dbtp": -5.99,
+      "lufs": -24.675661177787156,
+      "dc": -0.0,
+      "lf_share": 0.269,
+      "clipped_pct": 0.0,
+      "crest_db": 13.44,
+      "edge": 1.2993812561035156e-05,
+      "holes": 0,
+      "flatness": 0.0053,
+      "alias_db": -99.0,
+      "fails": [],
+      "ok": true
+    }
+  },
+  {
+    "id": "sub_1089",
+    "family": "sub",
+    "params": {
+      "archetype": "tail",
+      "root": 31.832655405159382,
+      "dur": 0.9651584366467446,
+      "pitch_mul": 1.0072805964004234,
+      "settle_s": 0.07316905938464904,
+      "attack": 0.0040403540738461335,
+      "tau": 0.2332303376540903,
+      "pulse_hz": 0.0,
+      "drive": 1.9677816444178213,
+      "body_K": 4,
+      "body_mix": 0.3632539758358424,
+      "print_hz": [
+        1268.1674732098918,
+        539.4388874360577,
+        3535.9824572698217,
+        2479.0341453704564
+      ],
+      "print_tau": [
+        0.2,
+        0.02,
+        0.2,
+        0.08
+      ],
+      "print_gain": [
+        0.041239315520083794,
+        0.05787667542023703,
+        0.04139947782056761,
+        0.05213806021397214
+      ],
+      "click": 0.039355246890438254,
+      "curve": 1.5294485576466228
+    },
+    "meta": {
+      "family": "sub",
+      "archetype": "tail",
+      "loop": false,
+      "descriptor": "tail32",
+      "print_hz": [
+        1268.2,
+        539.4,
+        3536.0,
+        2479.0
+      ],
+      "body_K": 4,
+      "root": 31.83,
+      "drive": 1.968,
+      "seed": 1089,
+      "seconds": 0.9651,
+      "peak_dbfs": -6.0,
+      "true_peak_dbtp": -5.99,
+      "lufs": -25.068200931545032,
+      "channels": 1
+    },
+    "wav": "out/_qa/sub/sub_1089.wav",
+    "png": "",
+    "audit": {
+      "file": "/Users/utkarshdixit/sfx-pack/out/_qa/sub/sub_1089.wav",
+      "seconds": 0.9651,
+      "channels": 1,
+      "peak_dbfs": -6.0,
+      "true_peak_dbtp": -5.99,
+      "lufs": -25.068200945798335,
+      "dc": -0.0,
+      "lf_share": 0.936,
+      "clipped_pct": 0.0,
+      "crest_db": 10.92,
+      "edge": 5.1140785217285156e-05,
+      "holes": 0,
+      "flatness": 0.0,
+      "alias_db": -99.0,
+      "fails": [],
+      "ok": true
+    }
+  }
+]

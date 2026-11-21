@@ -1,0 +1,16 @@
+queued: 19:29:56 worker wA booting
+19:30:26 wA start: read CONTRACT, wA brief, laser.py
+19:31:38 impact: first render 12/12 pass audit, 3 near-dups
+19:33:07 boom: first render 12/12 pass audit, 4 near-dups
+19:33:35 sub: first render 3/12 pass audit (dc_offset x9)
+19:37:58 sub: 12/12 pass audit after DC fix; dedup too tight (10 dups), diversifying
+20:00:03 sub: acceptance 12/12 pass, 60/60 pass, 9 near-dups, diversity 51/60 OK
+20:10:32 impact: 60/60 pass, 10 dups, diversity 50/60 OK; first-15ms within 2dB 59/60 (fixed reverb wet-gain)
+20:10:32 boom: 60/60 pass, 21 dups, diversity 39/60 OK; first-15ms median -1.7dB (fixed reverb wet-gain)
+20:12:17 impact ACCEPT 12: impact: 12 rendered, 12 pass audit, 1 near-duplicates, 0.7s (0.06s each) diversity: 11 unique of 12 passing  (target >= 5)  [OK] 
+20:12:19 boom ACCEPT 12: boom: 12 rendered, 12 pass audit, 3 near-duplicates, 1.1s (0.09s each) diversity: 9 unique of 12 passing  (target >= 5)  [OK] 
+20:12:20 sub ACCEPT 12: sub: 12 rendered, 12 pass audit, 2 near-duplicates, 0.8s (0.06s each) diversity: 10 unique of 12 passing  (target >= 5)  [OK] 
+20:12:23 impact ACCEPT 60: impact: 60 rendered, 60 pass audit, 17 near-duplicates, 3.2s (0.05s each) diversity: 43 unique of 60 passing  (target >= 27)  [OK] 
+20:12:29 boom ACCEPT 60: boom: 60 rendered, 60 pass audit, 21 near-duplicates, 4.7s (0.08s each) diversity: 39 unique of 60 passing  (target >= 27)  [OK] 
+20:12:32 sub ACCEPT 60: sub: 60 rendered, 60 pass audit, 19 near-duplicates, 3.2s (0.05s each) diversity: 41 unique of 60 passing  (target >= 27)  [OK] 
+20:12:32 wA DONE: impact, boom, sub delivered; 3 md docs written
